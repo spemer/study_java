@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;0423/src/midterm/exam.java&apos; to &apos;while_test.java&apos;" description="Rename resource &apos;exam.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/midterm/exam.java" name="while_test.java" stamp="1492874428907" updateReferences="true"/>
+</session>

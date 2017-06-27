@@ -1,0 +1,4006 @@
+1 ﻿  considering that :: ～을 고려하건대
+2 frankly speaking :: 솔직히 말하여
+3 consider :: 고려하다/ 간주하다
+4 consideration :: 고려/ 생각
+5 considerable :: 상당한
+6 last :: 마지막/ 지난 계속하다
+7 society :: 사회
+8 social :: 사회적인
+9 sociable :: 사교적인
+10 socialize :: 사회화하다
+11 statement :: 진술
+12 state :: / 상태/ 진술하다
+13 explain :: 설명하다
+14 explanation :: 설명
+15 rib :: 갈비뼈
+16 instead of :: ～대신에
+17 invent :: 발명하다/ 만들다
+18 invention :: 발명
+19 female :: 여성의
+20 male :: 남성의
+21 in the first place :: 처음으로
+22 at first :: 처음에는
+23 inheritance :: 유전/ 유산
+24 inherit :: 상속하다/ 이어받다
+25 symbol :: 상징/ 징표
+26 symbolic :: 상징적인
+27 castle :: 성
+28 reinforce :: 강화시키다
+29 religious :: 종교적인
+30 religion :: 종교
+31 region :: 지역
+32 regional :: 지역적인
+33 train :: 기차/ 훈련시키다
+34 training :: 훈련
+35 trainer :: 훈련자
+36 educational :: 교육적인
+37 education :: 교육
+38 press :: 누르다/ 언론/ 출판
+39 oppress :: 억압하다
+40 oppression :: 억압
+41 suppress :: 저하시키다
+42 suppression :: 저하/ 의기소침
+43 law :: 법
+44 lawful :: 법적인
+45 legal :: 합법적인
+46 illegal :: 불법적인
+47 recently :: 최근에
+48 universally :: 보편적으로/ 일반적으로
+49 universal :: 우주의/ 일반적인
+50 endow :: 부여하다/ 기부하다
+51 endowment :: 기부/ 기증
+52 intelligent :: 지적인
+53 enlighten :: 계몽시키다 개화시키다
+54 vote :: 투표/ 투표하다
+55 nature :: 자연/ 본능/ 본성
+56 natural :: 자연의/ 본능적인/ 당연한
+57 by nature :: 본래/ 출생부터
+58 superior :: ～보다 우수한
+59 superiority :: 우수/ 우월감
+60 inferior :: 열등한
+61 inferiority :: 열등/ 열등의식
+62 especially :: 특히
+63 on the other hand :: 한편
+64 statue :: 동상
+65 the statue of liberty :: 자유의 여신상
+66 status :: 지위/ 신분
+67 social status :: 사회적 지위
+68 innately :: 본래/ 선천적으로
+69 barbarian :: 야만인
+70 slavery :: 노예
+71 enslave :: 노예로 만들다
+72 justify :: 정당화하다
+73 just :: 정당한/ 공평한
+74 justice :: 정의
+75 master :: 주인
+76 familiarize :: 알다/ 친숙하게 하다
+77 be familiar with :: ～과 친숙하다
+78 moslem :: 회교도의
+79 holiday :: 휴일/ 휴가
+80 vacation :: 휴일/ 휴가
+81 vocation :: 직업
+82 avoid :: 피하다
+83 workweek :: 週노동일
+84 weekend :: 주말
+85 practice :: 관행/ 습관/연습하다
+86 leave :: 떠나다/ 남겨두다
+87 share :: 나누다/ 공유하다
+88 appointment :: 약속
+89 make a promise :: 약속하다
+90 appoint :: 지명하다/ 임명하다
+91 appointed :: 정해진/ 약속된
+92 pork :: 돼지고기
+93 beef :: 소고기
+94 meat :: 고기
+95 strict :: 엄격한
+96 strictly :: 엄격하게
+97 religion :: 종교
+98 religious :: 종교적인
+99 region :: 지역
+100 regional :: 지역적인
+101 prohibition :: 금기 사항/ 금지
+102 = keep :: A가 B를 방해하다
+103 against :: 대항하여/ 적대하여
+104 alcoholic :: 술의/ 알코올의
+105 beverage :: 음료
+106 wait for :: 기다리다
+107 wait on :: 시중들다
+108 proper :: 적당한/ 적절한
+109 weapon :: 무기
+110 handshake :: 악수
+111 shake hands :: 악수하다
+112 demonstration :: 표시/ 시위/ 전시
+113 demonstrate :: 표시하다
+114 converse :: 대화하다
+115 conversation :: 대화
+116 peace :: 평화
+117 peaceful :: 평화로운
+118 manner :: 방법/ 태도
+119 manners :: 예의 범절
+120 merely :: 단순히/ 단지
+121 harm :: 손해/ 손상
+122 do ～ harm :: 손해를 주다
+123 do :: ～ good 		이익이 되다
+124 honor :: 명예/ 명성
+125 honorable :: 존경할만한
+126 theory :: 이론
+127 origin :: 기원/ 시초
+128 original :: 시초의/ 원래의/ 독창적인
+129 originate :: 기원이 되다/ 시초가 되다
+130 originality :: 독창성
+131 custom :: 고객/ 단골/ 습관/ 관습
+132 customs :: 관세
+133 customary :: 습관적인/ 통상적인
+134 stab :: 찌르다
+135 prudent :: 신중한/ 사려 깊은
+136 rival :: 라이벌/ 경쟁자
+137 gradually :: 점차로
+138 change :: 변화하다
+139 keep the change. :: 잔돈가지셰요.
+140 universality :: 보편성
+141 universal :: 우주의/ 보편적인
+142 antiquity :: 낡은/ 고색/ 고대
+143 antique :: 옛날의/ 오래된/ 골동품
+144 bag :: 짐/ 수화물
+145 baggage :: 짐/ 수화물
+146 take care of :: ～를 돌보다
+147 how to :: ～ 하는 방법
+148 how to swim :: 수영하는 방법
+149 where to go :: 어디에 갈지
+150 what to see :: 무엇을 볼지
+151 which to choose :: 무엇을 고를지
+152 deal with :: ～ 을 다루다
+153 treat :: 다루다
+154 deal in :: 장사하다
+155 do business :: 장사하다
+156 drown :: 물에 빠지다/ 익사하다
+157 variety :: 다양/ 다양성
+158 vary :: 변하다/ 다양하다
+159 various :: 다양한/ 여러 가지의
+160 variable :: 변수
+161 bathtub :: 욕조/ 목욕탕
+162 tube :: 튜브/ 지하철(영국)
+163 bath :: 목욕/ 욕실
+164 bathe :: ～ 을 목욕시키다
+165 even if :: 비록 ～ 라 할지라도
+166 even though :: 비록 ～ 라 할지라도
+167 as if :: 마치 ～ 처럼
+168 doorbell :: 초인종
+169 poison :: 독
+170 poisonous :: 독이 있는
+171 awful :: 무서운/ 무시무시한
+172 wax :: 왁스
+173 weed :: 잡초
+174 bush :: 잡초/ 잡풀
+175 bottleful :: 병째로
+176 even :: 심지어/ ～조차도
+177 babysitting :: 아기 보기
+178 infantile mortality :: 유아 사망률
+179 infant :: 유아
+180 mortal :: 죽는
+181 mortality :: 사망/ 죽음
+182 immortal :: 죽지 않은/ 불멸의
+183 immortality :: 불멸/ 영원
+184 immortal will :: 불멸의 의지
+185 safety :: 안전
+186 safe :: 안전한/ 금고
+187 territory :: 영역
+188 golden rule :: 황금 법칙
+189 golden saying :: 금언
+190 golden hours :: 골든 아워
+191 get bitten :: 물린다
+192 bite - bit - bitten :: 물다
+193 weakness :: 약함
+194 weak :: 약한/ 허약한
+195 submission :: 굴복/ 항복/ 제출
+196 submit :: 굴복하다/ 제출하다
+197 hand in :: 제출하다
+198 walk :: 산책하다/ 걷다
+199 take a walk :: 산책하다
+200 scare :: 놀라게 하다
+201 be scared at :: ～에 깜짝 놀라다
+202 lean :: 기대다/ 기울이다
+203 appear :: 나타나다/ ～ 인 것 같다
+204 appearance :: 출현/ 외모
+205 weight :: 무게
+206 overweight :: 체중 과다
+207 underweight :: 체중 미달
+208 weigh :: 무게가 나가다
+209 cope :: 대처하다
+210 cope with :: ～ 과 대처하다
+211 aggressive :: 공격적인/ 침략적인
+212 aggressor :: 공격자
+213 aggression :: 공격
+214 make friends with :: 친구가 되다
+215 shake hands with :: 악수하다
+216 change seats with :: 자리를 바꾸다
+217 science :: 과학
+218 scientific :: 과학의
+219 scientifically :: 과학적으로
+220 several :: 여러 가지의
+221 various :: 다양한
+222 development :: 발전
+223 very :: 매우/ 아주(부사)
+224 stimulate :: 자극시키다
+225 stimulation :: 자극
+226 advancement :: 발전/ 진보
+227 advance :: 나아가다/ 발전하다
+228 in advance :: 미리/ 이전에
+229 civilization :: 문명
+230 civilize :: 문명화하다
+231 civilized :: 문명화된
+232 culture :: 문화
+233 cultural :: 문화적인
+234 beneficial :: 이로운
+235 benefit :: 이익/ 혜택
+236 mankind :: 인류/ 인간
+237 moreover :: 더구나/ 게다가
+238 mission :: 사명
+239 raise :: 올리다/ 양육하다/ 모금하다
+240 standard :: 표준
+241 annihilate :: 전멸시키다
+242 obvious :: 명백한
+243 obviously :: 명백하게
+244 instead :: ～ 대신에
+245 mean :: 의미하다/ 작정이다
+246 means :: 재산/ 수단
+247 dignity :: 존엄/ 품위
+248 with dignity :: 존엄 있게/ 품위 있게
+249 nobility :: 귀족/ 숭고/ 고결
+250 noble :: 고상한/ 귀족의
+251 nobleman :: 귀족
+252 responsibility :: 책임/ 의무/ 직책
+253 responsible :: 책임이 있는
+254 safety :: 안전/ 무사
+255 safe :: 안전한/ 무사히
+256 official :: 공식적인
+257 lengthy (=long) :: 긴
+258 digest :: 소화하다/ 요약하다
+259 digestion :: 소화/ 요약
+260 fry :: 기름으로 튀기다/ 프라이하다
+261 relax :: 이완시키다/  쉬다
+262 dull :: 무딘
+263 drowsiness :: 졸림
+264 frequent :: 자주/ 빈번한
+265 frequently :: 자주/ 빈번하게
+266 instructor :: 강사/ 교사
+267 instruct :: 가르치다/ 지시하다
+268 instruction :: 교육/ 지시
+269 instructive :: 교훈적인
+270 chew :: ～ 을 씹다/ 곰곰히 생각하다
+271 chewing gum :: 씹는 껌
+272 chew out :: ～ 을 호되게 꾸짖다
+273 chew up :: ～ 을 엉망으로 부수다
+274 jaw :: 턱
+275 facial :: 얼굴의
+276 face :: 얼굴/ 직면하다
+277 muscle :: 근육
+278 muscular :: 근육의
+279 alert :: 빈틈없는/ 기민한
+280 consideration :: 고려/ 심사/ 숙고
+281 circulation :: 순환
+282 circulate :: 순환하다/ 돌다
+283 fresh :: 신선한
+284 flesh :: 살/ 고기/ 육체
+285 flash :: 섬광/ 불빛
+286 temporarily :: 일시적으로/ 잠시
+287 uncomfortable :: 불편한
+288 comfortable :: 편안한
+289 comfort :: 편한/ 위안/ 편안케 하다
+290 mold :: 형성하다/ 만들다/ 주조하다
+291 kid :: 아이/ 염소
+292 rather :: 다소/ 약간
+293 opinion :: 견해/ 의견/ 주장
+294 self-applause :: 자기 찬사
+295 applaud :: 박수 갈채 하다
+296 applause :: 박수갈채/ 성원
+297 self-control :: 자제
+298 self-conscious :: 자의식의
+299 self-confidence :: 자기확신
+300 recitation :: 설명/ 이야기/ 상술
+301 recite :: ～ 을 상술하다
+302 recitative :: 서술의
+303 achievement :: 성취
+304 pride :: 자만/ 자금
+305 take pride in :: ～을 자랑스럽게 여기다
+306 show off :: ～ 을 자랑하다
+307 throw :: 던지다
+308 ball :: 공
+309 clue :: 단서
+310 ability :: 능력
+311 able :: 능력 있는
+312 capable :: 능력 있는
+313 capability :: 능력
+314 suspect :: 의심하다
+315 suspicion :: 수상/ 의심
+316 suspicious :: 의심하는
+317 blame :: 비난하다
+318 remind :: 생각나게 하다
+319 youngster :: 어린이/ 젊은이
+320 fold :: 접다
+321 unfold :: 펴다/ 펼치다
+322 chest :: 가슴/ 흉곽
+323 close off :: 막다/ 차단하다
+324 close :: 닫다/ 가까운/ 친밀한
+325 tap :: 툭툭 치다
+326 impatient :: 참을성 없는/ 초조한
+327 impatience :: 초조/ 안달
+328 patient :: 인내력 있는/ 환자
+329 patience :: 인내
+330 kneel :: 무릎를 꿇다
+331 bend down :: 굽히다
+332 bend :: 구부리다/ 숙이다
+333 lean against :: ～ 에 기대다
+334 conversation :: 대화/ 회화
+335 converse :: 대화하다
+336 etiquette :: 예절
+337 necessity :: 필요/ 필수품
+338 characteristics :: 특징/ 특성/ 성질
+339 character :: 특징/ 특성/ 등장인물
+340 appropriate :: 적당한/ 적절한
+341 appropriation :: 적당/ 적절
+342 posture :: 자세/ 몸가짐/ 태도
+343 dread :: ～을 매우 두려워하다
+344 dreadful :: 두려운(terrible)
+345 be going to :: ～ 할 예정이다
+346 probably :: 아마
+347 partly :: 부분 적으로
+348 take part in :: ～에 참가하다
+349 play a part in :: ～의 역할을 담당하다
+350 be able to :: ～ 할 수 있다
+351 interact :: 서로 영향을 끼치다
+352 interactive :: 상호 작용하는
+353 positively :: 긍정적으로
+354 negatively :: 부정적으로
+355 elevator :: 승강기/ 엘러베이터
+356 passenger :: 승객
+357 attitude :: 태도/ 습관
+358 be likely to :: ～ 할 것 같다
+359 actually :: 실제로/ 정말로
+360 demand :: 요구하다/ 주장하다
+361 demand and supply :: 수요와 공급
+362 field :: 분야/ 현장/ 현지
+363 factory :: 공장
+364 puzzle :: 당황하게 하다/ 수수깨끼
+365 be puzzled :: 당황하다
+366 be supposed to :: ～ 하기로 되어 있다
+367 vogue :: 유행
+368 have a short vogue :: 단기간 유행하다
+369 education :: 교육
+370 educational :: 교육적인
+371 chiefly :: 주로/ 특히
+372 chief :: 우두머리/ 장/ 주요한
+373 reflect :: 반영하다/ 반사하다
+374 reflection :: 반사/ 반영
+375 long for :: 갈망하다/ 열망하다
+376 longing for :: ～ 에 대한 갈망
+377 mechanic :: 기계공
+378 mechanism :: 기계구조/ 기계화
+379 mechanize :: 기계화하다
+380 graduate :: 졸업하다/ 졸업생/ 대학원생
+381 undergraduate :: 학부생/ 대학생
+382 graduation :: 졸업
+383 not to mention :: ～ 은 말할 것도 없이
+384 instinct :: 본능/ 본성/ 소질
+385 instinctive :: 본능적인/ 천성의
+386 instinctively :: 본능적으로
+387 influence :: 영향을 미치다/ 영향
+388 behavior :: 행동
+389 attitude :: 행동/ 태도
+390 spider :: 거미
+391 spin :: (실.거미줄) 잣다
+392 inborn :: 타고난/ 선천적인
+393 innate :: 선천적인
+394 innately :: 선천적으로
+395 accomplish :: 성취하다/ 완수하다
+396 salmon :: 연어
+397 struggle :: 투쟁/ 싸움
+398 upstream :: 거슬러 올라가다
+399 downstream :: 밑으로 내려가다
+400 stream :: 개울/ 흐름/ 추세/ 경향
+401 current :: 물살/ 흐름/ 현재의
+402 current English :: 시사 영어
+403 override :: 압도하다/ 유린하다
+404 consideration :: 고려사항/ 고려/ 숙고
+405 consider :: 고려하다/ 숙고하다
+406 considerate :: 사려깊은
+407 considerable :: 상당한
+408 special :: 특별한
+409 specialize :: 특별화하다
+410 specialization :: 전문화
+411 institution :: 시설
+412 differ from :: ～ 과 다르다
+413 nurse :: 간호원/ 간호하다
+414 suffer from :: 고통을 받다/ 고민하다
+415 suffering :: 재난/ 고난
+416 incurable :: 고칠 수 없는
+417 cure :: 고치다/ 치유하다
+418 curable :: 고칠 수 있는
+419 recover :: 극복하다
+420 recovery :: 회복
+421 get over :: 회복하다
+422 aim :: 목표/ 목표를 정하다
+423 disease :: 질병/ 병
+424 long-term :: 장기간
+425 term :: 말/ 기간/ 조건/ 사이/ 관계
+426 in terms of :: ～ 에 의하여
+427 handicapped :: 불구의/ 핸디캡이 붙은
+428 the handicapped :: 신체(정신) 장애자
+429 elderly :: 나이 많은/ 연장자
+430 the elderly :: 나이들은 사람들
+431 the young :: 젊은 사람들
+432 dying :: 죽어 가는/ 임종의
+433 death :: 죽음
+434 in contrast :: 반대로/ 대조적으로
+435 on the contrary :: 반대로
+436 limit :: 한정하다/ 제한하다
+437 resource :: 자원/ 수단/ 방책
+438 natural resource :: 천연 자원
+439 ordinary :: 보통의/ 평범한
+440 eruption :: 폭발/ 분화
+441 erupt :: 폭파하다/ 분화하다
+442 volcano :: 화산
+443 misery :: 비참/ 궁핍
+444 miserable :: 비참한/ 궁핍한
+445 throughout :: ～ 을 통틀어서/ 전부
+446 the century :: 세기
+447 century :: 100년/ 1세기
+448 yet :: 아직/ 벌써(문미에서)
+449 in part of :: ～ 의 부분에서
+450 run :: (기계를) 움직이다/ 경영하다
+451 polisher :: 닦는 사람/ 광내는 기구
+452 polish :: ～ 의 윤을 내다
+453 shoe polish :: 구두약
+454 decay :: 부패하다/ 쇠퇴하다
+455 in spite of :: ～ 에도 불구하고
+456 damage :: 손해/ 피해
+457 benefit :: 이롭게 하다
+458 beneficial :: 이로운/ 혜택이 되는
+459 prevent :: 예방하다/ --을 막다
+460 prevent A from B :: A가 B하는 것을 막다
+461 ancient :: 옛날의/ 고대의
+462 ancient times :: 옛날에
+463 measure :: ～ 을 측정하다
+464 exchange :: 교환하다/ 바꾸다
+465 tangibly :: 만져서 알 수 있게
+466 tangible :: 유형의/ 실제의
+467 tangibility :: 명확함/ 확실
+468 intangible :: 무형의
+469 touch :: 만지다
+470 precious :: 값비싼/ 귀중한
+471 precious metal :: 귀금속
+472 barter :: 물물 교환
+473 be replaced by :: ～ 로 대체되다
+474 replace :: 대신하다/ 대체하다
+475 gradually :: 점차/ 차차
+476 transform A into B :: A를 B로 변환시키다
+477 reduce :: 줄이다
+478 decrease :: 감소시키다
+479 increase :: 증가시키다
+480 array :: 배열/ 배열하다
+481 computerize :: 전산화하다
+482 whizz :: 윙윙하며 날다
+483 pour :: 쏟다/ 붓다/ 따르다
+484 pour out tea :: 차를 따르다
+485 promise :: 약속
+486 make a promise :: 약속하다
+487 misbehavior :: 잘못된 행동
+488 behavior :: 행동
+489 dole out :: ～ 을 베풀다/ 주다
+490 goody :: 맛있는 것
+491 reward :: 보수/ 보상/ 사례
+492 in reward for :: ～ 의 상으로
+493 rewarding :: 보답이 있는
+494 bribe :: 뇌물
+495 bride :: 신부
+496 reinforce :: 강화하다/ 촉진하다
+497 offer :: 제안하다/ 제공하다
+498 appreciation :: 평가/ 감사/ 감상
+499 appreciate :: 평가하다/ 감사하다
+500 appreciative :: 감식력이 있는
+501 straighten :: 정리하다/ 정돈하다
+502 straighten up :: 정리하다
+503 playroom :: 놀이방
+504 identify :: 확인하다/ 식별하다
+505 identification :: 신분확인
+506 I/D card :: 신분증
+507 identical :: 동일한
+508 internal :: 내적인
+509 external :: 외적인
+510 satisfaction :: 만족(감)
+511 satisfy :: 만족시키다
+512 satisfactory :: 만족스러운
+513 cure :: 치료하다/ 고치다
+514 curable :: 고칠 수 있는
+515 incurable :: 고칠 수 없는
+516 approach :: 접근하다/ 근접하다
+517 dry spell :: 건기(乾期)
+518 spell :: 철자를 쓰다/ 기간
+519 spelling :: 철자
+520 checkout :: 계산대
+521 complaint :: 불평
+522 complain :: 불평하다
+523 lawn :: 잔디
+524 lawn mower :: 잔디 깎는 기계
+525 withering shrub :: 말라 가는 관목
+526 heat wave :: 熱波(열파) 의 기간
+527 cold front :: 한랭 전선
+528 front :: 정면/ 전선
+529 in front of :: ～ 의 정면에
+530 mercury :: 수은주
+531 plunge :: 곤두박질 치다
+532 freeze :: 얼다/ 냉동시키다
+533 freezer :: 냉각기/ 냉장고
+534 gas-station :: 주유소
+535 attendant :: 점원/ 안내인/ 수행원
+536 attendance :: 참석/ 간호/ 봉사
+537 attend +目 :: ～ 에 참석하다
+538 attend to :: ～ 에 주의하다
+539 attend on :: ～ 에 시중들다
+540 frigid :: 몹시 추운/ 쌀쌀한
+541 weatherman :: 예보관/ 통보관
+542 forecast :: ～ 을 예상하다
+543 predict :: 예상하다/ 예보하다
+544 weather forecasting :: 일기예보
+545 debate :: 토론하다/ 토론
+546 issue :: 논점/ 쟁점/ 출판하다
+547 notice :: 주목/ 관찰/ 주목하다
+548 take notice of :: ～ 을 주목하다
+549 reform :: 개혁하다/ 변혁하다
+550 cause :: 야기시키다
+551 congress :: 국회/ 의회
+552 labor :: 노동
+553 effect :: 효과/ 영향
+554 have an effect on :: 영향을 주다
+555 cage :: (동물의) 우리
+556 tend to :: ～ 하는 경향이 있다
+557 briskly :: 활발하게/ 기운차게
+558 brisk :: 기운찬/ 활기찬
+559 briskness :: 기운참/ 활발
+560 deer :: 사슴
+561 ten deer :: 열 마리 사슴들
+562 glance :: 힐끗 보다
+563 graceful :: 우아한
+564 grace :: 우아/ 은혜/ 은총
+565 gracious :: 상냥한/ 고상한
+566 graciously :: 정중하게
+567 irresistibly :: 어쩔 수 없이
+568 resist :: 저항하다
+569 resistible :: 저항할 수 있는
+570 irresistible :: 저항할 수 없는
+571 resistance :: 저항/ 반항
+572 draw :: 끌다/ 당기다/ 그림을 그리다
+573 gorilla :: 고릴라
+574 strangely :: 이상하게
+575 reassure :: 안심시키다
+576 be reassured at :: ～ 에 안심하다
+577 creature :: 창조물/ 동물/ 산물
+578 create :: ～ 을 창조하다
+579 creation :: 창조
+580 creative :: 창조적인
+581 creator :: 창조자
+582 ultimate :: 최종의/ 궁극적인
+583 ultimately :: 최종적으로/ 마침내
+584 starve :: 굶어 죽다/ 갈망하다
+585 starve for :: 열망하다
+586 starvation :: 아사/ 굶어 죽음
+587 turn to :: 믿다/ ～ 에 의존하다
+588 technique :: 기술
+589 compliment :: 칭찬
+590 complement :: 보충(물)
+591 go about :: 착수하다
+592 for instance :: 예를 들어
+593 praise :: 칭찬하다/ 칭찬
+594 in praise of :: ～ 을 칭찬하여
+595 obvious :: 명백한
+596 obviously :: 명백하게
+597 discernment :: 식별력/ 통찰력
+598 originality :: 독창성
+599 originate :: 기원이 되다
+600 original :: 독창적인
+601 origin :: 근원/ 기원/ 원천
+602 convincing :: 설득력 있는
+603 conviction :: 확신/ 믿음
+604 convince :: 확신시키다
+605 be convinced of :: ～ 을 확신하다
+606 gracious :: 우아한
+607 help :: 돕다/ 피하다
+608 lawyer :: 법률가/ 변호사
+609 law :: 법
+610 attorney :: 검사
+611 merchant :: 상인/ 사업가
+612 unexpected :: 기대하지 못한
+613 expect :: 기대하다
+614 view :: 관점/ 견해
+615 realistic :: 실제적인/ 사실적인
+616 adult :: 성인/ 어른
+617 growing-up :: 청소년
+618 grown-up :: 성인
+619 grow up :: 자라다/ 성장하다
+620 suggestion :: 언급/ 제안/ 암시
+621 suggest :: 제안하다/ 암시하다
+622 suggestive :: 암시적인
+623 develop :: 발전하다/ 진보하다
+624 development :: 발전
+625 as far as :: ～ 하는 한
+626 as soon as :: ～ 하자 마자
+627 capability :: 능력
+628 logically :: 당연히/ 논리적으로
+629 logic :: 리(학)/ 조리/ 이치
+630 logical :: 논리적인
+631 illogical :: 비논리적인
+632 inner :: 안의/ 내부의
+633 inner satisfaction :: 내부 만족
+634 scholar :: 학자
+635 scholarship :: 장학금
+636 sweep :: 청소하다
+637 so far :: 지금까지
+638 So far, so good. :: 지금까지는 좋아.
+639 snobbishly :: 속물스럽게/ 뽐내면서
+640 snob :: 속물
+641 snobbish :: 속물인
+642 neurotic :: 신경증의
+643 neurotically :: 신경질적으로
+644 reassuring :: 안도감을 주는
+645 reassure :: 안심시키다
+646 evidence :: 증거/ 징표/ 증언
+647 evident :: 명백한/ 확실한
+648 evidential :: 증거의
+649 come from :: ～ 로부터 나오다
+650 derive from :: 유래하다
+651 vigorous :: 격렬한
+652 vigor :: 힘/ 활력/ 박력
+653 vigorously :: 발랄하게/ 힘차게
+654 heart attack :: 심장 발작/ 심장 마비
+655 attack :: 공격
+656 completely :: 완전히/ 완벽하게
+657 complete :: 완벽한/ 완벽하게 하다
+658 completion :: 완성/ 성취
+659 fit :: 건강한/ 적당한/ 적합하다
+660 at least :: 적어도
+661 obtain :: 얻다/ 받다/ 획득하다
+662 protection :: 보호/ 방어
+663 protect :: 보호하다
+664 protective :: 보호하는
+665 accept :: 받다/ 인정하다
+666 acceptable :: 수락할 수 있는
+667 acceptance :: 수용/ 인정
+668 forward :: 앞으로/ 전방에
+669 forwarding :: 추진/ 발송
+670 look forward to Ving :: ～ 하기를 고대하다
+671  :: A를 B로부터 자유롭게 하다 (해방시키다)
+672 free :: 자유로운/ 한가한/ 공짜의
+673 freedom :: 자유
+674 preparation :: 준비
+675 prepare :: 준비하다/ 마련하다
+676 future :: 미래
+677 present :: 현재
+678 past :: 과거
+679 self-confidence :: 자기확신
+680 self-control :: 자제
+681 self-respect :: 자존심
+682 foundation :: 기초/ 초석/ 근원
+683 confidence :: 확신/ 자신감
+684 confident :: 확신하는
+685 confidential :: 기밀의
+686 happen :: 일어나다/ 생기다
+687 happening :: 사건
+688 acquaint A with B :: A와 B를 알게 하다
+689 acquaint :: 알리다/ 잘 알게 하다
+690 acquaintance :: 지식/ 아는 사이
+691 knowledgeable :: 지식이 많은
+692 field :: 분야/ 들/ 평야
+693 matter :: 일/ 문제/ 중요하다
+694 It doesn't matter. :: 중요하지 않아.
+695 philosophy :: 철학/ 근본원리
+696 intellectual :: 지능적인/ 총명한
+697 intellect :: 지성/ 지력/ 지능
+698 antichrist :: 反그리스도
+699 antismoking :: 흡연에 반대하는
+700 antisocial :: 反사회적인
+701 statement :: 진술/ 말
+702 textbook :: 교재
+703 publisher :: 출판 업자/ 출판사
+704 publish :: ～ 을 발행하다
+705 publishment :: 출판/ 발행
+706 dull :: 무딘/ 둔한/ 권태로운
+707 dullness :: 둔함/ 단조로움
+708 attractive :: 유혹적인/ 매력적인
+709 attract :: 끌다/ 매력을 주다
+710 attraction :: 매력/ 만유 인력
+711 commission :: (일 따위)를 의뢰하다
+712 colorful :: 천연색의/ 색깔 있는
+713 illustration :: 삽화/ 설명
+714 illustrate :: 설명하다
+715 illustrator :: 삽화가
+716 appeal :: 간청/ 호소하기/ 매력
+717 appealing :: (사람을) 끄는
+718 comparison :: 비교
+719 comparative :: 비교의/ 비교적인
+720 compare A to B :: 비유하다
+721 compare A with B :: 비교하다
+722 vivid :: 생생한/ 선명한
+723 convey :: 수송하다/ 전달하다
+724 conveyance :: 수송/ 전달
+725 information :: 정보
+726 inform :: 알려주다
+727 worse :: (bad, ill의 비교급)
+728 what is worse :: 설상 가상으로
+729 reluctant :: 꺼리는/ 하기 싫어하는
+730 incentive :: 의욕/ 열의
+731 survivor :: 생존자/ 유족
+732 survive :: 살아 남다
+733 survival :: 생존
+734 military :: 군인의
+735 civilian :: 민간인의
+736 nuclear :: 核(핵)
+737 weapon :: 무기
+738 radiation :: 방사능
+739 slow :: 천천히/ 서서히
+740 slow down :: 천천히 하다
+741 treatment :: 처우/ 치료/취급
+742 treat :: 다루다/ 치료하다/ 대접하다
+743 I will treat you. :: 내가 한턱낼게.
+744 injury :: 상처/ 증상
+745 do an injury :: 상처를 입히다
+746 agonizing :: 고통스러운
+747 agony :: 고통
+748 victim :: 희생자/ 환자
+749 probably :: 아마도
+750 immoral :: 비 도덕적인
+751 moral :: 도덕적인
+752 concept :: 개념/ 관념
+753 conceptive :: 개념의
+754 devise :: 고안해 내다
+755 protect :: 방어하다
+756 protection :: 방어
+757 protective :: 방어적인
+758 intellectual :: 지적인
+759 property :: 재산
+760 property right :: 소유권
+761 prosperity :: 번영/ 번창
+762 threaten :: ～ 을 위협하다
+763 threat :: 협박/ 위협
+764 threatening :: 위협하는
+765 ballooning :: 급증하는
+766 ballon :: 경기구/ 기구/ 풍선/ 상승하다
+767 pirated :: 해적의
+768 pirate :: 해적/ 표절자/ 약탈하다
+769 virtually :: 사실상
+770 penalty :: 형벌/ 벌금
+771 penalty kick :: 페널티 킥
+772 trademark :: 상표
+773 trade :: 무역/ 교환/ 직업
+774 patent :: 특허
+775 theft :: 도둑질/ 절도죄
+776 patent theft :: 특허 표절
+777 massive :: 크고 묵직한
+778 mass :: 대중/ 덩어리
+779 mess :: 지저분함/ 더러운 것
+780 civil law :: 민법
+781 civil war :: (미국)남북전쟁
+782 criminal law :: 형법
+783 criminal :: 범죄의
+784 crime :: 죄
+785 relate :: ～ 을 말하다
+786 be related to :: ～ 과 관계되다
+787 relation :: 관계/ 관련
+788 relative :: 관계된/ 친척
+789 copyright :: 저작권
+790 severe :: 엄한/엄격한
+791 severely :: 엄하게/ 엄격하게
+792 severity :: 엄격/ 격렬
+793 coverage :: 적용 범위
+794 expand :: 확대하다
+795 expansion :: 확대/ 팽창
+796 expansive :: 확대하는
+797 update :: 갱신(개정)하다
+798 upgrade :: 승격시키다
+799 uphold :: 올리다/ 지지하다
+800 upside down :: 거꾸로/ 뒤집혀서
+801 professional :: 직업적인
+802 volunteer :: 지원하다
+803 voluntary :: 자발적인
+804 unreasonable :: 불합리한/ 부당한
+805 reason :: 이성/ 이유
+806 resonable :: 합리적인/ 이성적인
+807 request :: 요구/ 주장
+808 exaggeration :: 과장
+809 exaggerate :: 과장하다
+810 strip :: 벗기다/ 해체하다
+811 sell :: 팔다
+812 drug :: 약/ 마약/ 마취제
+813 rob :: 빼앗다/ 약탈하다
+814 robber :: 강도/ 도둑
+815 robbery :: 강도(짓)
+816 lawbreaker :: 범법자
+817 translate :: 번역하다
+818 translation :: 번역
+819 obey :: 복종하다/ 지키다
+820 obedient :: 복종하는/ 순종하는
+821 obedience :: 순종/ 복종
+822 disobedient :: 말안듣는
+823 disobedience :: 순종/ 복종
+824 train :: 훈련/ 연습/ 기차
+825 write down :: 쉽게 쓰다
+826 waste :: 낭비/ 소비/ 쓰레기
+827 attentive :: 주의 깊은
+828 attention :: 주의/ 배려/ 주의력
+829 attendance :: 참석
+830 curious :: 호기심 있는
+831 curiosity :: 호기심
+832 eager :: 열의/ 성의
+833 be eager to :: ～ 을 열망하다
+834 sensitive :: 감수성 있는/ 민감한
+835 sensible :: 분별 있는
+836 quick :: 빠른
+837 fearlessly :: 대담하게
+838 deliberately :: 고의적으로/ 신중히
+839 deliberate :: 심사숙고한/ 신중한
+840 deliberation :: 숙고/ 고려
+841 avoid :: 피하다
+842 ruin :: 파괴/ 파멸/ 손해
+843 ruinous :: 파괴적인
+844 prose :: 산문
+845 verse :: 운문
+846 bore :: 지루하게 하다
+847 bored :: 지루한/ 따분한
+848 throw :: 던지다
+849 context :: 문맥
+850 net :: 네트/ 정가의/ 순수한
+851 absorb :: 몰두하다/ ～을 흡수하다
+852 absorbed :: 열중한/ 빼앗긴
+853 elegant :: 우아한/ 고상한
+854 disguise :: 가장하다/ 숨기다
+855 act :: 행위/ 행실
+856 acting :: 연출/ 연기/ 연극
+857 theater :: 극장
+858 motor coach :: 버스
+859  :: A와 B를 구별하다
+860 harmful :: 해로운
+861 harm :: 해를 끼치다
+862 subconscious :: 잠재의식의
+863 subconsciousness :: 잠재의식
+864 unconscious :: 무의식적인
+865 unconsciousness :: 무의식
+866 conscious :: 의식적인
+867 consciousness :: 의식
+868 fireless :: 불 없는 (not fire)
+869 simmer :: 부글부글 끓다
+870 loaf :: 빈둥거리다(= goof)
+871 gravitation :: 중력
+872 swing :: 흔들다/ 매달다
+873 swinging :: 흔들리는/ 진동하는
+874 lamp :: 램프/ 등/ 등불
+875 a fluorescent lamp :: 형광등
+876 to and fro :: 앞 뒤로
+877 measure :: 측정/ 측량/ 치수
+878 measured :: 측정한
+879 passage :: 경과/ 진행
+880 relax :: 휴식
+881 lift :: ～ 을 들어올리다
+882 conceive :: 마음에 두다
+883 conception :: 개념/ 관념
+884 idle :: 한가한/ 일이 없는
+885 idleness :: 나태/ 빈둥거림
+886 compare :: 비교하다
+887 comparison :: 비교
+888 in comparison :: 비교하여
+889 particularly :: 특히
+890 inequality :: 불평등
+891 equality :: 평등
+892 hunt :: 사냥하다/ 수렵하다
+893 hunting :: 사냥/ 수렵
+894 gather :: 모으다/ 채취하다
+895 gatherer :: 채취자
+896 gathering :: 모임
+897 means :: 수단/ 방법
+898 by means of :: ～ 에 의하여
+899 by no means :: 결코～ 이 아니다
+900 transport :: 수송/ 교통
+901 goods :: 물품
+902 possession :: 소유/ 소지/ 점유
+903 possessive :: 소유의
+904 possess :: 소유하다
+905 weapon :: 무기
+906 tool :: 도구/ 연장
+907 dig :: 땅을 파다/ 탐구하다
+908 trap :: 덫/ 함정/ 올가미
+909 utensil :: (부엌)용기/ 도구
+910 youth :: 젊음
+911 sub-culture :: 하위 문화
+912 corner :: 길 모퉁이/ 코너
+913 ride :: 타다/ 승마하다
+914 get on :: 타다
+915 get off :: 내리다
+916 area :: 지역/ 영역
+917 region :: 지역/ 구역
+918 adult :: 성인
+919 intruder :: 침입자/ 방해자
+920 intrude :: 참견하다/ 들이밀다
+921 unless :: 만약 ～ 이아니라면
+922 personality :: 개성/ 유명 인사
+923 subject to :: ～ 을 당하기 쉬운
+924 subject :: 주제/ 제목/ 과목/ 신하
+925 subjective :: 주관적인
+926 object :: 물건/ 물체/ 목표
+927 objective :: 객관적인
+928 ridicule :: 비웃음/ 조소/ 놀림
+929 ridiculous :: 우스운/ 어리석은
+930 teenager :: 십대
+931 engineer :: 기사/ 기술자
+932 predict :: 예측하다/ 예언하다
+933 prediction :: 예측/ 예상
+934 accurately :: 정확히/ 확실히
+935 accurate :: 정확한
+936 performance :: 수행/ 행동/ 공연
+937 perform :: 공연하다/ 수행하다
+938 full-size :: 실물 크기의
+939 full :: 꽉찬/ 완전한
+940 be full of :: ～ 로 가득 차다
+941 aircraft :: 항공기/ 비행기
+942 behavior :: 행동
+943 behave :: 행동하다
+944 attitude :: 행동
+945 laboratory :: 실험실
+946 uniform :: 한결같은/ 획일적인/ 제복
+947 inanimate :: 생명이 없는
+948 web :: 거미줄
+949 relationship :: 관계
+950 relative :: 관계된/ 친척
+951 relate :: 관련시키다
+952 be related to :: ～과 관계되다
+953 day-to-day :: 날마다
+954 day by day :: 날마다
+955 sociologist :: 사회학자
+956 tear :: 찢다/ 분리하다
+957 shed tears :: 눈물을 흘리다
+958 context :: 情況(정황)/ 상황/ 문맥
+959 contextual :: 문맥상의
+960 mass media :: 대중 전달매체
+961 massive :: 대중의/ 덩어리의
+962 process :: 과정/ 절차
+963 manufacture :: 제작/ 제조
+964 manufacturer :: 제조업자
+965 popular :: 인기 있는/ 대중의
+966 popularity :: 대중성
+967 popularly :: 일반적으로/ 쉽게
+968 resemble :: 유사하다/ 닮다
+969 take after :: 닮다
+970 resemblance :: 유사
+971 refrigerator :: 냉장고
+972 division :: 분배/ 분할/ 나눗셈
+973 division of labor :: 분업화
+974 divide :: 나누다
+975 labor :: 노동/ 일
+976 investment :: 투자/ 지출
+977 invest :: 투자하다
+978 investigate :: 조사하다
+979 investigation :: 조사
+980 capital :: 자본/ 수도/ 주요한
+981 capitalism :: 자본주의
+982 consumer :: 소비자
+983 consume :: 소비하다
+984 available :: 사용할 수 있는
+985 marketplace :: 시장
+986 clear :: 맑은/ 깨끗한/ 순수한
+987 clearance :: 개간/ 개척
+988 forest :: 숲/ 산림/ 산림
+989 rain forest :: 열대 우림
+990 agriculture :: 농업
+991 support :: 지지하다/ 부양하다
+992 huge :: 거대한/ 막대한
+993 nutrient :: 영양분/ 자양분
+994 surprising :: 놀라운/ 의외의
+995 surprise :: 놀람/경악/ 뜻밖의 일
+996 tropical :: 열대의
+997 productivity :: 생산성
+998 production :: 생산
+999 product :: 생산품/ 상품
+1000 remind :: 상기시켜 주다
+1001 affect :: 영향을 미치다/ ～인 체 하다
+1002 affected :: 영향받은
+1003 affection :: 영향/ 감동/ 애정
+1004 affectation :: ～인 체 하기
+1005 great-grandchild :: 증손자
+1006 strive :: 싸우다/ 겨루다/ 노력하다
+1007 against :: ～ 에 대항하여
+1008 defend :: 방어하다/ 옹호하다
+1009 defense :: 방어
+1010 defensive :: 방어적인/ 소극적인
+1011 offend :: 공격하다
+1012 offense :: 공격
+1013 offensive :: 공격적인/ 감정을 상하는
+1014 toughen :: 강하게 만들다
+1015 tough :: 강한/ 질긴
+1016 confidence :: 확신
+1017 with confidence :: 자신 있게/ 확신 있게
+1018 justification :: 정당화
+1019 justify :: 정당화시키다
+1020 justice :: 정의
+1021 hollow :: 공허한/ 허전한
+1022 intuitively :: 직관적으로
+1023 intuitive :: 직관적인
+1024 consequence :: 결과
+1025 struggling :: 투쟁하는/ 싸우는
+1026 struggle :: 격투하다/ 싸우다
+1027 unhealthy :: 불건전한
+1028 competitive :: 경쟁적인
+1029 competition :: 경쟁
+1030 compete :: 경쟁하다
+1031 endure :: 지탱하다(sustain)
+1032 enduring :: 인내심이 강한
+1033 endurance :: 참을성
+1034 tear down :: 부수다/ 무너뜨리다
+1035 tear :: 찢다/ (복수로)눈물
+1036 optimism :: 낙관/ 낙천주의
+1037 pessimism :: 비관/ 비관주의
+1038 optimist :: 낙천가
+1039 pessimist :: 비관주의자
+1040 cost :: 비용/ 비용이 들다
+1041 overall :: 전반적으로
+1042 cheap :: 값싼
+1043 anything but～ :: 결코 ～ 하지 않는
+1044 nothing but :: only(단지)
+1045 seller :: 판매자
+1046 bill :: 청구서/ 지폐/ 비용/ 법안
+1047 shoot up :: 급속히 성장하다
+1048 shoot - shot - shot :: ～ 을 쏘다
+1049 administrator :: 경영자/ 운영자
+1050 insurer :: 보험업자/ 보증인
+1051 insure :: ～ 에 보험을 들다
+1052 life insurance :: 생명보험
+1053 employer :: 고용주
+1054 employee :: 피고용인
+1055 devise :: 고안하다
+1056 benefit :: 이익/ 이익이 되다
+1057 reasonable :: 적절한/ 합리적인
+1058 unreasonable :: 불합리한
+1059 federal :: 연방의/ 연합의
+1060 federal government :: 연방정부
+1061 federate :: 연합시키다
+1062 whip :: 채찍
+1063 communist :: 공산주의자
+1064 seize :: 잡다/ 쥐다/ 포착하다
+1065 seizure :: 압수/ 잡기
+1066 launch :: 시작하다
+1067 massive :: 대대적인
+1068 priest :: 신부
+1069 execute :: 처형하다
+1070 outbreak :: (폭등,전쟁 등의)돌발
+1071 break out :: 발생하다/ 발발하다
+1072 roughly :: 대략/ 대충
+1073 revolution :: 혁명
+1074 prerevolution :: 혁명 이전
+1075 bless :: 찬양하다
+1076 blessed :: 신성한/ 행복한
+1077 remarkable :: 현저하게/ 눈에 띄게
+1078 spiritual :: 정신적인
+1079 reawaken :: 새롭게 각성하다
+1080 occupation :: 점령/ 직업
+1081 occupy :: 차지하다/ 점령하다
+1082 hide :: ～ 을 숨기다/ 비밀로 하다
+1083 hiding :: 감추기/ 은신처
+1084 solider :: 병사/ 군인
+1085 inflict :: 고통을 가하다
+1086 terrible :: 무서운/ 끔찍한
+1087 terrific :: 아주 좋은/ 훌륭한
+1088 beat :: ～ 을 연달아 치다
+1089 beating :: 채찍질/ 연달아 치기
+1090 innocent :: 죄없는/ 결백한
+1091 innocence :: 무죄/ 결백
+1092 innocently :: 천진 난만하게
+1093 guilt :: 유죄
+1094 guilty :: 유죄의
+1095 bombardment :: 폭격
+1096 bomb :: 폭탄
+1097 roof :: 지붕
+1098 cheer :: 환호/ 갈채/ 성원
+1099 cheerful :: 명랑한/ 쾌활한
+1100 cargo :: 화물
+1101 parachute :: 낙하산
+1102 scramble :: 기어오르다
+1103 scramble to :: ～ 로 서둘러 가다
+1104 retrieve :: 회복하다/ 구하다
+1105 leadership :: 통솔력/ 지도력
+1106 conscience :: 양심
+1107 conscious :: 의식적인
+1108 consciousness :: 의식
+1109 absolutely :: 완전히/ 전적으로
+1110 absolute :: 절대의/ 완전 무결한
+1111 relative :: 상대적인/ 친척
+1112 relatively :: 상대적으로
+1113 morally :: 도덕적으로
+1114 moral :: 도덕적인/ 도덕/ 윤리
+1115 bankrupt :: 파산자/ 파탄자/ 지불 불능자
+1116 quality :: 질/ 자질
+1117 quantity :: 양
+1118 sheer :: 완전한/ 순전한
+1119 sheer waste :: 완전한 낭비
+1120 wonder :: 놀라움
+1121 far more :: 훨씬 더
+1122 therefore :: 그러므로/ 그래서
+1123 as a result :: 결과적으로
+1124 on conclusion :: 결론적으로
+1125 tone :: 색조/ 어조
+1126 mellow :: 원숙한/ 성숙한/ 익은
+1127 mellowness :: 원숙
+1128 sorrow :: 슬픔/ 비애/ 비탄
+1129 sorrowful :: 슬픈/ 비탄에 잠긴
+1130 nature :: 자연/ 본성/ 본능
+1131 natural :: 자연의/ 본능적인/ 당연한
+1132 wisdom :: 현명함
+1133 wise :: 현명한
+1134 approach :: ～ 에 접근하다
+1135 approaching age :: (죽음에) 접근하는 나이
+1136 limitation :: 한계
+1137 limit :: 한정시키다
+1138 content :: 만족한/ 내용/ 목차
+1139 prison :: 감옥/ 감방
+1140 jail :: 감옥
+1141 prisoner :: 죄수
+1142 own :: 소유하다/ 가지다
+1143 pet :: 애완동물/ 소중한 물건
+1144 hardened :: 단단해진/ 냉혹한
+1145 hard :: 어려운/ 딱딱한
+1146 harden :: 딱딱하게 하다
+1147 inmate :: 피수용자
+1148 rabbit :: 기르는 토끼/ 집토끼
+1149 senior :: 연장자/ 어른
+1150 senior to :: ～ 보다 나이가 많은
+1151 junior to :: ～ 보다 나이가 적은
+1152 care for :: 돌보다
+1153 care about :: 걱정하다
+1154 emotionally :: 정서적으로
+1155 emotion :: 감정
+1156 emotional :: 감정적인
+1157 disturb :: (평온등을)흩뜨리다
+1158 disturbance :: 소란/ 불안/ 방해
+1159 disturbed :: 정서(정신) 장애
+1160 react :: 반응을 나타내다
+1161 reaction :: 반응
+1162 cuddly :: 꼭 껴안고 싶은/ 귀여운
+1163 kitten :: 새끼 고양이
+1164 puppy :: 강아지
+1165 therapy :: 치료/ 요법
+1166 a means of therapy :: 치료법
+1167 individual :: 개개의/ 개인적인
+1168 individuation :: 개성
+1169 statistic :: 통계
+1170 frighten :: ～ 을 깜짝 놀라게 하다
+1171 fright :: 공포/ 경악
+1172 frightened :: 깜짝 놀란/ 겁이난
+1173 prevent :: 방지하다/ 막다
+1174 prevention :: 방지/ 방해/ 예방
+1175 theft :: 도둑질/ 절도죄
+1176 thieves :: (thief)의 복수형
+1177 thief :: 도둑/ 좀도둑
+1178 precaution :: 예방 조치
+1179 caution :: 주의
+1180 valuable :: 가치 있는/ 귀중품
+1181 invaluable :: 아주 가치 있는
+1182 valueless :: 가치 없는
+1183 compart :: 칸막이하다
+1184 compartment :: 구획/ 구분/ 칸
+1185 tempt :: 유혹하다/ 충동질하다
+1186 temptation :: 유혹/ 충동
+1187 tempting :: 유혹적인
+1188 break in :: 침입하다
+1189 break out :: 발발하다
+1190 break down :: 무너지다
+1191 deter :: 단념시키다/ 막다
+1192 commuter :: 통근자
+1193 toll :: 통행료
+1194 wear and tear :: 손상/ 소모
+1195 lane :: 차선
+1196 during +기간 :: ～ 하는 동안
+1197 for + 숫자 :: ～ 하는 동안에
+1198 hassle-free :: 혼란(소란) 없는
+1199 boredom :: 지루함(tedium)/ 권태
+1200 bore :: 지겹게 하다
+1201 head start :: 유리한 시작
+1202 regularly :: 정기적으로/ 어김없이
+1203 regular :: 일상의/ 규칙적인
+1204 regulate :: 통제하다/ 규제하다
+1205 significant :: 중요한/ 의미 심장한
+1206 significance :: 의미/ 주요
+1207 factor :: 요인/ 요소
+1208 sell :: 팔다/ 장사하다
+1209 selling :: 판매의
+1210 package :: 꾸러미/ 짐
+1211 manufacture :: 제조하다
+1212 manufacturer :: 제조업자
+1213 decline :: 기울다/ 쇠퇴하다/ 거절하다
+1214 declining :: 기우는
+1215 appearance :: 모양/ 외양/ 모습/ 출현
+1216 appear :: 나타나다
+1217 replace A with B :: A를 B로 대체하다
+1218 replace :: ～ 에 대신하다/ 교환하다
+1219 decorate :: 장식하다
+1220 decoration :: 장식
+1221 character :: 특징/ 특성/ 등장인물
+1222 soar :: (물가 따위)가 치솟다
+1223 soaring :: 치솟기/ 상승
+1224 stray :: 빗나간
+1225 arrow :: 화살
+1226 bow :: 활/ 뱃머리/ 인사하다
+1227 practice :: 관습/ 연습/ 훈련
+1228 practiced :: 숙련된/ 잘하는
+1229 practical :: 실용적인
+1230 dangerous :: 위험스런
+1231 danger :: 위험
+1232 endanger :: 위태롭게 하다
+1233 ban :: 금지시키다
+1234 warfare :: 전쟁 상태 (행위)
+1235 think of A as B :: A를 B로 간주하다
+1236 charm :: 매력/ 마력
+1237 charming :: 매력적인
+1238 attract :: 끌어당기다
+1239 attraction :: 매력
+1240 look for :: ～ 을 찾다
+1241 protect :: 보호하다/ 막다
+1242 protection :: 보호/ 방어
+1243 primitive :: 원시 시대의
+1244 a primitive man :: 원시인
+1245 magic :: 마술/ 주술
+1246 magical :: 마술의/ 불가사의한
+1247 magician :: 마법사/ 마술사
+1248 spell :: 주문/ 마법/ 기간
+1249 spelling :: 철자
+1250 develop :: 발전시키다/ 개발하다
+1251 development :: 성장/ 발달
+1252 hunger :: 굶주림/ 기아/ 갈망
+1253 hungry :: 굶주린/ 배고픈
+1254 beast :: 동물/ 짐승/ 가축
+1255 beastly :: 짐승의/ 잔인한
+1256 evil :: 사악/ 악
+1257 whole :: 전부의/ 모든/ 완전한
+1258 recently :: 최근/ 근래/ 요즈음
+1259 recent :: 최근의/ 새로운
+1260 brain :: 두뇌
+1261 immune :: 면역의/ 항체
+1262 immune system :: 면역체계
+1263 immunity :: 면역/ 면역성
+1264 separate :: 분리된/ 별개의
+1265 separation :: 분리
+1266 independent :: 독립된
+1267 independence :: 독립
+1268 dependent :: 의존적인
+1269 dependence :: 의존
+1270 depend on :: ～ 에 의존하다
+1271 discovery :: 발견/ 탄로/ 발견물
+1272 discover :: ～ 을 발견하다
+1273 indicate :: 나타내다/ 지시하다
+1274 indication :: 지시/ 표시
+1275 connection :: 연관/ 연결
+1276 depression :: 우울/ 의기소침
+1277 depress :: 우울하게 하다
+1278 oppress :: 억압하다
+1279 press :: 누르다/ 언론/ 출판
+1280 suspect :: 의심스럽게 여기다
+1281 proof :: 증거/ 시험
+1282 prove :: ～ 을 증명하다
+1283 face-to-face :: 얼굴을 맞대고
+1284 expert :: 숙련가/ 전문가
+1285 comprehension :: 이해력/ 이해
+1286 comprehend :: 이해하다
+1287 involve :: 포함하다
+1288 be involved in :: ～ 에 관련되다
+1289 actual :: 실제의
+1290 actually :: 실제로
+1291 contribute :: 공헌하다/ 기여하다
+1292 contribute to :: ～ 에 기여하다
+1293 intonation :: 억양/ 어조/ 음조
+1294 leaf :: 나뭇잎
+1295 carry :: 옮기다/ 지니다
+1296 sidewalk :: 보도
+1297 breeze :: 미풍/ 순풍
+1298 examine :: 조사하다/ 검사하다
+1299 examination :: 검사/ 시험
+1300 touch :: 만지다/ 접촉
+1301 blow :: 불다/ 흩날리다
+1302 blow away :: ～ 을 불어 없애다
+1303 poke :: 찌르다
+1304 explore :: 탐사하다/ 탐구하다
+1305 develop :: 발전시키다
+1306 development :: 발전
+1307 common to :: ～ 에 공통적인
+1308 equipment :: 도구/ 장비
+1309 extension :: 연장/ 확장/ 계속
+1310 extend :: 확장하다
+1311 extensive :: 광범위한/ 넓은
+1312 extensively :: 널리/ 광범위하게
+1313 skillful :: 능숙한/ 기술이 좋은
+1314 strengthen :: 강화하다/ 증가하다
+1315 strength :: 체력/ 힘
+1316 include :: 포함하다/ 함축하다
+1317 inclusion :: 포함
+1318 inclusive :: 포함하는
+1319 heart :: 심장/ 핵심
+1320 pump :: 펌프/ 심장
+1321 keep up with :: 따라잡다
+1322 search :: ～ 을 찾다
+1323 pair :: 한쌍/ 부부/ 한벌
+1324 pattern :: 형태/ 형식/ 패턴
+1325 basement :: 지하실
+1326 systematically :: 조직적으로
+1327 misplace :: 잘못 놓다
+1328 in order to :: ～ 하기 위하여
+1329 as well :: 역시
+1330 flexible :: 융통성이 있는
+1331 progressive :: 진보적인
+1332 progress :: 진보
+1333 deplorable :: 개탄할 만한
+1334 deplore :: 비탄하다/ 개탄하다
+1335 condition :: 상황/ 조건
+1336 on condition that :: ～ 라는 조건으로
+1337 slum :: 빈민가
+1338 arise :: 발생하다/ 나타나다
+1339 task :: 과업/ 일/ 사업
+1340 task wage :: 임금/ 도급
+1341 attempt :: 시도하다
+1342 environment :: 환경
+1343 dweller :: 거주자
+1344 dwell :: 살다/ 거주하다
+1345 earnest :: 진지한
+1346 private :: 사적인/ 개인적인
+1347 as well as :: ～ 뿐만 아니라
+1348 agency :: 기관/ 단체
+1349 suburb :: 교외/ 근교/ 주변
+1350 rural :: 전원의/ 시골의
+1351 urban :: 도시의
+1352 independent :: 독립적인
+1353 independence :: 독립
+1354 unit :: 단위
+1355 local :: 지방의
+1356 local time :: 지역시간
+1357 firefight :: 포격전/ 사격전
+1358 organization :: 조직
+1359 organize :: 조직화하다
+1360 essential :: 필수적인
+1361 unfair :: 불공평한
+1362 fair :: 공평한/ 공정한
+1363 facility :: 시설(복수로)/ 편리
+1364 tax :: 세금
+1365 burden :: 짐/ 적하/ 적재량/ 책임/ 의무
+1366 population :: 인구/ 주민/ 모든 주민
+1367 homogeneous :: 동질적인
+1368 corruption :: 부패
+1369 corrupt :: 타락한/ 부패한
+1370 arrangement :: 배열/ 정돈/ 정리
+1371 be noted for :: ～ 로 유명하다
+1372 charm :: 매력/ 미색/ 아름다운 용모
+1373 charming :: 유쾌한/ 매력적인
+1374 settle :: 정착하다/ 해결하다
+1375 settler :: 거주민
+1376 Far Eastern :: 극동의
+1377 racial :: 인종의
+1378 race :: 경주/ 종
+1379 racial discrimination :: 인종차별
+1380 harmony :: 조화
+1381 population :: 인구
+1382 basically :: 기본적으로
+1383 convenience :: 편리
+1384 convenient :: 편리한
+1385 exist :: 존재하다
+1386 in addition to :: 게다가/ 더구나
+1387 breathe :: 숨쉬다/ 호흡하다
+1388 breath :: 숨/ 호흡/ 생명
+1389 out of breath :: 숨을 헐떡이며
+1390 pollute :: 오염시키다/ 더럽히다
+1391 polluted :: 오염된
+1392 pollution :: 오염
+1393 waste :: ～ 을 낭비하다/ 잃다
+1394 waste gas :: 폐기가스
+1395 waste basket :: 휴지통
+1396 upper :: 더 위에 있는/ 상부의
+1397 lower :: 낮은/ 낮추다
+1398 atmosphere :: 대기권/ 대기/ 분위기
+1399 endanger :: 위태롭게 하다
+1400 machinery :: 기계
+1401 operate :: 작동하다/ 수술하다
+1402 operation :: 운영/ 작동/ 수술
+1403 electricity :: 전기
+1404 burn :: 타다/ 연소하다
+1405 coal :: 석탄
+1406 petroleum :: 석유
+1407 process :: 가공하다/ 절차/ 처리
+1408 raw :: 날것의
+1409 ruin :: 폐허/ 유적
+1410 ruinate :: 파멸시키다
+1411 ruinous :: 파괴적인
+1412 forest :: 산림/ 숲속
+1413 acid :: 산성의
+1414 acid rain :: 산성비
+1415 include :: 포함하다
+1416 inclusion :: 포함
+1417 inclusive :: 포함하는
+1418 meal :: 식사
+1419 surcharge :: 추가요금
+1420 expensive :: 값비싼 / 비용이 드는
+1421 expense :: 비용/ 지출
+1422 expend :: 소비하다
+1423 entire :: 전체의
+1424 entirety :: 전부/ 완전 무결
+1425 entirely :: 전부/ 전체적으로
+1426 list :: 명부에 올리다
+1427 individually :: 개별적으로/ 따로따로
+1428 individuate :: 개별화하다
+1429 individual :: 개개의/ 단일의
+1430 separately :: 따로 따로
+1431 separate :: 분리하다/ 분리된
+1432 cheapest :: 값이 가장 싼
+1433 cheap :: 싼/ 염가의 (dear)
+1434 complete :: 완전한/ 전부의
+1435 fairly :: 상당히/ 꽤
+1436 accurate :: 정확한/ 정밀한
+1437 accuracy :: 정확/ 정밀
+1438 physical :: 신체적인/ 물질적인
+1439 mental :: 정신적인
+1440 material :: 물질적인
+1441 evidence :: 증거/ 증명
+1442 linguistic :: 언어의/ 언어학
+1443 theory :: 이론/ 이치/ 학설
+1444 subject :: 주제/ 과목/ 백성
+1445 subjective :: 주관적인
+1446 solution :: 해결책/ 해답/ 용액
+1447 soluble :: 해결할 수 있는/ 녹는
+1448 solve :: ～ 을 풀다/ 해결하다
+1449 however + 형용사 :: 아무리 ～라 할지라도
+1450 however :: 그러나/ 그렇지만
+1451 behavior :: 행동
+1452 attitude :: 태도, 자세
+1453 behave :: 행동하다
+1454 additionally :: 게다가/ 더구나
+1455 helpful :: 도움이 되는/ 유용한
+1456 helpless :: 쓸모 없는/ 무력한
+1457 openly :: 공적으로/ 솔직하게
+1458 especially :: 특히
+1459 cross-cultural :: 다른 종류의 문화간의
+1460 cross :: 십자가/ 교차하다
+1461 crossbar :: 빗장걸이/ 크로스바
+1462 cultural :: 문화의
+1463 culture :: 문화
+1464 civilization :: 문명
+1465 discuss :: 토론하다
+1466 discussion :: 토론
+1467 argument :: 논쟁
+1468 valuable :: 귀중한
+1469 invaluable :: 아주 귀중한
+1470 valueless :: 가치 없는
+1471 therapeutic :: 치료의
+1472 finally :: 마침내/ 마지막으로
+1473 completely :: 완전히
+1474 complete :: 완전한/ 완벽한/ 완결하다
+1475 completion :: 완성/ 완결/ 수료
+1476 informal :: 격의 없는
+1477 informality :: 비공식
+1478 formal :: 공식적인/ 격식을 차리는
+1479 exist :: 존재하다
+1480 existence :: 존재
+1481 public :: 공공의/ 대중의
+1482 station :: 장소/ 부서/ 신분/ 역
+1483 radio station :: 방송국
+1484 stationary :: 움직이지 않는
+1485 on the other hand :: 한편/ 반면에
+1486 advertisement :: 광고/ 선전
+1487 advertise :: 광고하다/ 선전하다
+1488 don't have to :: ～ 할 필요가 없다
+1489 have only to :: ～ 하기만 하면 된다
+1490 government :: 정부
+1491 govern :: 지배하다
+1492 private :: 사적인/ 개인적인
+1493 company :: 회사/ 동료/ 친교/ 사회
+1494 accompany :: 동행하다
+1495 Federal :: 연방(정부)의
+1496 Federal government :: 연방정부
+1497 corporation :: 회사/ 조합/ 협회
+1498 corporate :: 단체의/ 법인의
+1499 grant :: 보조금/ 승인하다
+1500 gift :: 선물/ 기증/ 기증품
+1501 donate :: 기부하다/ 기증하다
+1502 donation :: 기부/ 기증
+1503 support :: 부양하다/ 지지하다
+1504 supporter :: 부양자/ 지지자
+1505 give support to :: ～ 을 지지하다
+1506 local :: 장소의/ 지역의/ 지방의
+1507 local call :: 시내 통화
+1508 collect call :: 수신자 부담전화
+1509 locate :: 위치시키다
+1510 be located in :: ～ 에 위치하다
+1511 location :: 위치선정/ 야외 촬영
+1512 impression :: 인상/ 감명/ 감동
+1513 impress :: 인상짓다
+1514 impressive :: 인상깊은
+1515 well-delivered :: 잘 표현된/ 잘 전달된
+1516 deliver :: ～를 배달하다
+1517 delivery :: 배달/ 진술/ 발언
+1518 farewell :: 작별인사/ 고별
+1519 a farewell part :: 송별회
+1520 Farewell to arms :: 무기여 잘 있거라
+1521 secure :: 확보하다/ 굳게 하다
+1522 security :: 안전/ 안보
+1523 forever :: 영원히
+1524 exit :: 출구/ 비상구/ 나가기
+1525 close a deal :: 거래를 체결하다
+1526 treat :: 다루다
+1527 do business :: 장사하다
+1528 expectation :: 기대/ 예상
+1529 expect :: 기대하다/ 예상하다
+1530 future :: 미래/ 장래
+1531 present :: 현재
+1532 past :: 과거
+1533 walk of life :: (사회적) 지위/ 직업
+1534 deal with :: 처리하다/ 다루다
+1535 deal in :: 장사하다
+1536 parting :: 이별/ 작별
+1537 part :: 부분/ 떨어지다/ 작별하다
+1538 positively :: 명확하게/ 단호히
+1539 positive :: 명백한/ 분명한
+1540 negative :: 부정적인
+1541 memorable :: 기억할 수 있는
+1542 memorial :: 기념물/ 기념비
+1543 leave-taking :: 작별 (인사)
+1544 politically :: 정치적으로
+1545 suburb :: 교외(지역)/ 근교
+1546 rural :: 전원의
+1547 urban :: 도시의
+1548 independent :: 자주적인/ 독립된
+1549 independence :: 독립
+1550 dependent :: 의존하는
+1551 dependence :: 의존
+1552 depend on :: ～ 에 의존하다
+1553 unit :: 단위/ 집단
+1554 run :: 운영하다/ 달리다
+1555 run the risk of :: ～ 의 위험을 무릅쓰다
+1556 firefight :: 소방차
+1557 organization :: 조직
+1558 organize :: 조직하다
+1559 essential :: 필수적인
+1560 arrangement :: 배열/ 제도
+1561 arrange :: 배열하다/ 정돈하다
+1562 advantage :: 유리/ 이익
+1563 disadvantage :: 불리
+1564 population :: 인구/ 주민
+1565 popularity :: 인기/ 유행
+1566 homogeneous :: 동질의
+1567 corruption :: 타락/ 부패
+1568 corrupt :: 부패시키다
+1569 corruptive :: 타락시키는/ 부패한
+1570 almost :: 거의
+1571 mostly :: 주로
+1572 avoid :: 피하다
+1573 excellent :: 우수한/ 탁월한
+1574 excel :: 능가하다/ 탁월하다
+1575 excellence :: 능가/ 탁월
+1576 remain :: 남다/ 남겨두다
+1577 remainder :: 나머지
+1578 poor :: 가난한/ 서투른/ 불쌍한
+1579 poorly :: 가난하게/ 서툴게
+1580 poverty :: 가난/ 기아
+1581 prosperity :: 번영/ 번창
+1582 illegal :: 불법의/ 위법의
+1583 illegality :: 불법/ 위법
+1584 illegalize :: 불법화하다/ 금하다
+1585 legal :: 합법적인
+1586 legalize :: 합법화하다
+1587 immigrant :: 이민/ 이주자(안으로)
+1588 immigrate :: 이민하다
+1589 immigration :: 이민/ 이주
+1590 emigrate :: 이주하다
+1591 emigrant :: 이주자(밖으로)
+1592 pay :: 지불하다/ 치르다
+1593 paid :: 有給(유급) 의
+1594 receptive :: 잘 받아들이는
+1595 reception :: 수용/ 접대
+1596 receipt :: 수취/ 영수(증)
+1597 wage :: 임금/ 수당/ 급료
+1598 crime :: 죄
+1599 criminal :: 죄의/ 범인
+1600 guilt :: 죄/ 유죄
+1601 guilty :: 유죄의
+1602 innocent :: 결백한/ 죄 없는
+1603 innocence :: 결백/ 무죄
+1604 rate :: 비율/ 요금/ 속도
+1605 catch :: 붙들다/ 붙잡다
+1606 catch up with :: ～를 따라 잡다
+1607 education :: 교육
+1608 educate :: 교육하다(bring up)
+1609 educational :: 교육적인
+1610 dramatic :: 극적인/ 희곡의
+1611 dramatically :: 극적으로
+1612 affluent :: 풍부한/ 풍요로운
+1613 affluently :: 풍부하게
+1614 affluence :: 풍부/ 부유
+1615 society :: 사회/ 사교/ 회
+1616 social :: 사회적인
+1617 sociable :: 사교적인
+1618 socialize :: 사회화하다
+1619 socialization :: 사회화
+1620 enrollment :: 등록/ 입학
+1621 enroll :: 명부에 올리다
+1622 clearly :: 명백하게/ 분명하게
+1623 opportunity :: 기회
+1624 opportune :: 시기가 좋은
+1625 be going to :: ～ 할 예정이다
+1626 actually :: 실제로/ 참으로
+1627 schooling :: 학교 교육/ 제도 교육
+1628 average :: 평균/ 보통
+1629 increase :: 증가하다
+1630 decrease :: 감소하다
+1631 steadily :: 착실하게/ 꾸준히
+1632 steady :: 확고한/ 견실한
+1633 available :: 이용할 수 있는
+1634 effect :: 결과/ 영향/ 효과
+1635 effective :: 유효한/ 효과적인
+1636 view :: 견해/ 관점
+1637 viewy :: 훌륭한/ 볼만한
+1638 in view of :: ～ 이 보이는 곳에서
+1639 certainly :: 확실히/ 틀림없이
+1640 certain :: 확실한/ 어떤
+1641 be certain of :: ～ 을 확신하다
+1642 for certain :: 확실히
+1643 technology :: 기술
+1644 suggest :: 암시하다/ 제안하다
+1645 suggestion :: 암시/ 제안
+1646 determine :: 결정하다/ 결심하다
+1647 determination :: 결정/ 결심
+1648 gun :: 대포/ 총
+1649 depend on :: ～ 에 달려있다
+1650 dependence :: 의뢰/ 의존
+1651 dependent :: 의지하는
+1652 independent :: 독립적인
+1653 independence :: 독립
+1654 circumstance :: 환경/ 상황
+1655 circumstantial :: 형편에 따른
+1656 social circumstance :: 사회 환경
+1657 surroundings :: 환경
+1658 enable :: ～ 할 수 있게 하다
+1659 enable A to B :: A가 B를 가능하게 하다
+1660 force :: 강요하다
+1661 impact :: 충격/ 영향/ 충돌
+1662 compact :: 소형의
+1663 drug :: 약물/ 마약
+1664 drugged :: ～ 에 약을 타다
+1665 drug addict :: 마약 중독자
+1666 abuse :: 남용/ 악용/ 욕설
+1667 abusive :: 남용하는/ 악용하는
+1668 varying :: 다양한
+1669 vary :: 바꾸다/ 변화하다
+1670 variety :: 다양/ 변화
+1671 various :: 다양한/ 여러 가지의
+1672 variable :: 변수
+1673 profound :: 깊은/ 심오한
+1674 topic :: 화제/ 제목/ 주제
+1675 fit :: 적합하다/ 알맞다
+1676 suitable :: 적합한
+1677 appropriate :: 적당한
+1678 secondary :: 중등학교의
+1679 secondarily :: 종속적으로/ 두 번째로
+1680 particularly :: 특별히/ 특히
+1681 biology :: 생물학/ 생태학
+1682 biologic :: 생태학의
+1683 biologist :: 생물학자
+1684 chemistry :: 화학
+1685 chemical :: 화학의/ 화학적인
+1686 objective :: 목표/ 목적/ 목적의/ 객관적인
+1687 objectivity :: 객관성/ 타당성
+1688 object :: 물건/ 물체/ 목표
+1689 subject :: 주제/ 제목/ 과목/ 종속시키다
+1690 subjective :: 주관적인
+1691 subjectivity :: 주관성
+1692 immigrant :: 이민자
+1693 immigration :: 이민/ 입국
+1694 immigrate :: 이주하다(안으로)
+1695 emigrate :: 이주하다(밖으로)
+1696 emigration :: 이주
+1697 emigrant :: 이주자
+1698 unit :: 단위/ 단일체/ 편성
+1699 million :: 백만/ 다수의
+1700 billion :: 십억
+1701 the number of :: ～ 의 수
+1702 a number of :: 많은
+1703 the amount of :: ～ 의 양
+1704 increase :: 증가하다
+1705 decrease :: 감소하다
+1706 pork :: 돼지고기
+1707 beef :: 소고기
+1708 meat :: 고기
+1709 gradually :: 점차/ 차차/ 차츰
+1710 popularity :: 인기/ 대중성
+1711 popularize :: 대중화하다
+1712 popular :: 유행하는
+1713 population :: 인구
+1714 consume :: 소비하다
+1715 consumption :: 소비/ 소모
+1716 consumptive :: 소비의/ 소모의
+1717 continuous :: 계속적인
+1718 continue :: 지속하다
+1719 in general :: 일반적으로
+1720 minority :: 소수
+1721 minor :: 적은/ 소수의
+1722 major :: 다수의
+1723 majority :: 다수
+1724 religion :: 종교/ 신앙심
+1725 religious :: 종교상의
+1726 region :: 지역
+1727 regional :: 지역적인
+1728 Protestant :: 개신교
+1729 prefer :: ～ 을 더 좋아하다
+1730 prefer A to B :: B보다 A를 더 좋아하다
+1731 preference :: 좋아함
+1732 Catholic :: 천주교
+1733 Jewish :: 유태교
+1734 percentage :: 백분율
+1735 advertise :: 선전하다/ 광고하다
+1736 advertisement :: 선전
+1737 medium :: 중위/ 매개물/ 중간
+1738 media :: (복수형) 매체/ 매개물
+1739 mass media :: 대중매체
+1740 median :: 중간의
+1741 expenditure :: 지출/ 경비
+1742 expend :: 소비하다
+1743 annual expenditure :: 소비량
+1744 expense :: 지출/ 비용
+1745 magazine :: 잡지
+1746 claim :: 요구하다/ 청구하다
+1747 quarter :: 4분의1
+1748 direct :: 똑바른/ 직접의/ 솔직한
+1749 indirect :: 간접의
+1750 rank :: 계급/ 순위
+1751 influential :: 영향력이 있는
+1752 production :: 생산
+1753 products :: 상품/ 생산품
+1754 steadily :: 꾸준히/ 지속적으로
+1755 company :: 회사/ 친구/ 동료
+1756 accompany :: 동행하다
+1757 slightly :: 약하게/ 경미하게
+1758 markedly :: 현저하게/ 뚜렷하게
+1759 marked :: 현저한/ 뚜렷한
+1760 remarkably :: 두드러지게/ 현저하게
+1761 remarkable :: 주목할 만한
+1762 remark :: 감지하다/ 주목하다
+1763 affect :: 영향을 미치다/ 감동시키다
+1764 affection :: 애정/ 영향/ 감동
+1765 affection ate :: 애정이 깊은
+1766 property :: 재산/ 소유물
+1767 prosperity :: 번영/ 번창
+1768 thunderstorm :: 뇌우/ 벼락
+1769 thunder :: 우뢰/ 뇌성
+1770 population :: 인구/ 주민
+1771 populational :: 주민의
+1772 popularity :: 유행
+1773 rainfall :: 강우/ 강수량
+1774 flood :: 홍수
+1775 overflow :: 범람하다/ 넘치다
+1776 unproductive :: 비생산적인
+1777 productive :: 생산적인
+1778 canal :: 운하/ 수로
+1779 canalize :: 운하를 트다/ 수로를 파다
+1780 distribute :: 분배하다/ 배분하다
+1781 distribution :: 분배/ 분포
+1782 distributive :: 분배의
+1783 uniformly :: 일정하게
+1784 uniform :: 한결같이/ 동일하게
+1785 clay :: 점토/ 진흙
+1786 conduct :: 안내하다/ 행동하다
+1787 conduction :: 유도/ 끌어들임
+1788 conductive :: 안내하는
+1789 in regard to :: ～ 에 관하여
+1790 regardful :: 주의 깊은/ 사려 깊은
+1791 individual :: 개인적인
+1792 possession :: 소유/ 소유물
+1793 possess :: 소유하다/ 지니다
+1794 possessive :: 소유의
+1795 share :: 나누다/ 분배하다
+1796 alike :: 서로 같은/ 동등하게
+1797 unlike :: ～ 과는 달리
+1798 supply :: 공급하다
+1799 insufficient :: 불충분한/ 부족한
+1800 insufficiency :: 부족
+1801 insufficiently :: 부족하게
+1802 obtain :: 얻다/ 손에 넣다
+1803 at the expense of :: ～ 를 희생하여
+1804 expense :: 비용/ 지출
+1805 on the other hand :: 반면에/ 한편
+1806 mental :: 마음의/ 정신의
+1807 physical :: 육체적인
+1808 material :: 물질적인
+1809 spiritual :: 정신의
+1810 spirit :: 정신/ 영혼
+1811 belong to :: ～ 에 속하다
+1812 exclusion :: 제외/ 배제
+1813 prevent :: 막다/ 예방하다
+1814 prevention :: 예방
+1815 acquire :: 얻다/ 취득하다
+1816 on the contrary :: 이에 반하여
+1817 in conclusion :: 끝으로/ 결론으로서
+1818 conclude :: 끝내다/ 마무리하다
+1819 seaside :: 바닷가/ 해안
+1820 dull :: 무딘/ 둔한
+1821 rub :: 문지르다
+1822 poetry :: 시
+1823 miraculous :: 기적적인
+1824 miracle :: 기적
+1825 brighten :: 반짝이게 하다
+1826 bright :: 빛나는/ 선명한/ 영리한
+1827 perpetually :: 영원히/ 변함없이
+1828 total :: 전체의/ 절대적인
+1829 partial :: 일부분의/ 부분적인
+1830 impartial :: 공평한/ 공정한
+1831 rebound :: 튀어 오름/ 회복
+1832 estimate :: 평가하다/ 어름하다
+1833 estimation :: 평가
+1834 range :: 떠돌다/ 헤매다/ 범위/ 산맥
+1835 development :: 발달/ 개발/ 성장
+1836 develop :: 발달시키다
+1837 spread :: 퍼지다/ 분포하다
+1838 conflict :: 투쟁/ 갈등
+1839 fatality :: 죽음/ 참사
+1840 fatal :: 치명적인
+1841 document :: 문서/ 서류
+1842 documentary :: 문서의
+1843 attack :: 공격/ 습격
+1844 defend :: 방어하다
+1845 defense :: 방어
+1846 perish :: 죽다/ 멸망하다
+1847 perished :: 지친
+1848 shot :: 발포/ 탄환/ 쏘다/ 발포하다
+1849 shout :: 외치다
+1850 shut :: 닫다
+1851 choice :: 선택
+1852 refuse :: 거절하다
+1853 refusal :: 거절
+1854 decline :: 거절하다
+1855 subject :: 과목/ 주제/ 제목
+1856 subjective :: 주관적인
+1857 object :: 물건/ 물체/ 목표
+1858 objective :: 객관적인
+1859 opportunity :: 기회
+1860 adult :: 성인/ 어른
+1861 grown-up :: 성인
+1862 infant :: 유아
+1863 naturally :: 자연히/ 당연히
+1864 natural :: 자연의/ 본성의/ 당연한
+1865 select :: 고르다/ 선택하다
+1866 selection :: 선택
+1867 perform :: 수행하다/ 공연하다
+1868 performance :: 수행/ 공연
+1869 reject :: 거부하다/ 거절하다
+1870 rejection :: 거절
+1871 previously :: 전에/ 미리
+1872 narrow :: 좁은/ 좁히다
+1873 challenge :: 도전/ 도전하다
+1874 in short :: 짧게/ 간략하게
+1875 to be brief :: 간단히 말해서
+1876 heredity :: 상속/ 유전(학)
+1877 hereditary :: 유전의/ 상속성의
+1878 offspring :: 자손/ 자식/ 새끼
+1879 resemble :: 닮다
+1880 resemblance :: 유사/ 닮음
+1881 take after :: 닮다
+1882 inherit :: 상속하다/ 물려받다
+1883 inheritance :: 상속
+1884 depend on :: 의존하다
+1885 dependent :: 의존하는
+1886 dependence :: 의존
+1887 independent :: 독립적인
+1888 independence :: 독립
+1889 behave :: 행동하다/ 움직이다
+1890 behavior :: 행동
+1891 attitude :: 행동
+1892 independently :: 독립하여/ 자주적으로
+1893 independent :: 독립한
+1894 trait :: 특색/ 특성
+1895 necessarily :: 반드시/ 필연적으로
+1896 necessary :: 필요한/ 필요의
+1897 necessity :: 필수품
+1898 gene :: 유전인자
+1899 balloon :: 기구/ 풍선
+1900 float :: 띄우다/ 표류하다
+1901 prove :: 시험하다/ 입증하다
+1902 experiment :: 실험/ 경험
+1903 experimental :: 실험에 의한
+1904 as soon as :: ～ 하자마자 곧
+1905 underneath :: ～ 아래에
+1906 arrangement :: 조치/ 배려/ 배열
+1907 arrange :: 배열하다/ 가지런히 하다
+1908 warm :: 따뜻한/ 온정이 있는
+1909 warmth :: 따뜻함/ 온정
+1910 otherwise :: 반면에/ 그렇지 않으면
+1911 on condition that :: ～ 라는 조건으로
+1912 so long as :: ～ 하는 한
+1913 unless :: ～ 하지 않는다면
+1914 nevertheless :: 그럼에도 불구하고
+1915 conversely :: 거꾸로/ 역관계에 있어서
+1916 converse :: 대화하다/ 반대로
+1917 conversation :: 대화/ 회화
+1918 consequently :: 따라서/ 결과적으로
+1919 consequent :: 결과의/ 당연한
+1920 consequence :: 결과
+1921 on consequence :: 결과적으로
+1922 gravity :: 중력/ 진지함
+1923 grave :: 중대한/ 중요한
+1924 exert :: 발휘하다/ 쓰다
+1925 exertion :: 발휘/ 노력
+1926 exertive :: 노력하는
+1927 curious :: 호기심이 강한
+1928 curiosity :: 호기심
+1929 concentrate :: 집중하다
+1930 concentration :: 집중
+1931 support :: 부양하다/ 유지하다
+1932 locate :: ～에 위치를 정하다
+1933 location :: 위치 선정/ 위치
+1934 be located in :: ～에 위치하다
+1935 directly :: 곧장/ 직접
+1936 direct :: 똑바른/ 지도하다
+1937 direction :: 방향/ 지시/ 지도
+1938 object :: 물건/ 대상/ 물체/ 반대하다
+1939 objection :: 반대
+1940 regular :: 규칙적인
+1941 shape :: 모양/ 형태
+1942 geometric :: 기하(학)의
+1943 seesaw :: 시소
+1944 irregularly :: 불규칙으로
+1945 coincide :: 일치하다
+1946 coincidence :: 일치/ 동시 발생
+1947 artful :: 교활한/ 기교를 부린
+1948 totally :: 전적으로/ 아주
+1949 on the other hand :: 반면에
+1950 countryside :: 한 지방/ 시골
+1951 permit :: 허락하다/ 인정하다
+1952 permission :: 허락/ 허가
+1953 permissive :: 허용하는/ 관용된
+1954 nightfall :: 일몰
+1955 schoolmaster :: 남자 교원/ 교사
+1956 affair :: 일/ 일거리
+1957 turn A into B :: A를 B로 바꾸다
+1958 dormitory :: 기숙사
+1959 what`s more :: 게다가 또/ 그 위에
+1960 for instance :: 예를 들면
+1961 slavery :: 노예의 신분
+1962 divorce :: 분리/ 이혼
+1963 marry :: 결혼하다
+1964 engage :: 약혼하다
+1965 purpose :: 목적
+1966 pyramid :: 피라미드
+1967 glory :: 영광
+1968 glorious :: 영광스러운
+1969 pharaoh :: 이집트의 왕
+1970 overseer :: 감독
+1971 lash :: 채찍
+1972 agriculture :: 농업
+1973 agricultural :: 농업의
+1974 carry :: 운반하다/ 지니다
+1975 equally :: 똑같이/ 동등하게
+1976 equal :: 같은
+1977 equality :: 동등함/ 평등
+1978 satisfaction :: 만족
+1979 satisfy :: 만족시키다
+1980 physical :: 육체의
+1981 mental :: 정신적인
+1982 material :: 육체적인
+1983 sum :: 합계/ 총액
+1984 scope :: 범위
+1985 medicine :: 약/ 내복약
+1986 provide :: 공급하다
+1987 organism :: (신체의)기관
+1988 internal :: 내부의
+1989 external :: 외부의
+1990 condition :: 조건/ 상태
+1991 favorable :: 유리한/ 호의를 보이는
+1992 favorite :: 가장 좋아하는
+1993 self-regulative :: 자기 조절하는
+1994 regulate :: 규제하다/ 조절하다
+1995 regulation :: 규제/ 조절
+1996 restorative :: 회복하는
+1997 restore :: 회복하다/ 복직하다
+1998 natural :: 자연의/ 본능적인/ 당연한
+1999 nature :: 자연/ 본능/ 본성
+2000 heal :: 낫게 하다/ 치유하다
+2001 helpless :: 무력한/ 무기력한
+2002 settle :: 정착하다/ 해결하다
+2003 settlement :: 정착/ 해결
+2004 settler :: 거주민
+2005 chronic :: 만성적인
+2006 disease :: 병
+2007 guide :: 안내자
+2008 usage :: 사용법
+2009 use :: 사용하다
+2010 travel :: 여행하다
+2011 function :: 기능/ 함수
+2012 maker :: 제조업자
+2013 rearrange :: 재배치하다
+2014 arrange :: 배열하다/ 정돈하다
+2015 arrangement :: 배열/ 정돈/ 배치
+2016 mount :: 오르다
+2017 surmount :: 오르다/ 극복하다
+2018 commonly :: 공통으로
+2019 accept :: 받다/ 인정하다/ 간주하다
+2020 acceptation :: 받아들임
+2021 region :: 지방/ 지구
+2022 regional :: 지역의
+2023 religion :: 종교
+2024 religious :: 종교적인
+2025 manner :: 방법
+2026 manners :: 예절/ 예의범절
+2027 respectful :: 정중한
+2028 respect :: 존경/ 존경하다
+2029 respecting :: ～ 에 관하여
+2030 behavior :: 행실/ 행동
+2031 attitude :: 행동/ 태도
+2032 highly :: 매우
+2033 high :: 높이
+2034 prize :: 상/ 상을 주다
+2035 tend to :: ～ 하는 경향이 있다
+2036 stress :: 스트레스/ 강세
+2037 matter :: 물질/ 문제/ 중요하다
+2038 pretty :: 예쁜
+2039 usually :: 보통의
+2040 sincerity :: 성실/ 성실함
+2041 sincere :: 성실한/ 진지한
+2042 since :: ～ 한 이래로
+2043 feeling :: 촉감/ 감각
+2044 parrot :: 앵무새
+2045 prefer :: ～ 을 좋아하다
+2046 cultivate :: ～ 을 계발하다
+2047 cultivated :: 경작된/ 교양 있는
+2048 cultivation :: 경작/ 교양
+2049 considerateness :: 사려 깊음
+2050 considerate :: 사려 깊은
+2051 considerable :: 상당한
+2052 consider :: 생각하다/ 고려하다
+2053 consideration :: 생각/ 고려
+2054 behind :: ～ 뒤에/ 숨어서
+2055 instead :: 대신에
+2056 merely :: 단지
+2057 mere :: 단순한
+2058 examine :: 시험하다/ 검사하다
+2059 examination :: 시험
+2060 cycle :: 순환하다/ 자전거 타다
+2061 recycle :: 재활용하다
+2062 practical :: 실용적인
+2063 practice :: 관습/ 관행
+2064 to begin with :: 우선/ 첫째로
+2065 commute :: 통근하다
+2066 commuting :: 통근하기
+2067 commuter :: 통근자
+2068 comfortably :: 편안하게
+2069 comfort :: 위안/ 편안
+2070 uncomfortable :: 불편한
+2071 include :: 포함하다
+2072 inclusion :: 포함
+2073 inclusive :: 포함하는
+2074 inclusively :: 포함하여
+2075 exclude :: 제외시키다
+2076 exclusion :: 제외/ 배타
+2077 exclusive :: 제외하는
+2078 exclusively :: 배타적으로
+2079 on the way :: 도중에
+2080 by the way :: 그런데
+2081 in the way :: 방해가 되어
+2082 up to :: ～ 까지
+2083 up to now :: 지금까지
+2084 limit :: 제한/ 한계
+2085 reasonable :: 합리적인
+2086 reason :: 이유/ 이성
+2087 waste :: 낭비하다/ 낭비/ 쓰레기
+2088 regularly :: 규칙적으로
+2089 regular :: 규칙적인
+2090 irregular :: 비규칙적인
+2091 be caught in :: ～ 에 붙잡히다
+2092 traffic jam :: 교통체증
+2093 operate :: 운영하다/ 수술하다
+2094 operation :: 운영/ 수술
+2095 insurance :: 보험
+2096 life-insurance :: 생명보험
+2097 nothing but :: 단지
+2098 anything but :: 결코 ～하지 않다
+2099 rather :: 다소/ 약간
+2100 rather than :: ～ 라기 보다는
+2101 in ～ing :: ～ 할 때
+2102 metal :: 금속/ 광물
+2103 particular :: 특정한/ 특별한
+2104 judge :: 판단하다/ 판사
+2105 judgement :: 판단
+2106 fairly :: 공정히/ 꽤
+2107 fair :: 공정한/ 금발의/ 박람회
+2108 ignore :: 무시하다
+2109 ignorant :: 무식한/ 무시하는
+2110 ignorance :: 무시/ 무식
+2111 identical :: 동일한
+2112 identify :: (신분을) 확인하다
+2113 identification :: 신분확인
+2114 similarity :: 유사
+2115 similar :: 비슷한/ 유사한
+2116 describe :: 묘사하다
+2117 description :: 묘사
+2118 descriptive :: 묘사하는
+2119 accurately :: 정확하게
+2120 behave :: 행동하다
+2121 behavior :: 행동
+2122 shore :: 해변
+2123 leave :: 떠나다/ 남겨두다
+2124 worry :: 걱정하다
+2125 Red Cross :: 적십자
+2126 cross :: 건너다/ 십자가
+2127 lifesaver :: 인명구조원
+2128 life :: 생활/ 생명/ 일생/ 삶
+2129 patrol :: 순찰/ 순찰하다
+2130 patrol car :: 순찰차
+2131 organization :: 조직
+2132 organize :: 조직화하다
+2133 specialize :: 전문화하다
+2134 whirlpool :: 소용돌이
+2135 whirl :: 핑핑 돌다
+2136 maxim :: 격언/ 좌우명
+2137 frequently :: 빈번히
+2138 ignore :: 무시하다
+2139 warn :: 경고하다
+2140 immensity :: 광대함
+2141 immense :: 거대한/ 막대한
+2142 immensely :: 거대하게
+2143 confident :: 확신하는
+2144 confidence :: 확신
+2145 self-confidence :: 자기확신
+2146 take care of :: ～ 을 돌보다
+2147 calm :: 조용한/ 잔잔한
+2148 concentrate :: 집중하다
+2149 concentration :: 집중
+2150 breath :: 숨/ 호흡
+2151 breathe :: 숨쉬다/ 호흡하다
+2152 out of breath :: 숨을 헐떡이며
+2153 force :: 강요하다/ 힘/ 군대
+2154 be forced to :: 어쩔수 없이 ～하다
+2155 soak :: 적시다/ 흡수하다
+2156 spoil :: 망치다
+2157 a spoiled child :: 버릇없는 아이
+2158 rotten :: 썩은/ 부패한
+2159 germ :: 세균/ 싹/ 배아
+2160 germinate :: 싹이 트다
+2161 germinative :: 싹트는/ 움트는
+2162 wonder :: 경이/ 경탄
+2163 set up :: 착수하다/ 시작하다
+2164 experiment :: 실험/ 경험
+2165 experimental :: 실험에 의한
+2166 bottle :: 병/ 용기
+2167 laboratory :: 실험실/ 시험소
+2168 laboratorial :: 실험실의
+2169 decompose :: 분해시키다/ 분석하다
+2170 compose :: 구성하다/ 작곡하다
+2171 composition :: 구성/ 작곡/ 작문
+2172 be composed of :: ～ 로 구성되다
+2173 material :: 물질의/ 물질
+2174 physical :: 육체적인
+2175 mental :: 정신적인
+2176 broadcast :: 방송하다/ 방영하다
+2177 broadcasting :: 방송
+2178 make sense :: 뜻이 통하다/ 이치에 닿다
+2179 make no sense :: 이치에 닿지 않다
+2180 sense :: 감각/ 의미
+2181 on the air :: 방송중인
+2182 shrug :: (어깨를) 으쓱하다
+2183 figure :: 숫자/ 모양/ 모습/ 인물
+2184 figure out :: 이해하다
+2185 miss :: 놓치다/ 그리워하다
+2186 pick up :: 줍다/ 데리러가다
+2187 thread :: (이야기 등의) 실마리/ 맥락
+2188 conclude :: 끝내다/ 결론짓다
+2189 conclusion :: 결말/ 결론
+2190 concluding :: 최종적인
+2191 in the first place :: 우선/ 먼저
+2192 overseas :: 외국으로/ 해외로
+2193 theme :: 주제/ 제목/ 테마
+2194 enchanting :: 매혹적인
+2195 enchant :: 매혹하다
+2196 enchantingly :: 황홀하게 하는
+2197 modest :: 수수한/ 겸손한/ 적당한
+2198 melody :: 멜로디/ 선율
+2199 pour :: 쏟다/ 퍼붓다
+2200 flood :: 홍수/ 범람/ 넘치다
+2201 rush :: 돌진하다
+2202 throb :: 고동치다/ 떨리다
+2203 herald :: 전달자/ 보고자
+2204 heraldic :: 전령의
+2205 gift :: 선물/ 재능
+2206 decade :: 10의 단위/ 10년간
+2207 decadal :: 10의
+2208 childhood :: 어린 시절/ 유년
+2209 more and more :: 점점 더
+2210 have to do with :: ～ 과 관계가 있다
+2211 fearful :: 무서운/ 두려운
+2212 fearfulness :: 두려움
+2213 reward :: 보수/ 보답/ 상
+2214 rewardless :: 무보수의/ 보답 없는
+2215 adultlike :: 성인같은
+2216 childlike :: 어린이다운
+2217 childish :: 유치한
+2218 reassure :: 안심시키다
+2219 assure :: 보증하다/ 안심시키다
+2220 unique :: 유일한/ 독특한
+2221 observe :: 관측하다/ 알다
+2222 observation :: 관측/ 관찰
+2223 observational :: 관측의
+2224 iceberg :: 빙산/ 냉담한 사람
+2225 sink :: 가라앉다/ 침몰하다
+2226 passenger :: 승객
+2227 crew :: 승무원
+2228 survive :: 생존하다/ 살아남다
+2229 survival :: 생존/ 잔존
+2230 survivor :: 생존자
+2231 refuse :: 거절하다
+2232 refusal :: 거절/ 사절
+2233 reject :: 거절하다
+2234 enter :: 들어가다/ 입학하다
+2235 entrance :: 들어감/ 입학
+2236 lifeboat :: 구조선
+2237 safely :: 안전하게
+2238 safe :: 안전한/ 금고
+2239 safety :: 안전
+2240 aboard :: 배로/ 뱃전에
+2241 captain :: 장/ 우두머리/ 선장
+2242 reply :: 응답하다/ 대답하다
+2243 the fair sex :: 여성
+2244 routinely :: 일상적으로
+2245 routine :: 정해진 일/ 일과
+2246 verbally :: 언어로/ 말로/ 구두로
+2247 obviously :: 분명히/ 명백히
+2248 obvious :: 명백한
+2249 pregnant :: 임신한/ 충분한
+2250 pregnancy :: 임신/ 함축
+2251 deny :: 부인하다/ 거절하다
+2252 denial :: 부정/ 부인
+2253 tyranny :: 전제정치/ 포악
+2254 tyrannical :: 전제 군주 적인
+2255 tyrannize :: 학정 하다
+2256 vary :: 변화하다/ 변하다/ 다양하다
+2257 various :: 다양한
+2258 variety :: 다양성
+2259 variable :: 변수
+2260 particular :: 특별한
+2261 particularly :: 특히
+2262 state :: 州/ 상태/ 진술하다
+2263 statement :: 진술/ 말
+2264 set up :: 세우다/ 착수하다
+2265 ceremony :: 기념식
+2266 wedding ceremony :: 결혼식
+2267 obey :: 복종하다
+2268 obedient :: 복종하는
+2269 obedience :: 복종
+2270 disobedient :: 말안듣는
+2271 disobedience :: 불복종
+2272 marriage :: 결혼
+2273 engagement :: 약혼/ 약속
+2274 divorce :: 이혼
+2275 competitive :: 경쟁의
+2276 compete :: 경쟁하다
+2277 competition :: 경쟁
+2278 company :: 회사/ 친구/ 동료
+2279 accompany :: 동행하다
+2280 application :: 지원
+2281 apply for :: 지원하다
+2282 applicant :: 지원자
+2283 resume :: 이력서/ 개요/ 다시 시작하다
+2284 applicant :: 지원자
+2285 fee :: 요금(전문직의)
+2286 fare :: 요금(교통수단)
+2287 wages :: 봉급
+2288 investment :: 투자
+2289 invest :: 투자하다
+2290 investigate :: 조사하다
+2291 investigation :: 조사
+2292 investigator :: 조사자
+2293 race :: 경주/ 인종
+2294 racial discrimination :: 인종차별
+2295 worthwhile :: ～ 할 가치 있는
+2296 dictionary :: 사전/ 옥편
+2297 define :: 정의하다/ 규정짓다
+2298 definition :: 정의
+2299 definite :: 한정된/ 명확한
+2300 laboratory :: 실험실
+2301 equip :: 장비를 갖추다
+2302 equipment :: 장비
+2303 experimental :: 실험의
+2304 experiment :: 실험
+2305 period :: 기간
+2306 aside :: 곁에/ 옆에
+2307 set aside :: 저축하다
+2308 term :: 용어/ 말/ 학기/ 기간
+2309 coat :: 상의/ 가죽/ 외피
+2310 image :: 像/ 이미지
+2311 synonymous :: 동의어의
+2312 synonym :: 동의어
+2313 intelligent :: 지적인
+2314 prison :: 감옥
+2315 go to prison :: 감옥살이하다
+2316 investigation :: 조사
+2317 investigate :: 조사하다
+2318 invest :: 투자하다
+2319 investment :: 투자
+2320 foreign :: 외국의
+2321 surgery :: 진찰실/ 수술실/ 외과
+2322 nose :: 코
+2323 funny :: 익살맞은/ 재미있는
+2324 confidence :: 확신
+2325 self-confidence :: 자기확신
+2326 treatment :: 취급
+2327 treat :: 다루다/ 취급하다/ 대접하다
+2328 behave :: 행동하다
+2329 behavior :: 행동
+2330 probably :: 아마/ 아마도
+2331 worry :: 걱정하다
+2332 acceptable :: 받아들일 수 있는
+2333 accept :: 받아들이다
+2334 acceptance :: 수납/ 용인
+2335 amuse :: 즐겁게 하다
+2336 amusing :: 재미있는/ 즐거운
+2337 career :: 경력/ 직업
+2338 situation :: 상황
+2339 regard :: 간주하다/ 고려하다
+2340 regard :: A as B	A를 B로 간주하다
+2341 inappropriate :: 부적절한
+2342 appropriate :: 적당한
+2343 worry about :: 걱정하다/ 염려하다
+2344 future :: 미래
+2345 present :: 현재
+2346 past :: 과거
+2347 control :: 지배하다/ 억제하다
+2348 relative :: 상대적인/ 친척
+2349 relatively :: 상대적으로
+2350 relation :: 관계
+2351 absolute :: 절대적인
+2352 hang :: 걸다/ 교수형 처하다
+2353 hang- hanged- hanged :: (교수형 처하다)
+2354 hang- hung- hung :: (걸다)
+2355 prediction :: 예상/ 예보
+2356 predict :: 예상하다/ 예보하다
+2357 decide :: 결심하다
+2358 military :: 군대의
+2359 curious :: 호기심 있는
+2360 curiosity :: 호기심
+2361 timid :: 겁많은/ 소심한
+2362 tax :: 세금
+2363 complain :: 불평하다
+2364 complaint :: 불평
+2365 protest :: 항의하다
+2366 protect :: 방어하다
+2367 government :: 정부
+2368 govern :: 지배하다
+2369 misuse :: 오용하다/ 남용하다
+2370 doll :: 인형
+2371 useless :: 쓸모 없는
+2372 useful :: 유용한
+2373 impractical :: 실제적이 아닌
+2374 conflict :: 투쟁/ 갈등
+2375 view :: 보기/ 관점/ 견해
+2376 issue :: 문제/ 쟁점
+2377 religious :: 종교적인
+2378 religion :: 종교
+2379 region :: 지역
+2380 racial :: 인종상의
+2381 race :: 경주/ 인종
+2382 human race :: 인간
+2383 racial discrimination :: 인종차별
+2384 cultural :: 문화적인
+2385 culture :: 문화
+2386 civilization :: 문명
+2387 political :: 정치의
+2388 politics :: 정치학
+2389 refrain :: 그만두다
+2390 average :: 평균
+2391 necessarily :: 필연적으로/ 반드시
+2392 not ～ necessarily :: 반드시 ～ 인 것은 아니다
+2393 intelligent :: 지적인
+2394 intelligence :: 智/ 지성
+2395 genius :: 천재
+2396 possess :: 소유하다
+2397 ensure :: 보장하다
+2398 precisely :: 정확하게
+2399 precise :: 정확한
+2400 relative :: 상대적인/ 친척
+2401 relation :: 친척
+2402 absolute :: 절대적인
+2403 absolutely :: 절대적인
+2404 investigation :: 조사/ 연구
+2405 investigate :: 조사하다
+2406 invest :: 투자하다
+2407 investment :: 투자
+2408 inherit :: 상속하다
+2409 inheritance :: 상속/ 유산
+2410 ancestor :: 조상
+2411 rather :: 다소/ 약간
+2412 rather than :: ～ 라기 보다는
+2413 capture :: 붙잡다
+2414 nearsighted :: 근시의
+2415 farsighted :: 원시의
+2416 distinctly :: 뚜렷하게
+2417 distinct :: 별개의/ 뚜렷한
+2418 distinguish :: 구별하다
+2419 unless :: 만약 ～ 이 아니면
+2420 otherwise :: 그렇지 않으면
+2421 close :: 가까운/ 밀접한/ 닫다
+2422 take advantage of :: ～ 을 이용하다
+2423 near :: 가까이
+2424 nearly :: 거의
+2425 capture :: 잡다/ 빼앗다
+2426 discover :: 발견하다
+2427 discovery :: 발견
+2428 pretend :: ～ 인 체하다
+2429 pretense :: 구실/ 핑계/ 허위
+2430 deadly :: 죽음 같은/ 매우
+2431 direction :: 방향
+2432 direct :: 지도하다/ 지시하다
+2433 directly :: 곧바로
+2434 director :: 지도자/ 관리자
+2435 boss :: 우두머리/ 장
+2436 weaknesses :: 약함/ 나약
+2437 weak :: 약한
+2438 communicator :: 전달자
+2439 communication :: 전달/ 통산
+2440 explain :: 설명하다
+2441 explanation :: 설명
+2442 reason :: 이유/ 이성
+2443 reasonable :: 합리적인
+2444 unreasonable :: 불합리한
+2445 well-rounded :: 원만한
+2446 round :: 둥근/ 원형의
+2447 expect :: 기대하다/ 예상하다
+2448 frown upon :: ～ 에 얼굴을 찌푸리다
+2449 matter :: 물질/ 문제/ 일/ 중요하다
+2450 late :: 늦은
+2451 lately :: 최근에
+2452 irritated :: 안달이난/ 화난
+2453 irritate :: 화나게 하다
+2454 break :: 잠시동안의 휴식
+2455 coffee break :: 커피휴식
+2456 stressful :: 긴장이 많은
+2457 stress :: 압박/ 스트레스/ 강세/ 강조
+2458 restful :: 평안을 주는
+2459 the rest :: 나머지
+2460 a rest :: 휴식
+2461 rest on :: 의존하다
+2462 favorite :: 마음에 드는 것
+2463 favorable :: 호의적인/ 유망한
+2464 ages :: 연령/ 시대/ 시절
+2465 offering :: 신청/ 제공/ 헌납
+2466 offer :: 제의하다/ 제공하다
+2467 regular :: 규칙적인
+2468 irregular :: 비규칙적인
+2469 provide :: 준비하다/ 제공하다
+2470 choice :: 선택의 기회
+2471 choose :: 고르다/ 선택하다
+2472 amusements :: 즐거움/ 오락
+2473 amuse :: 즐겁게 하다
+2474 amusing :: 즐거운
+2475 deservedly :: 당연히/ 정당히
+2476 deserve :: ～ 할 가치 있다
+2477 famous :: 유명한
+2478 fame :: 명성/ 평판
+2479 source :: 근원/ 자원
+2480 thanks to :: ～ 덕택에/ ～ 때문에
+2481 public :: 공중의/ 대중의
+2482 nature :: 자연/ 천성/ 본성
+2483 natural :: 자연의/ 본성의/ 당연한
+2484 colorful :: 다채로운
+2485 fashion :: 방법/ 방식/ 유행
+2486 fashionable :: 유행하는
+2487 depression :: 의기소침/ 우울
+2488 depress :: 우울하게 하다/ 저하시키다
+2489 oppress :: 압박하다
+2490 oppression :: 압박
+2491 press :: 누르다/ 언론/ 출판
+2492 symptom :: 징후/ 조짐
+2493 abnormal :: 비정상적인
+2494 normal :: 정상적인
+2495 finally :: 최후로/ 마침내
+2496 hopelessness :: 희망 없는
+2497 indifferent :: 무관심한
+2498 indifference :: 무관심
+2499 different :: 다른
+2500 difference :: 차이
+2501 enthusiast :: 광/ 팬
+2502 enthusiasm :: 열광/ 의욕
+2503 enthusiastic :: 열광적인
+2504 esteem :: 존중하다/ 평가하다
+2505 argue :: 논쟁하다
+2506 argument :: 논쟁
+2507 path :: 길/ 오솔길/ 보도
+2508 throw :: 던지다
+2509 intense :: 강한/ 격렬한
+2510 intensive :: 강한/ 격렬한
+2511 intension :: 긴장/ 노력/ 세기
+2512 dramatic :: 극적인
+2513 dramatically :: 극적으로
+2514 diamond :: 내야/ 야구장
+2515 plate :: 판금
+2516 home plate :: 본루
+2517 exceed :: 나아가다/ 전진하다
+2518 excess :: 초과/ 지나침
+2519 excessive :: 과도한/ 지나친
+2520 rib :: 갈비뼈/ 늑골
+2521 pastime :: 오락/ 기분전환
+2522 research :: 찾다/ 추구하다
+2523 researcher :: 연구자
+2524 carry out :: 수행하다
+2525 accomplish :: 수행하다
+2526 perform :: 수행하다/ 공연하다
+2527 indicate :: 지적하다/ 지시하다
+2528 indication :: 지적/ 지시
+2529 indicator :: 표시기/ 지시기
+2530 co-education :: 남녀공학
+2531 assumption :: 가정
+2532 assume :: 가정하다/ ～ 라고 생각하다
+2533 benefit :: 이익/ 혜택
+2534 beneficial :: 유익한/ 이로운
+2535 diminish :: 줄이다/ 감소하다
+2536 increase :: 증가시키다
+2537 career :: 직업/ 업적/ 경력
+2538 self-confidence :: 신념/ 자신감
+2539 academically :: 학문적으로
+2540 rigorous :: 엄한/ 엄격한
+2541 rigor :: 엄함/ 엄격
+2542 option :: 선택사항/ 선택권
+2543 scarce :: 드문/ 희귀한
+2544 scarcity :: 부족/ 결핍
+2545 as a result :: 결과적으로
+2546 update :: 갱신하다/ 새롭게 하다
+2547 upgrade :: 등급을 높이다
+2548 upside down :: 거꾸로
+2549 replace :: 대신하다/ 대체하다
+2550 replacement :: 대신/ 대체
+2551 countless :: 셀 수 없는/ 아주 많은
+2552 give up :: 포기하다
+2553 commit oneself to :: ～ 에 전념하다
+2554 hinder :: 방해하다
+2555 hindrance :: 방해/ 장해
+2556 ups and downs :: (인생의)부침/ 성쇠
+2557 explode :: 폭파하다
+2558 explosion :: 폭발
+2559 explosive :: 폭발의/ 폭발물
+2560 extensive :: 광대한/ 넒은
+2561 extend :: 뻗다/ 확대하다
+2562 extension :: 확대/ 확장
+2563 quantity :: 양
+2564 quality :: 질/ 자질
+2565 estimate :: 평가/ 평가하다
+2566 fairly :: 공정히/ 공평히/ 꽤
+2567 massive :: 엄청난/ 거대한
+2568 slightly :: 약하게/ 경하게
+2569 slight :: 약한/ 경미한/ 경시하다
+2570 out of touch with :: ～ 와 접촉이 없는
+2571 autograph :: 자필서명/ 사인
+2572 recognize :: 인식하다/ 알아차리다
+2573 award :: 상/ 보상/ 수여하다
+2574 million :: 백만
+2575 billion :: 10억
+2576 championship :: 선수권 대회
+2577 association :: 연합/ 협회/ 교제
+2578 not at all :: 전혀 ～ 하지 않은
+2579 honorary :: 명예상의
+2580 honor :: 명예
+2581 honorable :: 존경할만한/ 존경하는
+2582 actor :: 배우
+2583 actress :: 여배우
+2584 politician :: 정치가
+2585 appear :: 나타나다/ ～ 인 것 같다
+2586 appearance :: 출현/ 외모
+2587 footlight :: 각광
+2588 contemporary :: 동시대의/ 당대의
+2589 estimate :: 평가/ 평가하다
+2590 to a large extent :: 주로/ 넒게보아
+2591 to a extent :: 어느 정도
+2592 performance :: 공연/ 수행
+2593 perform :: 공연하다/ 수행하다
+2594 civil servant :: 공무원
+2595 every bit :: 모든 면에서
+2596 frame :: 구상하다/ 뼈대/ 틀
+2597 direct :: 직접적인/ 똑바른/ 명령하다
+2598 direction :: 방향
+2599 director :: 감독
+2600 administration :: 경영/ 관리/ 행정
+2601 administrator :: 관리자
+2602 scene :: 장면
+2603 scenery :: 경치
+2604 explore :: 탐험하다/ 탐구하다
+2605 exploration :: 탐험/ 탐구
+2606 obvious :: 명백한/ 분명한
+2607 obviously :: 분명하게/ 명백하게
+2608 intuition :: 직관
+2609 intuitive :: 직관적인
+2610 intuitively :: 직관적으로
+2611 that is ( to say) :: 즉/ 다시 말하여
+2612 acquaintance :: 지식/ 앎/ 아는 사이
+2613 acquaint :: 알리다/ 알게 되다
+2614 character :: 특징/ 특성/ 등장인물
+2615 appearance :: 출현/ 외모
+2616 primary :: 주된/ 첫째의/ 으뜸의
+2617 prime :: 첫째의/ 주요한/ 으뜸
+2618 discovery :: 발견
+2619 discover :: 발견하다/ 알아내다
+2620 first of all :: 우선/ 첫째로
+2621 proper :: 적당한
+2622 puppy :: 강아지
+2623 pet :: 애완동물
+2624 balance :: 저울/ 균형/ 균형을 맞추다
+2625 diet :: 식이요법/ 식사
+2626 contain :: 포함하다
+2627 vegetable :: 야채
+2628 be stuck in :: ～ 에 끼어 박히다
+2629 throat :: 목구멍/ 인후
+2630 plenty of :: 많은
+2631 figure drawing :: 인물화
+2632 figure :: 인물/ 숫자/ 도형
+2633 draw :: 그림을 그리다/ 끌어당기다
+2634 add :: 더하다
+2635 addition :: 더하기
+2636 in addition :: 덧붙여서
+2637 main line :: 윤곽
+2638 guide :: 안내하다/ 안내자
+2639 in proportion to ～ :: ～에 비례해서
+2640 reach :: 뻗다/ 도달하다/ 범위/ 도달
+2641 hostess :: 여주인
+2642 host :: 남자주인
+2643 seat :: 좌석/ 자리/ 착석시키다
+2644 be seat :: 자리에 앉다
+2645 in front of :: ～ 정면에서
+2646 give a push :: 밀다
+2647 give an address :: 연설하다
+2648 make a mistake :: 실수하다
+2649 take a walk :: 산책하다
+2650 take the lead :: 앞장서다/ 솔선하다
+2651 guest :: 손님
+2652 disease :: 병
+2653 punishment :: 처벌
+2654 punish :: 벌하다/ 처벌하다
+2655 greed :: 탐욕
+2656 greedy :: 탐욕스러운
+2657 disobedience :: 불복종
+2658 disobedient :: 불복종하는
+2659 obey :: 복종하다
+2660 obedient :: 복종하는
+2661 obedience :: 복종
+2662 sin :: 죄
+2663 insanity :: 정신이상
+2664 sane :: 제정신의
+2665 sanity :: 제정신/ 온전함
+2666 insane :: 미친/ 제정신이 아닌
+2667 be supposed to :: ～ 하기로 되어 있다
+2668 evil :: 나쁜/ 사악한/ 악
+2669 devil :: 악마/ 마귀
+2670 spirit :: 정신/ 영
+2671 evil spirit :: 악령/ 악마
+2672 cure :: 치료/ 치료하다
+2673 defeat :: 쳐부수다/ 패배시키다
+2674 ceremony :: 의식
+2675 wedding ceremony :: 결혼식
+2676 satisfy :: 만족시키다
+2677 industrialist :: 산업경영자/ 실업가
+2678 devote oneself to :: ～ 에 몰두하다
+2679 cooperative :: 협동의/ 협력적인
+2680 cooperation :: 협동
+2681 colony :: 식민지/ 집단/ 부락
+2682 settlement :: 정착/ 해결
+2683 settle :: 정착하다/ 해결하다
+2684 harmony :: 조화
+2685 in harmony with :: ～ 과 조화하여
+2686 credit :: 신용/ 명예
+2687 creditable :: 명예가 되는
+2688 earn :: 벌다
+2689 make money :: 돈을 벌다
+2690 initiate :: 시작하다
+2691 initial :: 처음의/ 시작의/ 머리글자
+2692 project :: 고안/ 계획하다
+2693 imitate :: 모방하다/ 모범으로 삼다
+2694 imitative :: 모방의
+2695 imitative of :: ～ 의 모방하다
+2696 imitator :: 모방자
+2697 imitation :: 모방
+2698 establish :: 설립하다
+2699 abolish :: 폐지하다
+2700 imprisonment :: 투옥
+2701 imprison :: 수감하다
+2702 prison :: 감옥
+2703 slave :: 노예
+2704 enslave :: 노예로 만들다
+2705 impressive :: 인상적인
+2706 impress :: 인상짓다/ 감명 시키다
+2707 impression :: 인상/ 감명
+2708 structure :: 구조
+2709 cliff :: 절벽
+2710 hollow :: 속이비게 하다/ 굴을 파다
+2711 contain :: 포함하다
+2712 container :: 용기
+2713 descendant :: 후손
+2714 descend :: 내려오다
+2715 descent :: 하강
+2716 ancestor :: 선조/ 조상
+2717 population :: 인구
+2718 closet :: 벽장
+2719 organize :: 조직하다
+2720 organization :: 조직
+2721 organizer :: 조직자
+2722 political :: 정치의
+2723 social :: 사회적인
+2724 sociable :: 사교적인
+2725 sociality :: 사교성
+2726 maintain :: 유지하다/ 지속하다
+2727 maintenance :: 유지
+2728 religious :: 종교적인
+2729 ceremony :: 의식
+2730 cousin :: 사촌
+2731 control :: 지배/ 통제
+2732 controller :: 관리인
+2733 vegetable :: 야채
+2734 tend :: ～ 하는 경향이 있다
+2735 seize :: 잡다
+2736 appear :: 나타나다/ ～ 인 것같다
+2737 appearance :: 출현/ 외모
+2738 agree :: 동의하다
+2739 agreement :: 동의
+2740 agreeable :: 유쾌한
+2741 publication :: 발행/간행
+2742 including :: ～ 을 포함하여
+2743 cancellation :: 취소
+2744 cancel :: 취소하다/ 중지하다
+2745 regarding :: ～ 에 관하여
+2746 content :: 만족시키다
+2747 contentment :: 만족
+2748 classified ads :: 안내광고/ 3행광고
+2749 disclose :: 드러내다/ 누설하다
+2750 reveal :: 들추어내다/ 폭로하다
+2751 free-of-charge :: 무료의
+2752 comment :: 논평/ 주석/ 논평하다
+2753 one day :: 어느 날
+2754 some day :: 어느 날
+2755 consent :: 동의하다/ 동의
+2756 dissent :: 의견을 달리하다
+2757 sore :: 아픈/ 쓰라린
+2758 thumb :: 엄지 손가락
+2759 amid :: ～ 의 한복판에
+2760 accuracy :: 정확함
+2761 accurate :: 정확한
+2762 excellence :: 우수/ 우월
+2763 excellent :: 우수한/ 우월한
+2764 rest :: 나머지/ 휴식/ 의존하다
+2765 the rest :: 나머지
+2766 a rest :: 휴식
+2767 rest on :: 의존하다
+2768 survey :: 조사하다/ 바라보다
+2769 poll :: 투표/ 여론조사
+2770 widely :: 폭이 넓게
+2771 wide :: 넒은
+2772 widen :: 넒게하다
+2773 publicize :: 공표 하다
+2774 conclusive :: 결정적인/ 결론적인
+2775 conclude :: 결론짓다
+2776 conclusion :: 결말/ 결론
+2777 decade :: 10년
+2778 many decades :: 수십년
+2779 transfer :: 양도하다/ 옮기다/ 양도
+2780 concern :: 관심/ 걱정
+2781 be concerned about :: ～ 에 걱정하다
+2782 be concerned with :: ～ 에 관련되다
+2783 settle :: 정착하다/ 해결하다
+2784 settlement :: 정착/ 해결
+2785 consider :: 생각하다/ 간주하다
+2786 every bit :: 모든 점에서
+2787 bit by bit :: 단계적으로
+2788 as ～ as :: ～ 만큼 ～ 한
+2789 not so(as) ～ as :: ～ 만큼 ～ 하지 않은
+2790 British :: 영국
+2791 geographical :: 지리적인
+2792 geography :: 지리
+2793 assume :: 생각하다/ 가정하다
+2794 assumption :: 가정/ 떠맡음
+2795 eventual :: 최후의/ 영원한
+2796 eventually :: 결국/ 드디어/ 마침내
+2797 in fact :: 사실상
+2798 own :: 소유하다/ 자신의
+2799 mount :: 오르다
+2800 whisker :: 구레나룻 수염
+2801 beard :: 턱수염
+2802 mustache :: 코밑 수염
+2803 planet :: 혹성
+2804 pack :: 꾸러미/ 짐을 구리다
+2805 immense :: 거대한
+2806 immensely :: 거대하게/ 아주
+2807 step by step :: 조금씩 조금씩
+2808 galaxy :: 은하(수)/ 은하계
+2809 universe :: 우주
+2810 universal :: 우주의/ 일반적인
+2811 amazingly :: 놀랄 만큼/ 굉장하게
+2812 amazing :: 놀라운/ 굉장한
+2813 amaze :: 놀라게 하다
+2814 imaginative :: 상상의
+2815 imagine :: 상상하다
+2816 imagination :: 상상
+2817 audacious :: 대담한
+2818 count on :: 믿다
+2819 transport :: 수송하다/ 운송하다
+2820 finance :: 재정
+2821 financial :: 재정의
+2822 unfortunately :: 불행히도
+2823 fortunately :: 운 좋게도
+2824 fortune :: 행운/ 재산
+2825 stretch :: 뻗치다/ 미치다
+2826 increases :: 증가/ 증가하다
+2827 decrease :: 감소하다
+2828 diminish :: 줄이다
+2829 annual :: 연례적인
+2830 annually :: 년간으로
+2831 weekly :: 주간으로
+2832 daily :: 일간으로
+2833 review :: 재조사/ 복습/ 감사
+2834 board :: 위원회/ 관리단
+2835 condition :: 상태/ 조건
+2836 on condition that :: ～ 라는 조건으로
+2837 applications :: 신청
+2838 apply for :: 지원하다
+2839 applicant :: 지원자/ 신청자
+2840 favorably :: 호의적으로
+2841 favor :: 호의/ 친절
+2842 favorable :: 호의적인
+2843 favorite :: 가장 좋아하는
+2844 be aware of :: ～ 을 알아차리다
+2845 awareness :: 인식
+2846 effort :: 노력
+2847 make effort :: 노력하다
+2848 on behalf of :: 대신하여
+2849 company :: 회사/ 친구/ 동료
+2850 accompany :: 동행하다
+2851 emphatically :: 단호하게/ 결단코
+2852 appreciate :: 평가하다/ 감사하다
+2853 appreciation :: 감사/ 감상
+2854 disappoint :: 실망시키다
+2855 be disappointed at :: ～ 에 실망하다
+2856 for the time being :: 당분간
+2857 for a while :: 당분간
+2858 agree :: 동의하다
+2859 agreement :: 동의
+2860 agreeable :: 기분 좋은
+2861 demand :: 요구하다/ 주장하다
+2862 demand and supply :: 수요와 공급
+2863 permit :: 허락하다/ 허가하다
+2864 permission :: 허락/ 허가
+2865 appreciate :: 평가하다/ 감상하다
+2866 reject :: 거절하다
+2867 well-known :: 유명한/ 잘 알려진
+2868 be known for :: ～ 로 유명하다
+2869 be known to :: ～ 에게 알려지다
+2870 be known by :: ～ 로 알려지다
+2871 quality :: 질/ 자질
+2872 quantity :: 양
+2873 reliability :: 신뢰도
+2874 rely :: 믿다
+2875 eliable :: 믿을 만한
+2876 goods :: 상품
+2877 hesitation :: 주저함
+2878 hesitate :: 주저하다/ 망설이다
+2879 frequent :: 자주 일어나는
+2880 frequently :: 빈번하게/ 자주
+2881 weld :: 용접하다
+2882 joint :: 관절/ 접합
+2883 render :: ～ 하게 하다
+2884 connect :: 잇다/ 결합하다
+2885 connection :: 관계/ 연락/ 연결
+2886 energetically :: 힘차게
+2887 energetic :: 정력적인/ 힘차게
+2888 not ～ any more :: 더이상 ～ 하지 않은
+2889 reweld :: 다시 용접하다
+2890 grateful :: 감사해하는
+2891 unfortunate :: 불운한/ 불행한
+2892 unfortunately :: 불행하게
+2893 fortune :: 행운/ 재산
+2894 make fortune :: 돈을 벌다/ 재산을 모으다
+2895 police :: 경찰
+2896 criticize :: 비평하다/ 비판하다
+2897 criticism :: 비평/ 비판
+2898 critical :: 비판적인/ 비평적인
+2899 incapable :: ～ 할 능력이 없는
+2900 be capable of :: ～ 할 능력이 있다
+2901 be able to :: ～ 할 수 있다
+2902 capability :: 능력
+2903 incapability :: 무능력
+2904 prevent :: 막다/ 예방하다
+2905 preventer :: 방해자
+2906 prevention :: 방지/ 예방
+2907 crime :: 죄
+2908 criminal :: 죄의/ 범죄자
+2909 arrest :: 체포하다
+2910 suffer	from :: ～ 겪다/ 고생하다
+2911 criminal :: 범죄인
+2912 namely :: 즉/ 다시 말하자면
+2913 shortage :: 부족/ 결핍
+2914 be short of :: ～ 이 부족하다
+2915 manpower :: 인력
+2916 equipment :: 장비
+2917 equip :: 장비를 갖추다
+2918 as well as :: ～ 뿐만 아니라
+2919 inadequate :: 불충분한
+2920 salary :: 봉급/ 급료
+2921 government :: 정부
+2922 govern :: 지배하다
+2923 do one's utmost :: 최선을 다하다
+2924 enhance :: 고양시키다
+2925 capability :: 능력
+2926 force :: 힘/ 군대/ ～ 을 강요하다
+2927 be forced to :: 어쩔 수 없이 ～ 하다
+2928 means :: 수단/ 방법/ 재산
+2929 especially :: 특히/ 각별히
+2930 especial :: 특별한/ 각별한
+2931 raise :: 올리다/ 끌어올리다
+2932 so that S + V :: 그래서/ ～ 하기 위하여
+2933 serve :: 섬기다/ ～에 봉사하다
+2934 trustworthy :: 신뢰할 수 있는
+2935 servant :: 상용인/ 고용인
+2936 protest :: 항의하다
+2937 apologize :: 사과하다
+2938 encourage :: 격려하다
+2939 discourage :: 낙담시키다
+2940 courage :: 용기
+2941 courageous :: 용기 있는
+2942 make sure :: 확인하다/ 확신하다
+2943 be concerned about :: 걱정하다
+2944 be concerned with :: ～ 과 관계되다
+2945 environment :: 환경
+2946 newborn nursery :: 신생아실
+2947 ordinarily :: 보통/ 대개
+2948 skin :: 피부
+2949 skinny :: 피골이 상접한/ 깡마른
+2950 search :: 찾다/ 뒤지다
+2951 solution :: 해결/ 용해
+2952 solve :: 풀다/ 해결하다
+2953 landfill :: 쓰레기 매립지
+2954 problem :: 문제
+2955 deserve :: ～ 할 만하다
+2956 terribly :: 무섭게/ 지독하게
+2957 terrible :: 무서운/ 지독한/ 나뿐
+2958 terrific :: 굉장한/ 아주 좋은
+2959 upset :: 당황한
+2960 tough :: 강인한/ 질긴
+2961 worry about :: 걱정하다
+2962 cope :: 대처하다
+2963 invite :: 초청하다/ 초대하다
+2964 graduation :: 졸업
+2965 graduate :: 졸업하다/ 졸업생
+2966 basic :: 기초적인
+2967 training :: 훈련
+2968 trainer :: 훈련자
+2969 train :: 기차/ 훈련시키다
+2970 mature :: 성숙한/ 익은
+2971 premature :: 미숙한
+2972 immature :: 조수간
+2973 maturity :: 성숙/ 원숙
+2974 self-confident :: 자신감에 찬
+2975 self-confidence :: 자기확신
+2976 self-conscious :: 자의식의
+2977 self-help :: 자조
+2978 realize :: 알아차리다
+2979 grow up :: 자라다/ 성장하다
+2980 grown-up :: 성인
+2981 growing-up :: 청소년
+2982 edge :: 가장자리/ 언저리/ 끝
+2983 inform :: 알려주다/ 통보하다
+2984 information :: 정보
+2985 staff :: 직원/ 간부
+2986 apply for :: 지원하다/ 응모하다
+2987 application :: 지원/ 신청
+2988 applicant :: 지원자/ 신청자
+2989 post :: 기둥/ 지위/ 자리
+2990 administrative :: 행정의/ 경영의
+2991 administration :: 경영/ 관리/ 행정
+2992 manager :: 지배인/ 경영자
+2993 organization :: 조직
+2994 organize :: 조직하다
+2995 oblige :: 감사하다/ 강요하다
+2996 opinion :: 의견/ 견해
+2997 efficiency :: 능력/ 효율성
+2998 efficient :: 능률적인/ 유능한
+2999 character :: 특성/ 특징/ 등장인물
+3000 characteristic :: 특징/ 특성
+3001 reliable :: 믿을 만한
+3002 reliability :: 신뢰
+3003 rely on :: 믿다/ 의존하다
+3004 hard-working :: 열심히 일하는
+3005 in particular :: 특히
+3006 safely :: 안전하게
+3007 safe :: 안전한/ 금고
+3008 trust :: 신뢰/ 신용/ 믿다
+3009 confidential :: 기밀의/ 비밀의
+3010 matter :: 물질/ 물건/ 일/ 문제/
+3011 anticipation :: 기대/ 예상
+3012 anticipate :: 예상하다
+3013 participate :: 참가하다
+3014 inquiry :: 문의/ 질문/ 조사
+3015 inquire :: 묻다/ 조사하다
+3016 complaint :: 불평
+3017 complain :: 불평하다
+3018 application :: 적용/ 신청
+3019 apply for :: 지원하다
+3020 recommendation :: 추천
+3021 recommend :: 추천하다
+3022 manage :: 처리하다
+3023 according to 명사 :: ～ 에 따라서
+3024 meet :: 충족시키다/ 직면하다
+3025 needs :: 필요/ 결핍/ 빈곤
+3026 employer :: 고용주
+3027 employee :: 피고용인
+3028 flexible :: 융통성 있는
+3029 flexibility :: 유연성/ 융통성
+3030 inflexible :: 강직한/ 융통성 없는
+3031 leave :: 떠나다/ 남겨두다
+3032 absence :: 부재
+3033 absent :: 결석한/ 결석하다
+3034 parental :: 부모의
+3035 guarantee :: 보장하다
+3036 temporarily :: 임시로
+3037 temporary :: 일시적인/ 임시의
+3038 industrialize :: 산업화하다
+3039 industrial :: 산업의
+3040 industrialization :: 산업화
+3041 policy :: 정책/ 방침
+3042 poise :: 자세를 잡다
+3043 tensed :: 긴장된
+3044 scream :: 소리치다
+3045 confident :: 자신하는/ 확신하는
+3046 confidence :: 신념
+3047 supreme :: 최고의
+3048 victor :: 승리자
+3049 draw :: 끌다/ 당기다/ 그림을 그리다
+3050 drawing :: 그림
+3051 check :: 점검/ 검사
+3052 raise :: 일으키다/ 올리다
+3053 pause :: 잠깐 쉬다/ 멈추다
+3054 downward :: 내려가는
+3055 thrust :: 밀다/ 내밀다/ 밀침/ 찌름
+3056 leap :: 뛰다/ 도약하다
+3057 forward :: 앞으로
+3058 backward :: 뒤로
+3059 frightening :: 무서운/ 놀라운
+3060 fright :: 공포
+3061 frighten :: 무섭게 하다
+3062 except :: ～ 을 제외하고
+3063 break down :: 무너지다/ 실패하다
+3064 break out :: 발생하다
+3065 break in :: 침입하다/ 끼여들다
+3066 conduct :: 행동
+3067 kindergarten :: 유치원
+3068 entirely :: 전적으로
+3069 afterward :: 뒤에/ 나중에
+3070 affect :: 영향을 미치다/ 감동시키다
+3071 affection :: 영향/ 감동/ 애정
+3072 motor :: 발동기
+3073 skeptical :: 회의적인/ 의심 많은
+3074 confuse :: 혼란시키다
+3075 confusion :: 혼란
+3076 be confused :: 당황하다
+3077 besides :: ～ 이외에/ 덧붙여서
+3078 evolution :: 진화/ 발전
+3079 evolve :: 발달하다/ 전개하다
+3080 scream :: 소리를 지르다
+3081 fill :: 채우다
+3082 be filled with :: ～ 로 가득차 있다
+3083 contented :: 만족한
+3084 content :: 만족시키다
+3085 indifferent :: 무관심한
+3086 grateful :: 고맙게 여기는
+3087 regretful :: 유감스럽게도
+3088 regret :: 유감으로 생각하다
+3089 sympathetic :: 동정적인/ 공감하는
+3090 sympathy :: 동정/ 연민
+3091 timid :: 겁많은
+3092 timidity :: 수줍음/ 소심
+3093 shy / modest :: 수줍은
+3094 seldom :: 좀처럼 ～ 않는
+3095 ride :: 타다
+3096 get off :: 내리다
+3097 amusement :: 즐거움
+3098 amusing :: 재미있는
+3099 amuse :: 즐겁게 하다
+3100 be forced to :: 어쩔수 없이 ～하다
+3101 announce :: 발표하다
+3102 congratulation :: 축하
+3103 congratulate :: 축하하다
+3104 celebrate :: 기념하다
+3105 celebration :: 기념
+3106 trip :: 여행
+3107 free :: 자유로운/ 한가한/ 공짜의
+3108 delight :: 기쁨
+3109 delighted :: 매우 즐거운
+3110 embarrassed :: 당황한
+3111 embarrassment :: 당혹
+3112 depressed :: 내리 눌린/ 울적한
+3113 depression :: 하락/ 우울/ 불경기
+3114 depress :: 우울하게 하다
+3115 fulfill :: 완수하다
+3116 ambition :: 야심
+3117 international :: 국제간의
+3118 recent :: 최근의
+3119 accomplish :: 성취하다/ 달성하다
+3120 relevant :: 관련된
+3121 be relevant to :: ～ 에 관련된
+3122 chairman :: 의장
+3123 conclude :: 끝내다/ 결론짓다
+3124 conclusion :: 종결
+3125 conclusive :: 결정적인
+3126 audience :: 청중
+3127 envious :: 부러워하는
+3128 witty :: 재치 있는
+3129 fearful :: 무서운
+3130 informative :: 정보를 알리는
+3131 inform :: 알리다
+3132 pick up :: 줍다/ 따다
+3133 drop :: 물방울/ 하락
+3134 take care of :: ～ 을 돌보다
+3135 matter :: 물질/ 물건/ 문제
+3136 available :: 이용할 수 있는
+3137 avail :: 이용하다
+3138 quickly :: 빠르게/ 즉시
+3139 funeral home :: 장례식장
+3140 funeral :: 장례의
+3141 across :: 가로질러/ 건너서
+3142 cross :: 십자가/ 건너다
+3143 protest :: 항의하다/ 주장하다
+3144 errand :: 심부름
+3145 search :: 찾다/ 수색하다
+3146 empty :: 빈/ 공허한
+3147 refrigerator :: 냉장고
+3148 store :: 상점/ 저장하다
+3149 compact car :: 소형승용차
+3150 traffic :: 교통의
+3151 roll :: 구르다
+3152 gloomy :: 어두운/우울한
+3153 humorous :: 해학적인
+3154 enormously :: 엄청나게
+3155 enormous :: 거대한/ 엄청난
+3156 huge :: 거대한/ 엄청난
+3157 a number of :: 많은(셀 수 있는 명사)
+3158 the amount of :: ～ 의 양(셀 수 없는 명사)
+3159 shorten :: 짧게 하다/ 줄이다
+3160 short :: 잚은
+3161 shortage :: 부족/ 결핍
+3162 period :: 기간/ 시대
+3163 among :: ～ 의 가운데
+3164 elaborate :: 정교한
+3165 efficient :: 효율적인
+3166 match :: 어울리다/ 행진하다
+3167 hurried :: 매우 급한
+3168 hurry :: 서두르다/ 서두름
+3169 hurriedly :: 매우 급히
+3170 population :: 인구
+3171 popularity :: 유행
+3172 recent :: 최근의
+3173 generation :: 세대
+3174 the new generation :: 신세대
+3175 ingenious :: 재주 있는
+3176 create :: 창조하다/ 만들다
+3177 creation :: 창조
+3178 creative :: 창조적인
+3179 creator :: 창조자
+3180 perpetual :: 영구적인
+3181 distinctive :: 독특한
+3182 distinguish :: 구별하다/ 차별하다
+3183 distinction :: 구별/ 차이
+3184 process :: 진행/ 절차
+3185 pleasure :: 즐거움
+3186 please :: 즐겁게 하다
+3187 form :: 모양/ 형태/ 형식
+3188 provide :: 공급하다/ 제공하다
+3189 providing :: ～ 할 조건으로
+3190 really :: 실제로
+3191 real :: 실제 하는
+3192 realistic :: 실제적인
+3193 complicated :: 복잡한
+3194 complex :: 복잡한
+3195 require :: 요구하다
+3196 requirement :: 요구
+3197 competition :: 경쟁
+3198 compete :: 경쟁하다
+3199 competitive :: 경쟁의/ 경쟁하는
+3200 relationship :: 관계/ 관련
+3201 cycle :: 주기/ 순환
+3202 certain :: 확실한/ 어떤
+3203 make certain :: 확신하다
+3204 ballpoint pen :: 볼펜
+3205 appointment :: 약속
+3206 make appointment :: (시간)약속하다
+3207 make a promise :: 약속하다
+3208 menu :: 식단
+3209 prescription :: 처방
+3210 prescribe :: 처방하다/ 규정하다
+3211 consultation :: 자문/ 상담
+3212 consult :: 참고하다/ 자문하다
+3213 practice medicine :: 의사 개업하다
+3214 swell :: 부어오르다
+3215 strengthen :: 강하게 하다
+3216 strength :: 힘/ 세기
+3217 lily :: 백합
+3218 benefit :: 이익/ 이익을 주다
+3219 beneficial :: 유익한/ 이로운
+3220 soothe :: 가라앉히다/ 달래다
+3221 soothing :: 달래는/ 위로하는
+3222 nerve :: 신경
+3223 qualify :: 자격을 갖추다
+3224 qualification :: 자격/ 면허
+3225 prestige :: 위신/ 명성
+3226 lesson :: 학과/ 교육
+3227 clearly :: 똑똑히
+3228 clear :: 맑은/ 깨끗이 하다
+3229 include :: 포함하다
+3230 inclusion :: 포함
+3231 exclude :: 제외시키다
+3232 exclusion :: 제외
+3233 conclude :: 결론짓다
+3234 conclusion :: 결론
+3235 drawing :: 그림
+3236 draw :: 끌다/ 그림을 그리다
+3237 diagram :: 도표
+3238 degrees :: 학위/ 정도/ 등급
+3239 diploma :: 졸업증서
+3240 recognize :: 인정하다/ 알아주다
+3241 recognition :: 인식/ 승인
+3242 career :: 경력/ 직업/ 업적
+3243 timetable :: 시간표
+3244 claim :: 요구하다/ 요청하다
+3245 personal education :: 인성교육
+3246 pupil :: 학생/ 동공
+3247 especially :: 특히
+3248 especial :: 특별한
+3249 activity :: 활동
+3250 active :: 활동적인
+3251 share :: 공유하다
+3252 develop :: 발달시키다
+3253 loyalty :: 성실성/ 충실
+3254 loyal :: 충성스러운/ 충실한
+3255 royal :: 왕/ 왕족
+3256 royalty :: 왕/ 왕권/ 특허사용권
+3257 identity :: 자아/ 주체/ 동일
+3258 identify :: 동일시하다
+3259 identical :: 동일한
+3260 consist in :: ～ 에 놓여있다
+3261 consist with :: ～ 과 양립하다
+3262 consistent :: 일치하는
+3263 accompany :: 동반하다
+3264 company :: 회사/ 친구/ 동료
+3265 intend :: 의도하다
+3266 intention :: 의도
+3267 intensive :: 집중적인
+3268 examination :: 시험/ 조사
+3269 preparation :: 준비
+3270 complement :: 보충하다/ 보충
+3271 element :: 기본
+3272 material :: 물질적인/ 물질
+3273 fundamental :: 기본적인/ 기초적인
+3274 fundamental right :: 기본권
+3275 thoroughly :: 철저하게
+3276 support :: 지탱하다
+3277 range :: 열/ 연속/ 범위/ 산맥
+3278 designed :: 계획된
+3279 designedly :: 계획적으로
+3280 extend :: 뻗다/ 확장하다
+3281 extension :: 확장/ 확대
+3282 extensive :: 광대한/ 넒은
+3283 primary :: 일차적인/ 첫째의
+3284 prime :: 제1의/ 주요한
+3285 task :: 임무/ 할일
+3286 technology :: 기술
+3287 lighten :: 밝게 하다
+3288 burden :: 짐/ 부담/ 짐을 지우다
+3289 develop :: 발달시키다
+3290 potential :: 가능한/ 잠재하는
+3291 fulfill :: 수행하다/ 완수하다
+3292 purpose :: 목적/ 취지
+3293 particular :: 특수한/ 특정한
+3294 particularly :: 특히/ 자세하게
+3295 piece :: 조각/ 부품/ 단면
+3296 machinery :: 기계장치
+3297 clerk :: 사무원
+3298 availability :: 유효성/ 유효/ 효율
+3299 available :: 이용할 수 있는
+3300 avail :: 이용하다
+3301 future :: 미래
+3302 past :: 과거
+3303 present :: 현재
+3304 worldwide :: 세상에 널리 알려진
+3305 worldly :: 이 세상의/ 세속적인
+3306 significance :: 중요/ 중요성/ 의미
+3307 significant :: 중요한/ 의미 있는
+3308 signify :: 의미하다
+3309 dependent :: 의지하고 있는
+3310 dependence :: 종속/ 의존
+3311 depend on :: ～ 에 의존하다
+3312 independent :: 독립적인
+3313 independence :: 독립
+3314 amount :: 양/ 총량
+3315 the amount of :: ～ 의 양
+3316 the number of :: ～ 의 수
+3317 a number of :: 많은
+3318 fossil fuel :: 화석 연료
+3319 major :: 다수의/ 주요한
+3320 majority :: 대다수
+3321 minor :: 소수의
+3322 minority :: 소수
+3323 demand :: 요구하다
+3324 continue :: 계속하다
+3325 continuity :: 연속
+3326 continuous :: 연속적인
+3327 appear :: 나타나다/ ～ 인것같다
+3328 appearance :: 출현/ 외모
+3329 shrinking :: 줄어드는
+3330 shrink :: 오그라들다/ 줄어들다
+3331 imminent :: 절박한
+3332 guardian :: 수호자
+3333 community :: 공동체/ 사회
+3334 evolve :: 진화하다/ 발전하다
+3335 evolution :: 전개/ 발전/ 진화
+3336 preservation :: 보호/ 보존
+3337 preserve :: 보호하다/ 보존하다
+3338 spy :: 스파이/ 탐정 하다
+3339 seat :: 착석하다/ 자리에 앉다
+3340 central :: 중심의/ 중심적인
+3341 ego :: 자아(自我)
+3342 approval :: 찬성/ 승인
+3343 approve :: 인정하다/ 승인하다
+3344 freedom :: 자유
+3345 free :: 자유로운/ 공짜의/ 한가한
+3346 wisdom :: 지혜
+3347 courage :: 용기
+3348 courageous :: 용기 있는
+3349 encourage :: 격려하다
+3350 discourage :: 낙담시키다
+3351 conscience :: 양심
+3352 conscious :: 의식적인
+3353 electricity :: 전기
+3354 in case :: S + V	～ 할 경우에
+3355 the red cross :: 적십자사
+3356 health centers :: 보건소/ 진료소
+3357 nearby :: 근처의
+3358 organize :: 조직하다
+3359 organization :: 조직
+3360 save :: 구출하다/ 저축하다
+3361 put by :: 저축하다
+3362 spend :: 쓰다/ 소비하다
+3363 local :: 지역의/ 지방의
+3364 station :: 방송국
+3365 local station :: 지방 방송
+3366 tune :: 주파수를 맞추다
+3367 favorite :: 가장 좋아하는 것
+3368 favorable :: 호의적인
+3369 favor :: 호의/ 친절한 행위
+3370 listing :: 표/ 명부
+3371 area :: 면적/ 지역
+3372 carry :: 방송하다/ 전하다
+3373 special :: 특별프로
+3374 kids :: 새끼염소/ 아이들
+3375 obvious :: 명백한/ 분명한
+3376 obviously :: 분명하게/ 명백하게
+3377 physical :: 육체적인
+3378 mental :: 정신적
+3379 material :: 물질적인
+3380 danger :: 위험
+3381 endanger :: 위태롭게 하다
+3382 dangerous :: 위험한
+3383 psychological :: 심리학의
+3384 psychology :: 심리학/ 심리
+3385 isolation :: 고립/ 격리
+3386 isolate :: 고립시키다/ 격리하다
+3387 isolated :: 고립된/ 격리된
+3388 nevertheless :: 그럼에도 불구하고
+3389 concept :: 개념
+3390 come of age :: 어른이 되다
+3391 connect :: 잇다/ 결합하다
+3392 connection :: 결합/ 연결
+3393 elaborate :: 정교한/ 공을 들인
+3394 communicate :: 의사소통하다
+3395 transportation :: 수송
+3396 transport :: 수송하다/ 운송하다
+3397 nourish :: 영양을 공급하다
+3398 resource :: 자원
+3399 natural resource :: 천연 자원
+3400 futurist :: 미래학자
+3401 argument :: 논쟁
+3402 argue :: 논쟁하다
+3403 debate :: 논쟁하다/ 논쟁
+3404 discuss :: 토론하다
+3405 discussion :: 토론
+3406 remedy :: 치료/ 치유/ 치료하다
+3407 cure :: 치료/ 치료하다
+3408 curable :: 치료할 수 있는
+3409 incurable :: 치료할 수 없는
+3410 delay :: 늦게 하다/ 연착하다
+3411 folly :: 어리석음
+3412 repentance :: 후회
+3413 repentant :: 후회하는
+3414 repent :: 후회하다
+3415 intolerance :: 도량이 좁음
+3416 tolerate :: 참다/ 견디다
+3417 tolerance :: 관용/ 관대/ 아량
+3418 temper :: 성질/ 기질
+3419 lose one's temper :: 화를 내다
+3420 correct :: 바른/ 바르게 하다
+3421 ignorance :: 무지/ 무식
+3422 knowledge :: 학식/ 지식
+3423 truth :: 진리
+3424 true :: 진실한
+3425 worst :: 가장 나쁜
+3426 victory :: 승리
+3427 victor :: 승리자
+3428 agreeable :: 유쾌한/ 즐거운
+3429 defeat :: 격파하다/ 패배시키다
+3430 triumph :: 승리
+3431 frustration :: 좌절
+3432 frustrate :: 좌절시키다
+3433 liberal :: 아낌없이 주는/ 자유로운
+3434 liberty :: 자유/ 해방
+3435 liberalize :: 자유화하다
+3436 bucket :: 양동이/ 물통
+3437 grain :: 미량/ 곡물
+3438 gold grain :: 황금 곡식
+3439 dwell :: 거주하다
+3440 dweller :: 거주민
+3441 sink :: 가라앉다
+3442 hatred :: 증오
+3443 hate :: 미워하다/ 증오하다
+3444 progressive :: 진보적인/ 점진적인
+3445 progress :: 진보/ 전진
+3446 safeguard :: 파수꾼
+3447 safe :: 안전한/ 금고
+3448 guard :: 지키다/ 경계하다
+3449 liberty :: 자유
+3450 liberal :: 자유로운
+3451 standing army :: 상비군
+3452 disclose :: 드러내다/ 폭로하다
+3453 close :: 닫다/ 가까운/ 친밀한
+3454 disguise :: 변장시키다/ 가장하다
+3455 lack :: 부족/ 결핍/ ～ 이 부족하다
+3456 for lack of :: ～ 이 부족하여
+3457 discipline :: 규율
+3458 superstition :: 미신
+3459 mountain :: 산
+3460 mount :: 오르다
+3461 mountainous :: 산이 많은
+3462 vast :: 거대한
+3463 colony :: 집단거주지/ 식민지
+3464 electrify :: 전기를 통하게 하다
+3465 electricity :: 전기
+3466 electronic :: 전자의
+3467 wire :: 철사/ 전선/ 줄
+3468 patrol :: 순시하다/ 순찰하다
+3469 patrol car :: 순찰차
+3470 carry :: 운반하다/ 지니다
+3471 prison :: 형무소/ 감옥
+3472 jail :: 감옥/ 교도소
+3473 communist :: 공산주의자
+3474 related :: 관계 있는
+3475 relate :: 이야기하다/ 관계시키다
+3476 relation :: 관계
+3477 relative :: 관계된/ 친척
+3478 analyst :: 분석가/ 분해자
+3479 analysis :: 분석/ 분해
+3480 analyze :: 분석하다/ 분해하다
+3481 political :: 정치의
+3482 politics :: 정치학
+3483 polity :: 정치
+3484 politician :: 정치가
+3485 prisoner :: 죄수
+3486 condition :: 상태/ 조건
+3487 recall :: 생각나게 하다
+3488 spectacle :: 광경
+3489 spectacles :: 안경
+3490 occasionally :: 때때로
+3491 occasional :: 이따금씩의
+3492 occasion :: 이유
+3493 precaution :: 조심/ 예방
+3494 caution :: 주의/ 조심
+3495 mistake A for B :: A를 B로 잘못 생각하다
+3496 approach :: 접근하다
+3497 greet :: 인사하다
+3498 greeting :: 인사
+3499 cheerily :: 기분 좋게
+3500 mumble :: 중얼거리다
+3501 apology :: 사죄/ 사과
+3502 apologize :: 사과하다
+3503 astonishment :: 경악/ 놀라움
+3504 astonish :: 놀라게 하다
+3505 be astonished at :: ～ 에 놀라다
+3506 optimist :: 낙관주의자
+3507 optimism :: 낙천주의
+3508 pessimism :: 비관주의
+3509 pessimist :: 비관주의자
+3510 badly :: 나쁘게/ 서투르게
+3511 meaning :: 의미
+3512 regardless of :: ～ 에 관계없이
+3513 state :: 상태/ 州/ 진술하다
+3514 statement :: 진술/ 말
+3515 surround :: 둘러싸다
+3516 surroundings :: 환경
+3517 empty :: 빈/ 공허한
+3518 emptiness :: 공허/ 빈곳
+3519 useless :: 쓸모 없는
+3520 useful :: 유용한
+3521 usage :: 용법/ 관습/ 관행
+3522 strive for :: ～ 을 얻으려고 애쓰다
+3523 thankful :: 감사하고 있는
+3524 gift :: 선물/ 재능
+3525 decade :: 10년
+3526 many decades :: 수십년간
+3527 endure :: 견디다/ 지탱하다/ 계속하다
+3528 hellish :: 지옥 같은
+3529 hell :: 지옥
+3530 heaven :: 천국
+3531 terror :: 공포
+3532 president :: 대통령
+3533 presidential :: 대통령의
+3534 call on :: 요구하다
+3535 overthrow :: 뒤집어엎다
+3536 overflow :: 범람하다
+3537 overeat :: 과식하다
+3538 overestimate :: 과대평가하다
+3539 dictator :: 독재자/ 명령자
+3540 dictate :: 명령하다/ 받아쓰게 하다
+3541 dictation :: 명령/ 받아쓰기
+3542 respond :: 대답하다/ 반응하다
+3543 response :: 응답
+3544 responsible :: 책임 있는
+3545 instantly :: 즉시
+3546 instant :: 즉시/ 순간/ 즉각의
+3547 instant S + V :: ～ 하자마자
+3548 take up arms :: 무기를 들다
+3549 arms :: 팔들/ 무기
+3550 unarmed :: 비무장한
+3551 troop :: 떼/ 부대
+3552 appear :: 나타나다
+3553 appearance :: 출현/ 외모
+3554 freedom :: 자유
+3555 free :: 자유로운/ 한가한
+3556 tribe :: 종족/ 부족
+3557 east :: 동쪽
+3558 eastern :: 동쪽의
+3559 provide :: 준비하다/ 공급하다
+3560 providing :: ～ 할 조건으로
+3561 practical :: 실용적인
+3562 impractical :: 비실용적인
+3563 practice :: 관행/ 관습
+3564 solution :: 해결법/ 해답
+3565 solve :: 풀다/ 해결하다
+3566 adult :: 성인의
+3567 separate :: 분리하는/ 별개의/ 분리하다
+3568 responsibility :: 책임
+3569 conflict :: 싸움/ 투쟁
+3570 spiritual :: 정신의
+3571 spirit :: 정신/ 혼
+3572 value :: 가치/ 유용성
+3573 set up :: ～ 을 일으키다
+3574 creature :: 생명이 있는 것
+3575 create :: 창조하다
+3576 creation :: 창조
+3577 creative :: 창조적인
+3578 creator :: 창조자
+3579 particular :: 특수한/ 특별한
+3580 particularly :: 특별히
+3581 sensitive :: 민감한
+3582 sensible :: 분별 있는
+3583 barometric pressure :: 기압
+3584 pressure :: 압력
+3585 press :: 누르다/ 언론/ 출판
+3586 predict :: 예언하다/ 예상하다
+3587 prediction :: 예상/ 예언
+3588 weather :: 일기/ 날씨
+3589 weather forecast :: 일기예보
+3590 lower :: 낮추다/ 내려가다
+3591 compensate :: 벌충을 하다/ 메우다
+3592 make up for :: ～ 을 보충하다
+3593 indicate :: ～ 의 징후이다
+3594 indication :: 지시/ 징후
+3595 indicator :: 척도/ 표시기
+3596 similarly :: 유사하게/ 비슷하게
+3597 similar :: 유사한/ 비슷한
+3598 similarity :: 유사/ 비슷함
+3599 housefly :: 집파리
+3600 detect :: 감지하다
+3601 detection :: 간파/ 탐지
+3602 detective :: 탐정/ 형사
+3603 downpour :: (억수 같은) 비
+3604 react :: 반응하다
+3605 reaction :: 반응/ 반동
+3606 thunderstorm :: 천둥이 치는 폭풍우
+3607 electricity :: 전기
+3608 separate :: 가르다/ 분리하다
+3609 lick :: 핥다
+3610 fur :: 모피/ 털
+3611 whistle :: 휘파람을 불다/ 휘파람
+3612 cheerfully :: 기분 좋게/ 명랑하게
+3613 except for :: ～ 이 없으면
+3614 parcel :: 소포
+3615 deliver :: 배달하다/ 의견을 말하다
+3616 delivery :: 배달/ 인도/ 말투
+3617 mind :: 마음/ 정신
+3618 never failed to	언제나 ～ :: 하다
+3619 piece :: 조각/ 단편/ 부품
+3620 spice :: 조미료/ 향신료
+3621 attendant :: 수행원
+3622 agent :: 대리인
+3623 consumption :: 소비
+3624 consume :: 소비하다
+3625 average :: 평균의
+3626 drop :: 물방울/ 하락
+3627 former :: 앞의/ 이전의
+3628 switch to :: ～ 로 바꾸다/ 전환하다
+3629 beverage :: 음료
+3630 soda :: 소다
+3631 come by :: 얻다/ 입수하다
+3632 refrigeration :: 냉동/ 냉장
+3633 major :: 주요한
+3634 agency :: 서비스/ 제공기관
+3635 independent :: 독립의
+3636 self-sustaining :: 자립한
+3637 sustain :: 지탱하다/ 견디다
+3638 bureau :: 국(관청의)
+3639 subscriber :: 기부자
+3640 subscribe :: 기부하다
+3641 subscription :: 기부/ 구독
+3642 headquarter :: 본부
+3643 generally :: 일반적으로
+3644 statements :: 성명/ 말/ 진술
+3645 state :: 州/ 상태/ 진술하다
+3646 snowflake :: 눈송이
+3647 flake :: 얇은 조각
+3648 through :: ～ 을 뚫고서/ ～ 를 통하여
+3649 near :: 가까이
+3650 freezing point :: 빙점
+3651 contain :: 포함하다
+3652 container :: 그릇/ 용기/ 컨테이너
+3653 moisture :: 습기
+3654 drop :: 물방울/ 떨어지다
+3655 condenses :: 응축되다
+3656 freeze :: 얼다/ 얼게 하다
+3657 crystal :: 수정
+3658 stick :: 찌르다/ 막대기
+3659 stick to :: 집착하다/ 고수하다
+3660 flake :: 얇은 조각
+3661 snowfall :: 강설
+3662 temperate :: 온화한
+3663 land :: 육지/ 지면
+3664 the arctic :: 북극지방
+3665 antarctic :: 남극의
+3666 produce :: 생산하다/ 산출하다
+3667 production :: 생산
+3668 product :: 생산품/ 상품
+3669 philippines :: 필리핀 군도
+3670 ceremony :: 의식
+3671 wedding ceremony :: 결혼식
+3672 kindergarten :: 유치원
+3673 gate :: 문
+3674 pair :: 한쌍
+3675 a pair of glasses :: 안경
+3676 overhear :: ～ 을 우연히 듣다
+3677 overlook :: 내다보다
+3678 answer :: 대답하다/ 응답하다
+3679 judge :: 판사/ 재판관/ 판단하다
+3680 judgement :: 판단/ 판결
+3681 frontier :: 국경
+3682 trial :: 시도/ 시련/ 공판/ 재판
+3683 territory :: 관할구역/ 영토
+3684 fine :: 벌금/ 벌금을 물리다
+3685 fee :: 보수/ 사례금
+3686 order :: 명령/ 순서/ 정돈/ 주문
+3687 out of order :: 고장난
+3688 defendant :: 피고인
+3689 client :: 의뢰인
+3690 result :: 결과/ 결과가 되다
+3691 claim :: 요구/ 청구/ 요구하다
+3692 court :: 법정
+3693 quickly :: 성급하게/ 빠르게
+3694 wordless :: 말없는
+3695 communicate :: 의사소통하다
+3696 qualify :: 자격을 주다
+3697 qualification :: 자격/ 자격부여
+3698 nonverbal :: 말이 없는
+3699 element :: 요소
+3700 express :: 표현하다/ 고속의/ 속달의
+3701 expression :: 표현
+3702 expressive :: 표현하는
+3703 efficiently :: 능률적으로
+3704 efficiency :: 능률/ 능력
+3705 message :: 전언/ 소식/ 통신
+3706 psychologist :: 심리학자
+3707 psychology :: 심리학
+3708 devise :: 고안하다/ 궁리하다
+3709 formula :: 공식
+3710 impact :: 충돌/ 충격
+3711 compact :: 꽉 들어찬/ 소형의
+3712 verbal :: 말의
+3713 verbally :: 말로/ 구두로
+3714 vocal :: 목소리의
+3715 sound :: 소리/ 음/ 들린다/ 건강한/
+3716 view :: 보기/ 보이는 것
+3717 viewer :: 시청자
+3718 purchase :: 사다/ 구매하다
+3719 purchasing power :: 구매력
+3720 monthly :: 매달의
+3721 yearly :: 매년의
+3722 daily :: 매일의
+3723 satellite :: 위성
+3724 entertainment :: 오락/ 대접/ 환대
+3725 entertain :: 즐겁게 하다
+3726 entertainer :: 연예인
+3727 corporation :: 법인/ 주식회사
+3728 trouble :: 걱정/ 고민
+3729 former :: 앞의/ 이전의
+3730 execute :: 실행하다
+3731 execution :: 실행집행
+3732 executive :: 집행력이 있는/ 행정의
+3733 promote :: ～ 의 판매를 촉진하다
+3734 promotion :: 승진/ 촉진
+3735 possibility :: 가능성
+3736 draw :: 당기다/ 그림을 그리다
+3737 drawing :: 그림
+3738 opportunity :: 기회
+3739 observe :: 관찰하다/ 준수하다
+3740 observation :: 관찰
+3741 observance :: 준수
+3742 comic strip :: 만화
+3743 be convinced that :: ～ 을 확신하다
+3744 survive :: 생존하다/ 살아남다
+3745 survival :: 생존
+3746 survivor :: 생존자
+3747 maintain :: 지속하다/ 유지하다
+3748 maintenance :: 지속/ 유지
+3749 degree :: 정도/ 학위
+3750 by degrees :: 점차로
+3751 in a degree :: 어느 정도
+3752 quality :: 질/ 자질
+3753 quantity :: 양/ 수량
+3754 format :: 형식/ 모양
+3755 creator :: 창조자/ 고안자
+3756 create :: 만들다/ 창조하다
+3757 creation :: 창조
+3758 creative :: 창조적인
+3759 creature :: 창조물
+3760 idea :: 개념/ 생각
+3761 acid :: 신/ 산성의
+3762 acid rain :: 산성비
+3763 vegetarian :: 채식주의자
+3764 vegetable :: 야채
+3765 protein :: 단백질
+3766 complete :: 완전한/ 완전하게 하다
+3767 completion :: 완전
+3768 improve :: 개선하다/ 나아지다
+3769 effect :: 결과/ 영향
+3770 effective :: 효과적인
+3771 complementation :: 상호보완
+3772 complement :: 보완/ 보충/ 보어
+3773 compliment :: 칭찬
+3774 limiting :: 제한하는
+3775 limit :: 제한하다
+3776 limitation :: 제한
+3777 shred :: 조각으로 찢다/ 조각
+3778 workaholism :: 일 중독
+3779 rather :: 다소/ 약간
+3780 rather A than B :: B 라기 보다는 A
+3781 else :: 그 밖의
+3782 relax :: 늦추다/ 휴식하다
+3783 type :: 형/ 종류
+3784 entertainment :: 오락/ 접대
+3785 entertain :: 즐겁게 하다
+3786 tension :: 긴장
+3787 attack :: 공격하다/ 공격
+3788 heart attack :: 심장 마비
+3789 stomach :: 위
+3790 in addition :: 덧붙여서
+3791 typical :: 전형적인
+3792 attention :: 주의/ 고려
+3793 attentive :: 주의 깊은
+3794 attend to :: ～ 에 주의하다
+3795 attend on :: 시중들다
+3796 attend + 目 :: ～ 에 다니다/ 참석하다
+3797 divorce :: 이혼/ 이혼하다
+3798 marry :: 결혼하다
+3799 engage :: 약혼하다
+3800 civil :: 시민의
+3801 civilian :: 민간인
+3802 civilize :: 문명화하다
+3803 reflect :: 반사하다/ 반영하다
+3804 reflection :: 반사/ 반영
+3805 united :: 결합된
+3806 unite :: 결합하다/ 합치다
+3807 state :: 상태/ 州/ 진술하다
+3808 statement :: 진술/ 말
+3809 individual :: 개인의/ 개인
+3810 personal :: 개인의
+3811 public :: 대중의
+3812 justice :: 정의
+3813 just :: 정당한
+3814 justify :: 정당화하다
+3815 consider :: 생각하다/ 간주하다
+3816 consideration :: 간주/ 생각
+3817 considerable :: 상당한
+3818 considerate :: 이해심 있는/ 신중한
+3819 civil law :: 민법
+3820 lawsuit :: 소송
+3821 rug :: 깔개/ 융단
+3822 arm :: 팔/ 무장하다
+3823 arms :: 팔들/ 무기
+3824 instance :: 보기
+3825 for instance :: 예를 들면
+3826 decide :: 결정하다/ 결심하다
+3827 sue :: 고소하다
+3828 source :: 원천/ 근원
+3829 resource :: 자원
+3830 generate :: 낳다/ 산출하다/ 만들다
+3831 generation :: 세대/ 산출
+3832 generator :: 발생기
+3833 direction :: 방향/ 명령
+3834 direct :: 직접적인/ 명령하다
+3835 tiny :: 아주 작은
+3836 splash :: 물 튀김
+3837 rate :: 비율/ 요금/ 속도/ 평가하다
+3838 overrate :: 과대평가하다
+3839 spot :: 점/ 얼룩/ 장소
+3840 shotgun :: 산탄총
+3841 machine gun :: 기관총
+3842 religious :: 종교적인
+3843 religion :: 종교
+3844 region :: 지역
+3845 regional :: 지역의
+3846 cultural :: 문화의
+3847 culture :: 문화
+3848 civilization :: 문명
+3849 value :: 가치/ 가치를 평가하다
+3850 valuable :: 가치 있는
+3851 invaluable :: 아주 가치 있는
+3852 valueless :: 가치 없는
+3853 individualism :: 개인주의
+3854 among :: ～ 의 가운데에
+3855 place importance :: ～ 을 중시하다
+3856 quality :: 특징/ 특질/ 질
+3857 quantity :: 양
+3858 special :: 특별한
+3859 educational :: 교육의
+3860 memorize :: 암기하다
+3861 instead :: ～ 의 대신에
+3862 individually :: 개별적으로
+3863 answer :: 대답하다/ 응답하다
+3864 idea :: 개념/ 생각
+3865 opinion :: 의견
+3866 suggest :: 암시하다/ 제안하다
+3867 suggestion :: 제안/ 암시
+3868 refuse :: 거절하다
+3869 sympathize with :: ～ 을 측은히 여기다
+3870 sympathy :: 동정
+3871 sympathetic :: 동정심 있는
+3872 take care of :: 몸조심하다
+3873 go out for a walk :: 산책하려 나가다
+3874 watch one's step :: 조심하여 신중히 행동하다
+3875 under the weather :: 몸이 불편하여
+3876 feel at home :: 안락하다/ 편안하다
+3877 free :: 자유로운/ 한가한/ 공짜의
+3878 freedom :: 자유
+3879 especially :: 특히
+3880 invitation :: 초대장/ 초대
+3881 invite :: 초대하다
+3882 pick up :: 마중 나가다
+3883 regrettably :: 유감이지만
+3884 regret :: 유감/ 후회
+3885 break down :: 고장나다
+3886 break in :: 침입하다/ 간섭하다
+3887 break out :: 발발하다
+3888 ask ～ :: for		～ 에게 ～ 을 부탁하다
+3889 how about :: ～ -하는 게 어때?
+3890 for relaxation :: 기분 전환으로
+3891 for a change :: 기분 전환으로
+3892 relax :: 쉬다/ 휴식하다
+3893 advice :: 충고
+3894 advise :: 충고하다
+3895 recommend :: 추천하다
+3896 recommendation :: 추천
+3897 village :: 마을
+3898 custom :: 습관
+3899 customs :: 관세/ 세관
+3900 suggestion :: 암시
+3901 experience :: 경험/ 체험
+3902 be related to :: ～ 에 관련되다
+3903 have no idea :: 모르겠다
+3904 pour :: 쏟다/ 따르다
+3905 bewildered :: 당황한
+3906 appoint :: 약속하다/ 지정하다
+3907 appointment :: 약속/ 임명/ 지명
+3908 sudden :: 돌연한/ 급작스런
+3909 suddenly :: 갑자기
+3910 accident :: 사건
+3911 accidental :: 우연한
+3912 circumstance :: 상황/ 사정/ 환경
+3913 comfort :: 위로하다/ 위안하다
+3914 comfortable :: 기분 좋은/ 안락한
+3915 on earth :: 도대체
+3916 in the world :: 도대체
+3917 help = avoid :: 피하다
+3918 suspend :: 일시 정지하다/ 매달다
+3919 heavy traffic :: 교통혼잡
+3920 serves you right :: 그것 참 고소하다
+3921 pick up :: 태워주다/ 줍다
+3922 look forward to :: ～ 을 기대하다
+3923 suggest :: 암시하다/ 제안하다
+3924 suggestion :: 암시/ 제안
+3925 be on :: 상영 중이다
+3926 locally :: 근처에서
+3927 discuss :: 토론하다
+3928 argue :: 논쟁하다
+3929 debate :: 논쟁하다
+3930 drinking and driving :: 음주운전
+3931 opinion :: 의견
+3932 disagree :: 일치하지 않다
+3933 possibly :: 아마/ 아마도
+3934 accept :: 받다
+3935 acceptable :: 받을 수 있는
+3936 acceptance :: 수령
+3937 acceptation :: 받아들임
+3938 acceptor :: 어음 인수인
+3939 dental :: 치과의
+3940 dentist :: 치과의사
+3941 patient :: 환자/ 인내력 있는
+3942 patience :: 인내
+3943 impatient :: 성급한
+3944 impatience :: 성급/ 안달
+3945 treatment :: 치료
+3946 acknowledge :: 인사에 답하다
+3947 obediently :: 순종적으로
+3948 obey :: 복종하다
+3949 obedience :: 복종
+3950 grade :: 성적/ 등급/ 학년
+3951 bombard :: 폭격하다
+3952 bomb :: 폭탄
+3953 pierce :: 관통하다/ 꿰뚫다
+3954 solemn :: 엄숙한/ 심각한
+3955 pupil :: 학생
+3956 logic :: 논리학
+3957 situation :: 위치/ 장소
+3958 balance :: 저울/ 균형
+3959 splash :: 물 등을 튀기다
+3960 yell :: 소리 지르다
+3961 commotion :: 소동/ 야단법석
+3962 bank :: 제방/ 둑/ 은행
+3963 draw :: 돈을 인출하다
+3964 drawing :: 그림
+3965 aunt :: 아주머니/ 숙모
+3966 uncle :: 아저씨/ 삼촌
+3967 appear :: 출석하다/ 나타나다
+3968 appearance :: 출현/ 외모
+3969 witness :: 목격자/ 증인/ 증거
+3970 accident :: 우연히 일어난 일
+3971 case :: 재판
+3972 distress :: 곤경/ 고뇌
+3973 passer-by :: 통행인
+3974 pass by :: 옆으로 지나가다
+3975 fix :: 수리하다/ 고정시키다
+3976 pasture :: 목장
+3977 meadow :: 목초지/ 초원
+3978 fence :: 울타리
+3979 ought to RV :: ～ 해야한다
+3980 heap :: 더미/ 많은 것
+3981 a lot of :: 많은
+3982 fencing :: 펜싱
+3983 ancient :: 옛날의
+3984 castle :: 성
+3985 alter :: 바꾸다
+3986 replace :: 대치시키다/ 대신하다
+3987 place :: 위치/ 장소/ 위치시키다
+3988 landlord :: 집주인
+3989 dryly :: 건조하게/ 냉담하게
+3990 visible :: 볼 수 있는
+3991 audible :: 들을 수 있는
+3992 legible :: 읽을 수있는
+3993 symptom :: 징후/ 증상
+3994 newscaster :: 뉴스전달자
+3995 long :: 긴/ 우울한
+3996 technician :: 기술자
+3997 prominent :: 저명한
+3998 critic :: 비평가
+3999 criticize :: 비평하다
+4000 criticism :: 비평
+4001 critical :: 비판적인
+4002 lobby :: 로비/ 홀
+4003 rumpled :: 구겨진
+4004 as usual :: 평시처럼
+4005 annoyance :: 괴롭히기/ 성가심
+4006 annoy :: 성가시게 하다

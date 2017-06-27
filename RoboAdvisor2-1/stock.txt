@@ -1,0 +1,2307 @@
+﻿1 - Code=110550, Full Code=KR7110550001, Company=HIT 골드(폐지)
+1 - Code=018590, Full Code=KR7018590000, Company=KNC(폐지)
+1 - Code=241180, Full Code=KR7241180009, Company=TIGER 일본니케이225
+1 - Code=008720, Full Code=KR7008720005, Company=삼양엔텍(폐지)
+1 - Code=000090, Full Code=KR7000090001, Company=두산상사(폐지)
+1 - Code=005117, Full Code=KR7005110127, Company=한창전2(폐지)
+1 - Code=005114, Full Code=KR7005110119, Company=한창전1(폐지)
+1 - Code=001300, Full Code=KR7001300003, Company=제일모직(폐지)
+1 - Code=005110, Full Code=KR7005110002, Company=한창
+1 - Code=018260, Full Code=KR7018260000, Company=삼성에스디에스
+1 - Code=261920, Full Code=KR7261920003, Company=KINDEX 필리핀MSCI(합성)
+1 - Code=030000, Full Code=KR7030000004, Company=제일기획
+1 - Code=010130, Full Code=KR7010130003, Company=고려아연
+1 - Code=051915, Full Code=KR7051911006, Company=LG화학우
+1 - Code=051910, Full Code=KR7051910008, Company=LG화학
+1 - Code=009830, Full Code=KR7009830001, Company=한화케미칼
+1 - Code=009831, Full Code=KR7009830019, Company=한화종화1(폐지)
+1 - Code=012601, Full Code=KR7012600011, Company=청호컴퓨1(폐지)
+1 - Code=012600, Full Code=KR7012600003, Company=청호컴넷
+1 - Code=009835, Full Code=KR7009831009, Company=한화케미칼우
+1 - Code=071840, Full Code=KR7071840003, Company=롯데하이마트
+1 - Code=009837, Full Code=KR7009832007, Company=한화석화2우B(폐지)
+1 - Code=011390, Full Code=KR7011390002, Company=부산산업
+1 - Code=005680, Full Code=KR7005680004, Company=삼영전자
+1 - Code=057050, Full Code=KR7057050007, Company=현대홈쇼핑
+1 - Code=114470, Full Code=KR7114470008, Company=KOSEF 국고채
+1 - Code=103140, Full Code=KR7103140000, Company=풍산
+1 - Code=227830, Full Code=KR7227830007, Company=ARIRANG 코스피
+1 - Code=009580, Full Code=KR7009580002, Company=무림P&P;
+1 - Code=005750, Full Code=KR7005750005, Company=대림B&Co;
+1 - Code=034120, Full Code=KR7034120006, Company=SBS
+1 - Code=004370, Full Code=KR7004370003, Company=농심
+1 - Code=083350, Full Code=KR7083350009, Company=동북아10호
+1 - Code=004150, Full Code=KR7004150009, Company=한솔홀딩스
+1 - Code=004151, Full Code=KR7004150017, Company=한솔제지1(폐지)
+1 - Code=004155, Full Code=KR7004151007, Company=한솔제지우(폐지)
+1 - Code=152550, Full Code=KR7152550000, Company=한국ANKOR유전
+1 - Code=003680, Full Code=KR7003680006, Company=한성기업
+1 - Code=011170, Full Code=KR7011170008, Company=롯데케미칼
+1 - Code=014430, Full Code=KR7014430003, Company=한길종금(폐지)
+1 - Code=008721, Full Code=KR7008720013, Company=삼양중기1(폐지)
+1 - Code=004970, Full Code=KR7004970000, Company=신라교역
+1 - Code=J01120, Full Code=KRA011202157, Company=15)현대상선 1WR
+1 - Code=004080, Full Code=KR7004080008, Company=신흥
+1 - Code=008500, Full Code=KR7008500001, Company=일정실업
+1 - Code=089590, Full Code=KR7089590004, Company=제주항공
+1 - Code=010950, Full Code=KR7010950004, Company=S-Oil
+1 - Code=010955, Full Code=KR7010951002, Company=S-Oil우
+1 - Code=101380, Full Code=KR7101380004, Company=거북선2호(폐지)
+1 - Code=139480, Full Code=KR7139480008, Company=이마트
+1 - Code=009050, Full Code=KR7009050006, Company=대한알미늄(폐지)
+1 - Code=088510, Full Code=KR7088510003, Company=굿리치경매2(폐지)
+1 - Code=012805, Full Code=KR7012801007, Company=대창우(폐지)
+1 - Code=J00455, Full Code=KRA0045521W8, Company=1W)대우차판매 2WR
+1 - Code=012800, Full Code=KR7012800009, Company=대창
+1 - Code=013820, Full Code=KR7013820006, Company=피앤텍(폐지)
+1 - Code=018500, Full Code=KR7018500009, Company=동원금속
+1 - Code=007070, Full Code=KR7007070006, Company=GS리테일
+1 - Code=007980, Full Code=KRA007980139, Company=태평양물산 12R(폐지)
+1 - Code=007981, Full Code=KR7007980014, Company=태평양물1(폐지)
+1 - Code=244660, Full Code=KR7244660007, Company=KODEX 퀄리티Plus
+1 - Code=089200, Full Code=KR7089200000, Company=동북아30호(폐지)
+1 - Code=005111, Full Code=KR7005110010, Company=한 창 1(폐지)
+1 - Code=002935, Full Code=KR7002931004, Company=삼도물산우(폐지)
+1 - Code=002930, Full Code=KR7002930006, Company=삼도물산(폐지)
+1 - Code=058850, Full Code=KR7058850009, Company=KTcs
+1 - Code=004720, Full Code=KRA004720124, Company=우리들제약 29R(폐지)
+1 - Code=003350, Full Code=KR7003350006, Company=한국화장품제조
+1 - Code=002030, Full Code=KR7002030005, Company=아세아
+1 - Code=004920, Full Code=KR7004920005, Company=씨아이테크
+1 - Code=008870, Full Code=KR7008870008, Company=금비
+1 - Code=133690, Full Code=KR7133690008, Company=TIGER 나스닥100
+1 - Code=003220, Full Code=KR7003220001, Company=대원제약
+1 - Code=530030, Full Code=KRG531100300, Company=삼성 K200 Call 1803-01 ETN
+1 - Code=520018, Full Code=KRG521100187, Company=미래에셋 K200 P-SP 1803-01 ETN
+1 - Code=520019, Full Code=KRG521100195, Company=미래에셋 K200 P-SP 1803-02 ETN
+1 - Code=520014, Full Code=KRG521100146, Company=미래에셋 미디어엔터 Core5 ETN
+1 - Code=520015, Full Code=KRG521100153, Company=미래에셋 인버스 미디어엔터 Core5 ETN
+1 - Code=520016, Full Code=KRG521100161, Company=미래에셋 K200 C-SP 1803-01 ETN
+1 - Code=520017, Full Code=KRG521100179, Company=미래에셋 K200 C-SP 1803-02 ETN
+1 - Code=520010, Full Code=KRG522100103, Company=미래에셋 원유선물혼합 ETN(H)
+1 - Code=520011, Full Code=KRG522100111, Company=미래에셋 인버스 원유선물혼합 ETN(H)
+1 - Code=520012, Full Code=KRG527100124, Company=미래에셋 호주 ASX200 ETN(H)
+1 - Code=520013, Full Code=KRG521100138, Company=미래에셋 Q150 Core5 ETN
+1 - Code=138040, Full Code=KR7138040001, Company=메리츠금융지주
+1 - Code=260270, Full Code=KR7260270004, Company=KOSEF 저PBR가중
+1 - Code=012150, Full Code=KR7012150009, Company=동방개발(폐지)
+1 - Code=008985, Full Code=KR7008981003, Company=동양현대종금우(폐지)
+1 - Code=003530, Full Code=KRA003530169, Company=한화투자증권 23R(폐지)
+1 - Code=079660, Full Code=KR7079660007, Company=사조해표
+1 - Code=008980, Full Code=KR7008980005, Company=동양현대종금(폐지)
+1 - Code=093820, Full Code=KR7093820009, Company=한국유전15-1(폐지)
+1 - Code=167860, Full Code=KR7167860006, Company=KOSEF 10년국고채 레버리지
+1 - Code=002310, Full Code=KR7002310001, Company=아세아제지
+1 - Code=217780, Full Code=KR7217780006, Company=TIGER 차이나A인버스(합성)
+1 - Code=002311, Full Code=KR7002310019, Company=아세아제지1(폐지)
+1 - Code=007690, Full Code=KR7007690001, Company=국도화학
+1 - Code=190150, Full Code=KR7190150003, Company=ARIRANG 바벨 채권
+1 - Code=002240, Full Code=KR7002240000, Company=고려제강
+1 - Code=024870, Full Code=KR7024870008, Company=유성티에스아이(폐지)
+1 - Code=J11793, Full Code=KRA117932137, Company=13)한진해운 1WR
+1 - Code=090430, Full Code=KR7090430000, Company=아모레퍼시픽
+1 - Code=006610, Full Code=KR7006610000, Company=경남은행(폐지)
+1 - Code=016070, Full Code=KR7016070005, Company=동성반도체(폐지)
+1 - Code=021820, Full Code=KR7021820006, Company=세원정공
+1 - Code=001040, Full Code=KR7001040005, Company=CJ
+1 - Code=001045, Full Code=KR7001041003, Company=CJ우
+1 - Code=099140, Full Code=KR7099140006, Company=KODEX China H
+1 - Code=001047, Full Code=KR7001042001, Company=CJ2우B(폐지)
+1 - Code=001049, Full Code=KR7001043009, Company=CJ3우B(폐지)
+1 - Code=021310, Full Code=KR7021310008, Company=동화은행(폐지)
+1 - Code=001680, Full Code=KR7001680008, Company=대상
+1 - Code=001687, Full Code=KR7001682004, Company=대상2우B(폐지)
+1 - Code=001685, Full Code=KR7001681006, Company=대상우
+1 - Code=002790, Full Code=KR7002790004, Company=아모레G
+1 - Code=123700, Full Code=KR7123700007, Company=SJM
+1 - Code=001689, Full Code=KR7001683002, Company=대상3우B
+1 - Code=002795, Full Code=KR7002791002, Company=아모레G우
+1 - Code=002797, Full Code=KR7002792000, Company=아모레G2우B(폐지)
+1 - Code=016380, Full Code=KRA0163802W8, Company=동부제철 39R(폐지)
+1 - Code=016385, Full Code=KR7016381006, Company=동부제철우
+1 - Code=013040, Full Code=KR7013040001, Company=금강피혁(폐지)
+1 - Code=013041, Full Code=KR7013040019, Company=금강피혁1(폐지)
+1 - Code=157490, Full Code=KR7157490004, Company=TIGER 소프트웨어
+1 - Code=108480, Full Code=KR7108480005, Company=KStar 코스닥엘리트30(폐지)
+1 - Code=226490, Full Code=KR7226490001, Company=KODEX 코스피
+1 - Code=017810, Full Code=KR7017810003, Company=풀무원
+1 - Code=000400, Full Code=KRA000400150, Company=롯데손해보험 31R(폐지)
+1 - Code=214390, Full Code=KR7214390007, Company=경보제약
+1 - Code=006320, Full Code=KR7006320006, Company=경기은행(폐지)
+1 - Code=001465, Full Code=KR7001461003, Company=BYC우
+1 - Code=001460, Full Code=KR7001460005, Company=BYC
+1 - Code=570008, Full Code=KRG571100087, Company=TRUE 섹터탑픽 ETN
+1 - Code=570009, Full Code=KRG571100095, Company=TRUE 코리아프리미어 ETN
+1 - Code=570006, Full Code=KRG577100065, Company=TRUE 인버스 차이나H ETN(H)
+1 - Code=570007, Full Code=KRG576200072, Company=TRUE 위안화 중국5년국채 ETN
+1 - Code=570004, Full Code=KRG574100043, Company=TRUE 인버스 유로스탁스50 ETN(H)
+1 - Code=570005, Full Code=KRG571100053, Company=TRUE 목표변동성20 코스피선물 ETN
+1 - Code=570002, Full Code=KRG571100020, Company=TRUE 코스피 선물매도 풋매도 ETN
+1 - Code=069550, Full Code=KR7069550002, Company=KOSEF50(폐지)
+1 - Code=103150, Full Code=KR7103150009, Company=하이트맥주(폐지)
+1 - Code=570001, Full Code=KRG571100012, Company=TRUE 코스피 선물매수 콜매도 ETN
+1 - Code=020150, Full Code=KR7020150009, Company=일진머티리얼즈
+1 - Code=183710, Full Code=KR7183710003, Company=KBSTAR 주식혼합
+1 - Code=082110, Full Code=KR7082110008, Company=동북아8호(폐지)
+1 - Code=263190, Full Code=KR7263190001, Company=ARIRANG 우량단기채권
+1 - Code=256750, Full Code=KR7256750001, Company=KODEX 심천ChiNext(합성)
+1 - Code=114260, Full Code=KR7114260003, Company=KODEX 국고채
+1 - Code=000317, Full Code=KR7000312009, Company=해태제과2우B(폐지)
+1 - Code=071320, Full Code=KR7071320006, Company=지역난방공사
+1 - Code=000310, Full Code=KR7000310003, Company=해태제과(폐지)
+1 - Code=030720, Full Code=KR7030720007, Company=동원수산
+1 - Code=030721, Full Code=KR7030720015, Company=동원수산1(폐지)
+1 - Code=234080, Full Code=KR7234080000, Company=JW생명과학
+1 - Code=001260, Full Code=KR7001260009, Company=남광토건
+1 - Code=001265, Full Code=KR7001261007, Company=남광토건우B(폐지)
+1 - Code=000790, Full Code=KR7000790006, Company=C&상선(폐지)
+1 - Code=000791, Full Code=KR7000790014, Company=세양선박1(폐지)
+1 - Code=000794, Full Code=KR7000790113, Company=세양선박전1(폐지)
+1 - Code=003410, Full Code=KRA003410164, Company=쌍용양회공업 57R(폐지)
+1 - Code=174350, Full Code=KR7174350009, Company=TIGER 로우볼
+1 - Code=009337, Full Code=KR7009332008, Company=삼애인더스2우B(폐지)
+1 - Code=145210, Full Code=KR7145210001, Company=세화아이엠씨
+1 - Code=181480, Full Code=KR7181480005, Company=KINDEX 미국리츠부동산(합성 H)
+1 - Code=005560, Full Code=KR7005560008, Company=JS전선(폐지)
+1 - Code=005561, Full Code=KR7005560016, Company=진로인더1(폐지)
+1 - Code=010090, Full Code=KR7010090009, Company=해태유통(폐지)
+1 - Code=029532, Full Code=KR7029530029, Company=신도리코2(폐지)
+1 - Code=029531, Full Code=KR7029530011, Company=신도리코1(폐지)
+1 - Code=029530, Full Code=KR7029530003, Company=신도리코
+1 - Code=014280, Full Code=KR7014280002, Company=금강공업
+1 - Code=014285, Full Code=KR7014281000, Company=금강공업우
+1 - Code=001310, Full Code=KR7001310002, Company=풍림산업(폐지)
+1 - Code=000220, Full Code=KR7000220004, Company=유유제약
+1 - Code=J01594, Full Code=KRA0159421Q5, Company=1Q)LG데이콤2WR(폐지)
+1 - Code=003419, Full Code=KR7003413002, Company=쌍용양회3우B
+1 - Code=010140, Full Code=KRA010140168, Company=삼성중공업 14R(폐지)
+1 - Code=010141, Full Code=KR7010140010, Company=삼성중공1(폐지)
+1 - Code=010145, Full Code=KR7010141000, Company=삼성중공우
+1 - Code=051905, Full Code=KR7051901007, Company=LG생활건강우
+1 - Code=051900, Full Code=KR7051900009, Company=LG생활건강
+1 - Code=011540, Full Code=KR7011540002, Company=삼신(폐지)
+1 - Code=086630, Full Code=KR7086630001, Company=KODEX KRX100(폐지)
+1 - Code=005300, Full Code=KR7005300009, Company=롯데칠성
+1 - Code=161510, Full Code=KR7161510003, Company=ARIRANG 고배당주
+1 - Code=094280, Full Code=KR7094280005, Company=효성ITX
+1 - Code=005305, Full Code=KR7005301007, Company=롯데칠성우
+1 - Code=00341A, Full Code=KR7003414000, Company=쌍용양회4우B(폐지)
+1 - Code=004367, Full Code=KR7004362000, Company=세방2우B(폐지)
+1 - Code=004365, Full Code=KR7004361002, Company=세방우
+1 - Code=000130, Full Code=KR7000130005, Company=한일은행(폐지)
+1 - Code=004360, Full Code=KR7004360004, Company=세방
+1 - Code=023151, Full Code=KR7023150014, Company=무학주정1(폐지)
+1 - Code=023150, Full Code=KR7023150006, Company=MH에탄올
+1 - Code=015730, Full Code=KR7015730005, Company=대우정밀(폐지)
+1 - Code=015880, Full Code=KR7015880008, Company=태화쇼핑(폐지)
+1 - Code=체, Full Code=, Company=
+1 - Code=181710, Full Code=KRA181710153, Company=NHN엔터테인먼트 2R(폐지)
+1 - Code=005760, Full Code=KR7005760004, Company=위너스인프라인(폐지)
+1 - Code=035510, Full Code=KR7035510007, Company=신세계 I&C;
+1 - Code=005945, Full Code=KR7005941000, Company=NH투자증권우
+1 - Code=005940, Full Code=KRA005940119, Company=우리투자증권 59R(폐지)
+1 - Code=031440, Full Code=KR7031440001, Company=신세계푸드
+1 - Code=004149, Full Code=KR7004143004, Company=동방전환상환3우B(폐지)
+1 - Code=005411, Full Code=KR7005410014, Company=신광산업1(폐지)
+1 - Code=004147, Full Code=KR7004142006, Company=동방전환상환2우B(폐지)
+1 - Code=004145, Full Code=KR7004141008, Company=동방전환상환1우B(폐지)
+1 - Code=004410, Full Code=KR7004410007, Company=서울식품
+1 - Code=004140, Full Code=KRA004140166, Company=동방 17R(폐지)
+1 - Code=105380, Full Code=KR7105380000, Company=다산리츠(폐지)
+1 - Code=261110, Full Code=KR7261110001, Company=TIGER 미국달러선물레버리지
+1 - Code=010960, Full Code=KR7010960003, Company=삼호개발
+1 - Code=004965, Full Code=KR7004961009, Company=한신공영우(폐지)
+1 - Code=004960, Full Code=KR7004960001, Company=한신공영
+1 - Code=011160, Full Code=KR7011160009, Company=두산건설
+1 - Code=105010, Full Code=KR7105010003, Company=TIGER 라틴
+1 - Code=082240, Full Code=KR7082240003, Company=아시아5호(폐지)
+1 - Code=032390, Full Code=KR7032390007, Company=KTF(폐지)
+1 - Code=008060, Full Code=KR7008060006, Company=대덕전자
+1 - Code=036390, Full Code=KR7036390003, Company=대신불펀드일(폐지)
+1 - Code=004560, Full Code=KR7004560009, Company=현대비앤지스틸
+1 - Code=03473K, Full Code=KR703473K016, Company=SK우
+1 - Code=052690, Full Code=KR7052690005, Company=한전기술
+1 - Code=192090, Full Code=KR7192090009, Company=TIGER 차이나A300
+1 - Code=008264, Full Code=KR7008260119, Company=동성철강전1(폐지)
+1 - Code=015080, Full Code=KR7015080005, Company=청솔종금(폐지)
+1 - Code=015081, Full Code=KR7015080013, Company=청솔종금1(폐지)
+1 - Code=008260, Full Code=KR7008260002, Company=NI스틸
+1 - Code=003780, Full Code=KRA003780137, Company=진양산업 32R(폐지)
+1 - Code=015265, Full Code=KR7015261001, Company=큐엔텍코리아우(폐지)
+1 - Code=121550, Full Code=KR7121550008, Company=코크렙15호(폐지)
+1 - Code=015260, Full Code=KRA015260128, Company=에이엔피 31R(폐지)
+1 - Code=008080, Full Code=KR7008080004, Company=에스와이코퍼레이션(폐지)
+1 - Code=105630, Full Code=KR7105630008, Company=한세실업
+1 - Code=011785, Full Code=KR7011781002, Company=금호석유우
+1 - Code=003030, Full Code=KR7003030004, Company=세아제강
+1 - Code=003031, Full Code=KR7003030012, Company=세아제강1(폐지)
+1 - Code=149130, Full Code=KR7149130007, Company=케이비부국위탁리츠(폐지)
+1 - Code=244670, Full Code=KR7244670006, Company=KODEX 밸류Plus
+1 - Code=082740, Full Code=KR7082740002, Company=두산엔진
+1 - Code=011761, Full Code=KR7011760014, Company=현대상사1(폐지)
+1 - Code=004890, Full Code=KR7004890000, Company=동일산업
+1 - Code=247780, Full Code=KR7247780000, Company=KODEX 가치투자
+1 - Code=002920, Full Code=KR7002920007, Company=유성기업
+1 - Code=003320, Full Code=KR7003320009, Company=신한증권(폐지)
+1 - Code=104120, Full Code=KR7104120001, Company=신성에프에이(폐지)
+1 - Code=210540, Full Code=KR7210540001, Company=디와이파워
+1 - Code=008400, Full Code=KR7008400004, Company=C&중공업(폐지)
+1 - Code=139230, Full Code=KR7139230007, Company=TIGER 200 중공업
+1 - Code=008405, Full Code=KR7008401002, Company=C&중공업우(폐지)
+1 - Code=002320, Full Code=KR7002320000, Company=한진
+1 - Code=076850, Full Code=KR7076850007, Company=맥쿼리센트럴(폐지)
+1 - Code=007200, Full Code=KR7007200009, Company=진흥저축은행(폐지)
+1 - Code=077500, Full Code=KR7077500007, Company=유니퀘스트
+1 - Code=J00080, Full Code=KRA000802116, Company=11)경남기업 1WR(폐지)
+1 - Code=520009, Full Code=KRG522100095, Company=미래에셋 레버리지 원유선물혼합 ETN(H)
+1 - Code=222170, Full Code=KR7222170003, Company=ARIRANG S&P; 배당성장
+1 - Code=520003, Full Code=KRG527400037, Company=미래에셋 원자재 선물 ETN(H)
+1 - Code=520002, Full Code=KRG527100025, Company=미래에셋 차이나 대표주 15 ETN(H)
+1 - Code=520001, Full Code=KRG521100013, Company=미래에셋 로우볼 ETN
+1 - Code=520007, Full Code=KRG521100070, Company=미래에셋 인버스 에너지화학 Core5 ETN
+1 - Code=520006, Full Code=KRG521100062, Company=미래에셋 에너지화학 Core5 ETN
+1 - Code=520005, Full Code=KRG521100054, Company=미래에셋 인버스 전기전자 Core5 ETN
+1 - Code=520004, Full Code=KRG521100047, Company=미래에셋 전기전자 Core5 ETN
+1 - Code=214320, Full Code=KR7214320004, Company=이노션
+1 - Code=002810, Full Code=KR7002810000, Company=삼영무역
+1 - Code=097710, Full Code=KR7097710008, Company=TIGER 가치주(폐지)
+1 - Code=007660, Full Code=KR7007660004, Company=이수페타시스
+1 - Code=228800, Full Code=KR7228800009, Company=TIGER 여행레저
+1 - Code=265690, Full Code=KR7265690008, Company=KINDEX 러시아MSCI(합성)
+1 - Code=051630, Full Code=KR7051630002, Company=진양화학
+1 - Code=500022, Full Code=KRG502400226, Company=신한 인버스 천연가스 선물 ETN(H)
+1 - Code=002255, Full Code=KR7002251007, Company=근화제약우(폐지)
+1 - Code=002257, Full Code=KR7002252005, Company=근화제약2우B(폐지)
+1 - Code=002250, Full Code=KR7002250009, Company=알보젠코리아
+1 - Code=073530, Full Code=KR7073530008, Company=코크렙III(폐지)
+1 - Code=081210, Full Code=KR7081210007, Company=아시아4호(폐지)
+1 - Code=067830, Full Code=KR7067830000, Company=세이브존I&C;
+1 - Code=025000, Full Code=KR7025000001, Company=KPX케미칼
+1 - Code=134790, Full Code=KR7134790005, Company=팀스
+1 - Code=002787, Full Code=KR7002782001, Company=진흥기업2우B
+1 - Code=002785, Full Code=KR7002781003, Company=진흥기업우B
+1 - Code=075580, Full Code=KR7075580001, Company=세진중공업
+1 - Code=002780, Full Code=KR7002780005, Company=진흥기업
+1 - Code=073240, Full Code=KR7073240004, Company=금호타이어
+1 - Code=001070, Full Code=KR7001070002, Company=대한방직
+1 - Code=016710, Full Code=KR7016710006, Company=대성홀딩스
+1 - Code=002070, Full Code=KR7002070001, Company=남영비비안
+1 - Code=037270, Full Code=KR7037270006, Company=YG PLUS
+1 - Code=122390, Full Code=KR7122390008, Company=TIGER 코스닥프리미어(폐지)
+1 - Code=001670, Full Code=KR7001670009, Company=경남모직(폐지)
+1 - Code=016391, Full Code=KR7016390015, Company=나라종금1(폐지)
+1 - Code=016390, Full Code=KR7016390007, Company=나라종금(폐지)
+1 - Code=016395, Full Code=KR7016391005, Company=나라종금우B(폐지)
+1 - Code=064900, Full Code=KR7064900004, Company=교보메리츠(폐지)
+1 - Code=016397, Full Code=KR7016392003, Company=나라종금2우B(폐지)
+1 - Code=091090, Full Code=KRA091090159, Company=세원셀론텍 7R(폐지)
+1 - Code=021960, Full Code=KRA021960125, Company=우리파이낸셜 11R(폐지)
+1 - Code=009460, Full Code=KR7009460007, Company=한창제지
+1 - Code=020560, Full Code=KRA020560165, Company=아시아나항공 6R(폐지)
+1 - Code=108450, Full Code=KR7108450008, Company=KINDEX 삼성그룹SW
+1 - Code=016801, Full Code=KR7016800013, Company=퍼시스1(폐지)
+1 - Code=016800, Full Code=KR7016800005, Company=퍼시스
+1 - Code=016802, Full Code=KR7016800021, Company=퍼시스2(폐지)
+1 - Code=J02000, Full Code=KRA0200021Q2, Company=1Q)한섬1WR(폐지)
+1 - Code=002471, Full Code=KR7002470011, Company=동 성 1(폐지)
+1 - Code=570018, Full Code=KRG571100186, Company=TRUE K200 Auto-KO-C 1803-01 ETN
+1 - Code=570015, Full Code=KRG571100152, Company=TRUE 다우존스 지속가능경영 코리아 ETN
+1 - Code=025860, Full Code=KR7025860008, Company=남해화학
+1 - Code=570017, Full Code=KRG571100178, Company=TRUE K200 Condor 1803-01 ETN
+1 - Code=570016, Full Code=KRG571100160, Company=TRUE K200 C-SP 1803-01 ETN
+1 - Code=570011, Full Code=KRG575100117, Company=TRUE 레버리지 엔선물 ETN
+1 - Code=001787, Full Code=KR7001782002, Company=동양강철2우B(폐지)
+1 - Code=570013, Full Code=KRG574100134, Company=TRUE 유로선물 ETN
+1 - Code=001785, Full Code=KR7001781004, Company=동양강철우(폐지)
+1 - Code=016480, Full Code=KR7016480006, Company=한화종금(폐지)
+1 - Code=001890, Full Code=KR7001890003, Company=영창악기(폐지)
+1 - Code=252710, Full Code=KR7252710009, Company=TIGER 200선물인버스2X
+1 - Code=183700, Full Code=KR7183700004, Company=KBSTAR 채권혼합
+1 - Code=001527, Full Code=KR7001522002, Company=동양2우B
+1 - Code=001525, Full Code=KR7001521004, Company=동양우
+1 - Code=001250, Full Code=KRA001250166, Company=지에스글로벌 43R(폐지)
+1 - Code=001520, Full Code=KRA001520212, Company=동양메이저 52R(폐지)
+1 - Code=000305, Full Code=KR7000301002, Company=삼선공업우(폐지)
+1 - Code=000306, Full Code=KR7000301010, Company=삼선공업우1(폐지)
+1 - Code=000301, Full Code=KR7000300012, Company=두레에어1(폐지)
+1 - Code=000300, Full Code=KR7000300004, Company=대유플러스
+1 - Code=001529, Full Code=KR7001523000, Company=동양3우B
+1 - Code=001095, Full Code=KR7001091008, Company=동서증권우(폐지)
+1 - Code=133820, Full Code=KR7133820001, Company=화인베스틸
+1 - Code=001090, Full Code=KR7001090000, Company=동서증권(폐지)
+1 - Code=018415, Full Code=KR7018411009, Company=현대금속우(폐지)
+1 - Code=110570, Full Code=KRA110570124, Company=넥솔론 4R(폐지)
+1 - Code=034590, Full Code=KR7034590000, Company=인천도시가스
+1 - Code=J01638, Full Code=KRA016382137, Company=13)동부제철5WR
+1 - Code=109070, Full Code=KRA109070169, Company=케이지피20R(폐지)
+1 - Code=009690, Full Code=KR7009690009, Company=케이엠에이치(폐지)
+1 - Code=009691, Full Code=KR7009690017, Company=케이디케1(폐지)
+1 - Code=009692, Full Code=KR7009690025, Company=케이디케2(폐지)
+1 - Code=092970, Full Code=KR7092970003, Company=거북선1호(폐지)
+1 - Code=004700, Full Code=KR7004700001, Company=조광피혁
+1 - Code=029780, Full Code=KR7029780004, Company=삼성카드
+1 - Code=000231, Full Code=KR7000230011, Company=일동제약1(폐지)
+1 - Code=000230, Full Code=KR7000230003, Company=일동홀딩스
+1 - Code=009450, Full Code=KR7009450008, Company=경동나비엔
+1 - Code=J02797, Full Code=KRA027972116, Company=11)세하1WR(폐지)
+1 - Code=010150, Full Code=KR7010150001, Company=한국코아(폐지)
+1 - Code=047050, Full Code=KR7047050000, Company=포스코대우
+1 - Code=015650, Full Code=KR7015650005, Company=리젠트종금(폐지)
+1 - Code=008670, Full Code=KR7008670002, Company=굿모닝신한증권(폐지)
+1 - Code=008675, Full Code=KR7008671000, Company=굿모닝신한증권우(폐지)
+1 - Code=078420, Full Code=KR7078420007, Company=동북아1호(폐지)
+1 - Code=004310, Full Code=KR7004310009, Company=현대약품
+1 - Code=000120, Full Code=KR7000120006, Company=CJ대한통운
+1 - Code=101140, Full Code=KR7101140002, Company=아티스
+1 - Code=015891, Full Code=KR7015890015, Company=태경산업1(폐지)
+1 - Code=015890, Full Code=KR7015890007, Company=태경산업
+1 - Code=005770, Full Code=KR7005770003, Company=광주은행(폐지)
+1 - Code=012710, Full Code=KR7012710000, Company=한스종금(폐지)
+1 - Code=005950, Full Code=KR7005950001, Company=이수화학
+1 - Code=004420, Full Code=KR7004420006, Company=동국무역(폐지)
+1 - Code=004130, Full Code=KR7004130001, Company=대덕GDS
+1 - Code=004137, Full Code=KR7004132007, Company=대덕GDS2우B(폐지)
+1 - Code=004135, Full Code=KR7004131009, Company=대덕GDS우
+1 - Code=005795, Full Code=KR7005791009, Company=만도기계우(폐지)
+1 - Code=005797, Full Code=KR7005792007, Company=만도기계2우B(폐지)
+1 - Code=010970, Full Code=KR7010970002, Company=한주화학(폐지)
+1 - Code=005790, Full Code=KR7005790001, Company=만도기계(폐지)
+1 - Code=118000, Full Code=KRA118000157, Company=우리들휴브레인 8R(폐지)
+1 - Code=139130, Full Code=KRA139130140, Company=DGB금융지주4R(폐지)
+1 - Code=009070, Full Code=KR7009070004, Company=KCTC
+1 - Code=082250, Full Code=KR7082250002, Company=아시아6호(폐지)
+1 - Code=011280, Full Code=KR7011280005, Company=태림포장
+1 - Code=011281, Full Code=KR7011280013, Company=태림포장1(폐지)
+1 - Code=105020, Full Code=KR7105020002, Company=TIGER 브릭스(폐지)
+1 - Code=071950, Full Code=KR7071950000, Company=코아스
+1 - Code=035340, Full Code=KR7035340009, Company=엠피챌린지(폐지)
+1 - Code=032560, Full Code=KR7032560005, Company=황금에스티
+1 - Code=004555, Full Code=KR7004551008, Company=대우송도개발1우(폐지)
+1 - Code=004550, Full Code=KRA0045501W0, Company=대우자동차판매 23R(폐지)
+1 - Code=008270, Full Code=KR7008270001, Company=산은캐피탈(폐지)
+1 - Code=007050, Full Code=KR7007050008, Company=유리이에스(폐지)
+1 - Code=023450, Full Code=KR7023450000, Company=동남합성
+1 - Code=023451, Full Code=KR7023450018, Company=동남합성1(폐지)
+1 - Code=069960, Full Code=KR7069960003, Company=현대백화점
+1 - Code=003020, Full Code=KR7003020005, Company=남양(폐지)
+1 - Code=015760, Full Code=KR7015760002, Company=한국전력
+1 - Code=011022, Full Code=KR7011020021, Company=코오롱유2(폐지)
+1 - Code=011020, Full Code=KR7011020005, Company=코오롱유화(폐지)
+1 - Code=011021, Full Code=KR7011020013, Company=코오롱유1(폐지)
+1 - Code=153130, Full Code=KR7153130000, Company=KODEX 단기채권
+1 - Code=004870, Full Code=KR7004870002, Company=티웨이홀딩스
+1 - Code=088790, Full Code=KR7088790001, Company=진도
+1 - Code=009790, Full Code=KR7009790007, Company=휴닉스(폐지)
+1 - Code=247790, Full Code=KR7247790009, Company=KODEX 성장투자
+1 - Code=261270, Full Code=KR7261270003, Company=KODEX 미국달러선물인버스
+1 - Code=003330, Full Code=KR7003330008, Company=하나증권(폐지)
+1 - Code=003335, Full Code=KR7003331006, Company=하나증권우(폐지)
+1 - Code=008705, Full Code=KR7008701005, Company=아남전자우(폐지)
+1 - Code=139220, Full Code=KR7139220008, Company=TIGER 200 건설
+1 - Code=000076, Full Code=KR7000071019, Company=삼양사우1신(폐지)
+1 - Code=081940, Full Code=KR7081940009, Company=아시아9호(폐지)
+1 - Code=028051, Full Code=KR7028050011, Company=삼성엔지1(폐지)
+1 - Code=016835, Full Code=KR7016831000, Company=한미은행우B(폐지)
+1 - Code=008895, Full Code=KR7008891004, Company=보람은행우(폐지)
+1 - Code=003240, Full Code=KR7003240009, Company=태광산업
+1 - Code=008891, Full Code=KR7008890014, Company=보람은행1(폐지)
+1 - Code=008890, Full Code=KR7008890006, Company=보람은행(폐지)
+1 - Code=082640, Full Code=KR7082640004, Company=동양생명
+1 - Code=090435, Full Code=KR7090431008, Company=아모레퍼시픽우
+1 - Code=002860, Full Code=KR7002860005, Company=하나은행(폐지)
+1 - Code=003690, Full Code=KR7003690005, Company=코리안리
+1 - Code=080410, Full Code=KR7080410004, Company=동북아6호(폐지)
+1 - Code=000540, Full Code=KR7000540005, Company=흥국화재
+1 - Code=097700, Full Code=KR7097700009, Company=KODEX 중형가치(폐지)
+1 - Code=152280, Full Code=KR7152280004, Company=KOSEF 200 선물
+1 - Code=004947, Full Code=KR7004942009, Company=외환은행2우B(폐지)
+1 - Code=148070, Full Code=KR7148070006, Company=KOSEF 10년국고채
+1 - Code=J00890, Full Code=KRA008902124, Company=12)티이씨앤코 1WR
+1 - Code=006570, Full Code=KR7006570006, Company=대림통상
+1 - Code=163560, Full Code=KR7163560006, Company=동일고무벨트
+1 - Code=067910, Full Code=KR7067910000, Company=코크렙1(폐지)
+1 - Code=137990, Full Code=KR7137990008, Company=TIGER 그린(폐지)
+1 - Code=081200, Full Code=KR7081200008, Company=아시아3호(폐지)
+1 - Code=016420, Full Code=KR7016420002, Company=NH농협증권(폐지)
+1 - Code=012224, Full Code=KR7012220117, Company=동국전자전1(폐지)
+1 - Code=012220, Full Code=KR7012220000, Company=동국전자(폐지)
+1 - Code=157650, Full Code=KR7157650003, Company=KStar 5대그룹주장기채+(폐지)
+1 - Code=090540, Full Code=KR7090540006, Company=코크렙8호(폐지)
+1 - Code=098560, Full Code=KR7098560006, Company=TIGER 방송통신
+1 - Code=007230, Full Code=KR7007230006, Company=금성기전(폐지)
+1 - Code=074170, Full Code=KR7074170002, Company=KODEX 배당(폐지)
+1 - Code=001060, Full Code=KR7001060003, Company=JW중외제약
+1 - Code=001067, Full Code=KR7001062009, Company=JW중외제약2우B
+1 - Code=001065, Full Code=KR7001061001, Company=JW중외제약우
+1 - Code=007540, Full Code=KR7007540008, Company=샘표
+1 - Code=007541, Full Code=KR7007540016, Company=샘표식품1신(폐지)
+1 - Code=950100, Full Code=KR8392060008, Company=SBI모기지(폐지)
+1 - Code=175330, Full Code=KRA175330141, Company=JB금융지주4R(폐지)
+1 - Code=038270, Full Code=KR7038270005, Company=옵티멈전환일(폐지)
+1 - Code=006125, Full Code=KR7006121008, Company=SK케미칼우
+1 - Code=01683A, Full Code=KR7016834004, Company=한미은행4우B(폐지)
+1 - Code=01683B, Full Code=KR7016835001, Company=한미은행5우B(폐지)
+1 - Code=006120, Full Code=KRA006120158, Company=SK케미칼 36R(폐지)
+1 - Code=007210, Full Code=KR7007210008, Company=벽산
+1 - Code=017800, Full Code=KRA017800152, Company=현대엘리베이터 13R(폐지)
+1 - Code=001799, Full Code=KR7001793009, Company=대한제당3우B
+1 - Code=016837, Full Code=KR7016832008, Company=한미은행2우B(폐지)
+1 - Code=016830, Full Code=KR7016830002, Company=한미은행(폐지)
+1 - Code=016831, Full Code=KR7016830010, Company=한미은행1(폐지)
+1 - Code=000425, Full Code=KR7000421008, Company=로케트전우(폐지)
+1 - Code=000420, Full Code=KR7000420000, Company=로케트전기(폐지)
+1 - Code=016839, Full Code=KR7016833006, Company=한미은행3우B(폐지)
+1 - Code=000930, Full Code=KR7000930008, Company=한화기계(폐지)
+1 - Code=000931, Full Code=KR7000930016, Company=한화기계1(폐지)
+1 - Code=025850, Full Code=KR7025850009, Company=한화화인케미칼(폐지)
+1 - Code=108440, Full Code=KR7108440009, Company=KINDEX 코스닥스타(폐지)
+1 - Code=001400, Full Code=KR7001400001, Company=동산씨앤지(폐지)
+1 - Code=129260, Full Code=KR7129260006, Company=인터지스
+1 - Code=002440, Full Code=KR7002440006, Company=미    원(폐지)
+1 - Code=002445, Full Code=KR7002441004, Company=미 원 우(폐지)
+1 - Code=001791, Full Code=KR7001790013, Company=대한제당1(폐지)
+1 - Code=001790, Full Code=KR7001790005, Company=대한제당
+1 - Code=001795, Full Code=KR7001791003, Company=대한제당우
+1 - Code=084160, Full Code=KR7084160001, Company=골든경매일호(폐지)
+1 - Code=222200, Full Code=KR7222200008, Company=ARIRANG 스마트베타 Quality
+1 - Code=243890, Full Code=KR7243890001, Company=TIGER 200에너지화학레버리지
+1 - Code=241590, Full Code=KR7241590009, Company=화승엔터프라이즈
+1 - Code=108590, Full Code=KR7108590001, Company=TREX 200
+1 - Code=169950, Full Code=KR7169950003, Company=KODEX 중국본토 A50
+1 - Code=238670, Full Code=KR7238670004, Company=ARIRANG 스마트베타Quality채권혼합
+1 - Code=001880, Full Code=KR7001880004, Company=삼호
+1 - Code=068290, Full Code=KR7068290006, Company=삼성출판사
+1 - Code=004692, Full Code=KR7004690020, Company=삼천리2(폐지)
+1 - Code=000680, Full Code=KR7000680009, Company=LS네트웍스
+1 - Code=004691, Full Code=KR7004690012, Company=삼천리1(폐지)
+1 - Code=000687, Full Code=KR7000682005, Company=LS네트웍스전환상환2우B(폐지)
+1 - Code=004690, Full Code=KR7004690004, Company=삼천리
+1 - Code=001797, Full Code=KR7001792001, Company=대한제당2우B(폐지)
+1 - Code=000330, Full Code=KR7000330001, Company=두산백화(폐지)
+1 - Code=000331, Full Code=KR7000330019, Company=두산백화1(폐지)
+1 - Code=027740, Full Code=KRA027740125, Company=마니커 8R(폐지)
+1 - Code=001080, Full Code=KR7001080001, Company=만호제강
+1 - Code=008975, Full Code=KR7008971004, Company=동양철관우(폐지)
+1 - Code=060000, Full Code=KR7060000007, Company=국민은행(폐지)
+1 - Code=005090, Full Code=KR7005090006, Company=삼광글라스
+1 - Code=000205, Full Code=KR7000201004, Company=대우중공우(폐지)
+1 - Code=196220, Full Code=KR7196220008, Company=KBSTAR 일본레버리지(H)
+1 - Code=012095, Full Code=KR7012091005, Company=성원건설우(폐지)
+1 - Code=000200, Full Code=KR7000200006, Company=대우중공업(폐지)
+1 - Code=009810, Full Code=KRA009810169, Company=고려포리머 65R(폐지)
+1 - Code=009681, Full Code=KR7009680018, Company=창원기화1(폐지)
+1 - Code=009680, Full Code=KR7009680000, Company=모토닉
+1 - Code=220130, Full Code=KR7220130009, Company=SMART 중국본토 중소형 CSI500(합성 H)
+1 - Code=034020, Full Code=KR7034020008, Company=두산중공업
+1 - Code=012090, Full Code=KR7012090007, Company=성원건설(폐지)
+1 - Code=011960, Full Code=KR7011960002, Company=새한종금(폐지)
+1 - Code=009441, Full Code=KR7009440017, Company=한국코트1(폐지)
+1 - Code=009440, Full Code=KR7009440009, Company=KC그린홀딩스
+1 - Code=103590, Full Code=KR7103590006, Company=일진전기
+1 - Code=147970, Full Code=KR7147970008, Company=TIGER 모멘텀
+1 - Code=047040, Full Code=KR7047040001, Company=대우건설
+1 - Code=J12011, Full Code=KRA120112107, Company=10)코오롱인더스트리 2WR(폐지)
+1 - Code=213500, Full Code=KRA213500168, Company=한솔제지 2R(폐지)
+1 - Code=014130, Full Code=KR7014130009, Company=한익스프레스
+1 - Code=131890, Full Code=KR7131890006, Company=KINDEX 삼성그룹EW
+1 - Code=014710, Full Code=KR7014710008, Company=사조씨푸드
+1 - Code=008640, Full Code=KR7008640005, Company=우성건설(폐지)
+1 - Code=000110, Full Code=KR7000110007, Company=제일은행(폐지)
+1 - Code=014392, Full Code=KR7014390025, Company=대구종금2(폐지)
+1 - Code=014391, Full Code=KR7014390017, Company=대구종금1(폐지)
+1 - Code=009200, Full Code=KR7009200007, Company=무림페이퍼
+1 - Code=214420, Full Code=KR7214420002, Company=토니모리
+1 - Code=015860, Full Code=KR7015860000, Company=일진홀딩스
+1 - Code=018366, Full Code=KR7018361014, Company=메디슨우1(폐지)
+1 - Code=004945, Full Code=KR7004941001, Company=외환은행우B(폐지)
+1 - Code=018365, Full Code=KR7018361006, Company=메디슨우(폐지)
+1 - Code=003535, Full Code=KR7003531001, Company=한화투자증권우
+1 - Code=018360, Full Code=KR7018360008, Company=메디슨(폐지)
+1 - Code=018361, Full Code=KR7018360016, Company=메디슨1(폐지)
+1 - Code=012720, Full Code=KR7012720009, Company=건영(폐지)
+1 - Code=015590, Full Code=KRA015590177, Company=대경기계 16R(폐지)
+1 - Code=000685, Full Code=KR7000681007, Company=LS네트웍스우(폐지)
+1 - Code=500018, Full Code=KRG502400184, Company=신한 구리 선물 ETN(H)
+1 - Code=500019, Full Code=KRG502400192, Company=신한 레버리지 WTI원유 선물 ETN(H)
+1 - Code=500012, Full Code=KRG502400127, Company=신한 인버스 달러인덱스 선물 ETN(H)
+1 - Code=500013, Full Code=KRG502400135, Company=신한 옥수수 선물 ETN(H)
+1 - Code=500010, Full Code=KRG502400101, Company=신한 인버스 다우존스지수 선물 ETN(H)
+1 - Code=500011, Full Code=KRG502400119, Company=신한 달러인덱스 선물 ETN(H)
+1 - Code=500016, Full Code=KRG502400168, Company=신한 금 선물 ETN(H)
+1 - Code=500017, Full Code=KRG502400176, Company=신한 은 선물 ETN(H)
+1 - Code=500014, Full Code=KRG502400143, Company=신한 인버스 옥수수 선물 ETN(H)
+1 - Code=014400, Full Code=KR7014400006, Company=경남종금(폐지)
+1 - Code=082260, Full Code=KR7082260001, Company=아시아7호(폐지)
+1 - Code=011290, Full Code=KR7011290004, Company=갑을방적(폐지)
+1 - Code=023530, Full Code=KR7023530009, Company=롯데쇼핑
+1 - Code=005890, Full Code=KR7005890009, Company=동원증권(폐지)
+1 - Code=005320, Full Code=KR7005320007, Company=국동
+1 - Code=005897, Full Code=KR7005892005, Company=동원증권2우B(폐지)
+1 - Code=005322, Full Code=KR7005320023, Company=국동2(폐지)
+1 - Code=005895, Full Code=KR7005891007, Company=동원증권우(폐지)
+1 - Code=004540, Full Code=KR7004540001, Company=깨끗한나라
+1 - Code=004230, Full Code=KR7004230009, Company=세신(폐지)
+1 - Code=004545, Full Code=KR7004541009, Company=깨끗한나라우
+1 - Code=001530, Full Code=KR7001530005, Company=동일방직
+1 - Code=003200, Full Code=KR7003200003, Company=일신방직
+1 - Code=013520, Full Code=KR7013520002, Company=화승알앤에이
+1 - Code=012580, Full Code=KR7012580007, Company=톰보이(폐지)
+1 - Code=101060, Full Code=KR7101060002, Company=SBS미디어홀딩스
+1 - Code=032350, Full Code=KR7032350001, Company=롯데관광개발
+1 - Code=012030, Full Code=KRA012030128, Company=동부CNI 8R(폐지)
+1 - Code=102960, Full Code=KR7102960002, Company=KODEX 기계장비
+1 - Code=008420, Full Code=KR7008420002, Company=문배철강
+1 - Code=036060, Full Code=KR7036060002, Company=한강기금(폐지)
+1 - Code=003495, Full Code=KR7003491008, Company=대한항공우
+1 - Code=003497, Full Code=KR7003492006, Company=대한항공2우B(폐지)
+1 - Code=003490, Full Code=KRA003490158, Company=대한항공43R(폐지)
+1 - Code=016575, Full Code=KR7016571002, Company=태평양제우(폐지)
+1 - Code=004432, Full Code=KR7004430021, Company=송원산업2(폐지)
+1 - Code=004431, Full Code=KR7004430013, Company=송원산업1(폐지)
+1 - Code=004430, Full Code=KR7004430005, Company=송원산업
+1 - Code=003300, Full Code=KR7003300001, Company=한일시멘트
+1 - Code=003650, Full Code=KR7003650009, Company=미창석유
+1 - Code=003475, Full Code=KR7003471000, Company=유안타증권우
+1 - Code=200020, Full Code=KR7200020006, Company=KODEX 미국IT(합성)
+1 - Code=002301, Full Code=KR7002300010, Company=한국제지1(폐지)
+1 - Code=002300, Full Code=KR7002300002, Company=한국제지
+1 - Code=007590, Full Code=KR7007590003, Company=동방아그로
+1 - Code=170900, Full Code=KR7170900005, Company=동아에스티
+1 - Code=037620, Full Code=KR7037620002, Company=미래에셋증권(폐지)
+1 - Code=012450, Full Code=KR7012450003, Company=한화테크윈
+1 - Code=012451, Full Code=KR7012450011, Company=삼성항공1(폐지)
+1 - Code=019380, Full Code=KR7019380005, Company=신강제지(폐지)
+1 - Code=222190, Full Code=KR7222190001, Company=ARIRANG 스마트베타 Momentum
+1 - Code=002870, Full Code=KR7002870004, Company=신풍제지
+1 - Code=204450, Full Code=KR7204450001, Company=KODEX China H 레버리지(H)
+1 - Code=097730, Full Code=KR7097730006, Company=KOSEF 대형가치(폐지)
+1 - Code=006805, Full Code=KR7006801005, Company=미래에셋대우우
+1 - Code=006800, Full Code=KR7006800007, Company=미래에셋대우
+1 - Code=004110, Full Code=KR7004110003, Company=대선주조(폐지)
+1 - Code=190160, Full Code=KR7190160002, Company=ARIRANG 단기유동성
+1 - Code=006790, Full Code=KR7006790000, Company=대상교역(폐지)
+1 - Code=002270, Full Code=KR7002270007, Company=롯데푸드
+1 - Code=007310, Full Code=KR7007310006, Company=오뚜기
+1 - Code=261260, Full Code=KR7261260004, Company=KODEX 미국달러선물인버스2X
+1 - Code=004175, Full Code=KR7004171005, Company=신세계우B(폐지)
+1 - Code=008930, Full Code=KR7008930000, Company=한미사이언스
+1 - Code=252420, Full Code=KR7252420005, Company=KBSTAR 200선물인버스2X
+1 - Code=152180, Full Code=KR7152180006, Company=TIGER 생활필수품
+1 - Code=210980, Full Code=KR7210980009, Company=SK디앤디
+1 - Code=074610, Full Code=KR7074610007, Company=이엔쓰리
+1 - Code=168300, Full Code=KR7168300002, Company=KTOP 50
+1 - Code=002050, Full Code=KR7002050003, Company=경향건설(폐지)
+1 - Code=002055, Full Code=KR7002051001, Company=경향건설우(폐지)
+1 - Code=004551, Full Code=KR7004550018, Company=우리차판1(폐지)
+1 - Code=020760, Full Code=KR7020760005, Company=일진디스플
+1 - Code=013070, Full Code=KR7013070008, Company=태양이앤테크(폐지)
+1 - Code=090080, Full Code=KR7090080003, Company=평화산업
+1 - Code=J07271, Full Code=KRA0727121V4, Company=1V)농심홀딩스 2WR(폐지)
+1 - Code=233740, Full Code=KR7233740000, Company=KODEX 코스닥150 레버리지
+1 - Code=006150, Full Code=KR7006150007, Company=한메NS(폐지)
+1 - Code=011400, Full Code=KR7011400009, Company=케이씨오에너지(폐지)
+1 - Code=016641, Full Code=KR7016640013, Company=신 화 1(폐지)
+1 - Code=016640, Full Code=KR7016640005, Company=신    화(폐지)
+1 - Code=036870, Full Code=KR7036870004, Company=장인환1호(폐지)
+1 - Code=016355, Full Code=KR7016351009, Company=신한종금우(폐지)
+1 - Code=000041, Full Code=KR7000040014, Company=효성기계1(폐지)
+1 - Code=001430, Full Code=KR7001430008, Company=세아베스틸
+1 - Code=001431, Full Code=KR7001430016, Company=기아특수1(폐지)
+1 - Code=000430, Full Code=KR7000430009, Company=대원강업
+1 - Code=144750, Full Code=KR7144750007, Company=KODEX 태양광(폐지)
+1 - Code=069500, Full Code=KR7069500007, Company=KODEX 200
+1 - Code=025840, Full Code=KR7025840000, Company=레이디(폐지)
+1 - Code=103160, Full Code=KR7103160008, Company=풀무원(폐지)
+1 - Code=006370, Full Code=KR7006370001, Company=대구백화점
+1 - Code=002690, Full Code=KR7002690006, Company=동일제강
+1 - Code=006375, Full Code=KR7006371009, Company=대구백화우(폐지)
+1 - Code=003905, Full Code=KR7003901006, Company=해태유업우(폐지)
+1 - Code=003900, Full Code=KR7003900008, Company=해태유업(폐지)
+1 - Code=012751, Full Code=KR7012750014, Company=에스원1(폐지)
+1 - Code=002455, Full Code=KR7002451003, Company=삼익악기우(폐지)
+1 - Code=002450, Full Code=KR7002450005, Company=삼익악기
+1 - Code=243880, Full Code=KR7243880002, Company=TIGER 200IT레버리지
+1 - Code=090370, Full Code=KR7090370008, Company=아비스타
+1 - Code=000327, Full Code=KR7000322008, Company=노루홀딩스2우B
+1 - Code=000325, Full Code=KR7000321000, Company=노루홀딩스우
+1 - Code=017170, Full Code=KR7017170002, Company=훈영(폐지)
+1 - Code=000320, Full Code=KR7000320002, Company=노루홀딩스
+1 - Code=001500, Full Code=KR7001500008, Company=HMC투자증권
+1 - Code=001501, Full Code=KR7001500016, Company=신흥증권1(폐지)
+1 - Code=006200, Full Code=KR7006200000, Company=한국전자홀딩스
+1 - Code=006201, Full Code=KR7006200018, Company=한국전자1신(폐지)
+1 - Code=010770, Full Code=KR7010770006, Company=평화홀딩스
+1 - Code=174360, Full Code=KR7174360008, Company=KBSTAR 중국본토대형주CSI100
+1 - Code=039130, Full Code=KR7039130000, Company=하나투어
+1 - Code=136490, Full Code=KR7136490000, Company=선진
+1 - Code=051310, Full Code=KRA051310142, Company=포스코플랜텍14R(폐지)
+1 - Code=025930, Full Code=KR7025930009, Company=팬택(폐지)
+1 - Code=033240, Full Code=KR7033240003, Company=자화전자
+1 - Code=152870, Full Code=KR7152870002, Company=파워 K200
+1 - Code=010510, Full Code=KR7010510006, Company=일진(폐지)
+1 - Code=196230, Full Code=KR7196230007, Company=KBSTAR 단기통안채
+1 - Code=000210, Full Code=KR7000210005, Company=대림산업
+1 - Code=111770, Full Code=KR7111770004, Company=영원무역
+1 - Code=000215, Full Code=KR7000211003, Company=대림산업우
+1 - Code=009470, Full Code=KR7009470006, Company=삼화전기
+1 - Code=001340, Full Code=KRA001340157, Company=백광산업 24R(폐지)
+1 - Code=034580, Full Code=KR7034580001, Company=플래티넘1호(폐지)
+1 - Code=214980, Full Code=KR7214980005, Company=KODEX 단기채권PLUS
+1 - Code=010200, Full Code=KR7010200004, Company=극동제혁(폐지)
+1 - Code=266550, Full Code=KR7266550003, Company=ARIRANG 중형주저변동50
+1 - Code=130680, Full Code=KR7130680002, Company=TIGER 원유선물(H)
+1 - Code=261070, Full Code=KR7261070007, Company=TIGER 코스닥150바이오테크
+1 - Code=253280, Full Code=KR7253280002, Company=KBSTAR 헬스케어
+1 - Code=008650, Full Code=KR7008650004, Company=신한전자(폐지)
+1 - Code=117740, Full Code=KR7117740001, Company=ARIRANG LG그룹&(폐지)
+1 - Code=024720, Full Code=KR7024720005, Company=한국콜마홀딩스
+1 - Code=009270, Full Code=KR7009270000, Company=신원
+1 - Code=148040, Full Code=KR7148040009, Company=PIONEER SRI(폐지)
+1 - Code=009275, Full Code=KR7009271008, Company=신원우
+1 - Code=000107, Full Code=KR7000102004, Company=유한양행2우B(폐지)
+1 - Code=000106, Full Code=KR7000101014, Company=유한양행우1(폐지)
+1 - Code=000105, Full Code=KR7000101006, Company=유한양행우
+1 - Code=000102, Full Code=KR7000100024, Company=유한양행2(폐지)
+1 - Code=000101, Full Code=KR7000100016, Company=유한양행1(폐지)
+1 - Code=000100, Full Code=KR7000100008, Company=유한양행
+1 - Code=011825, Full Code=KR7011821006, Company=한국물산우(폐지)
+1 - Code=002021, Full Code=KR7002020014, Company=코오롱1(폐지)
+1 - Code=018550, Full Code=KR7018550004, Company=한국안전유리(폐지)
+1 - Code=011820, Full Code=KR7011820008, Company=한국물산(폐지)
+1 - Code=018880, Full Code=KR7018880005, Company=한온시스템
+1 - Code=J10313, Full Code=KRA103132114, Company=11)웅진에너지 1WR
+1 - Code=219900, Full Code=KR7219900008, Company=KINDEX 중국본토레버리지(합성)
+1 - Code=241560, Full Code=KR7241560002, Company=두산밥캣
+1 - Code=100250, Full Code=KR7100250000, Company=진양홀딩스
+1 - Code=005421, Full Code=KR7005420013, Company=한국티타1(폐지)
+1 - Code=005420, Full Code=KR7005420005, Company=코스모화학
+1 - Code=500009, Full Code=KRG502400093, Company=신한 다우존스지수 선물 ETN(H)
+1 - Code=500008, Full Code=KRG502400085, Company=신한 인버스 구리 선물 ETN(H)
+1 - Code=128940, Full Code=KRA128940137, Company=한미약품5R(폐지)
+1 - Code=095720, Full Code=KRA095720140, Company=웅진씽크빅6R(폐지)
+1 - Code=500001, Full Code=KRG501300013, Company=신한 K200 USD 선물 바이셀 ETN
+1 - Code=500003, Full Code=KRG502400036, Company=신한 인버스 WTI원유 선물 ETN(H)
+1 - Code=500002, Full Code=KRG501300021, Company=신한 USD K200 선물 바이셀 ETN
+1 - Code=001620, Full Code=KR7001620004, Company=동국실업
+1 - Code=500004, Full Code=KRG502400044, Company=신한 브렌트원유 선물 ETN(H)
+1 - Code=500007, Full Code=KRG501100074, Company=신한 인버스 은 선물 ETN(H)
+1 - Code=500006, Full Code=KRG502400069, Company=신한 인버스 금 선물 ETN(H)
+1 - Code=008250, Full Code=KR7008250003, Company=이건산업
+1 - Code=044820, Full Code=KR7044820009, Company=코스맥스비티아이
+1 - Code=009650, Full Code=KR7009650003, Company=현대차써비스(폐지)
+1 - Code=005880, Full Code=KR7005880000, Company=대한해운
+1 - Code=015675, Full Code=KR7015671001, Company=AP우주우B(폐지)
+1 - Code=005330, Full Code=KR7005330006, Company=카스코(폐지)
+1 - Code=009655, Full Code=KR7009651001, Company=현대차써우(폐지)
+1 - Code=015670, Full Code=KR7015670003, Company=AP우주통신(폐지)
+1 - Code=004200, Full Code=KR7004200002, Company=고려개발
+1 - Code=004060, Full Code=KR7004060000, Company=SG세계물산
+1 - Code=004061, Full Code=KR7004060018, Company=세계물산1신(폐지)
+1 - Code=120210, Full Code=KR7120210000, Company=GREAT SRI(폐지)
+1 - Code=J00144, Full Code=KRA001442110, Company=11)대한전선 2WR
+1 - Code=034830, Full Code=KR7034830000, Company=한국토지신탁
+1 - Code=011000, Full Code=KRA011000148, Company=진원생명과학18R(폐지)
+1 - Code=009897, Full Code=KR7009892001, Company=맥슨텔레콤2우B(폐지)
+1 - Code=009895, Full Code=KR7009891003, Company=맥슨텔레콤우B(폐지)
+1 - Code=248170, Full Code=KR7248170003, Company=샘표식품
+1 - Code=009890, Full Code=KR7009890005, Company=맥슨텔레콤(폐지)
+1 - Code=102970, Full Code=KR7102970001, Company=KODEX 증권
+1 - Code=004840, Full Code=KR7004840005, Company=DRB동일
+1 - Code=250730, Full Code=KR7250730009, Company=KBSTAR 차이나H주(H)
+1 - Code=139200, Full Code=KR7139200000, Company=하이골드2호(폐지)
+1 - Code=251600, Full Code=KR7251600003, Company=ARIRANG 고배당주채권혼합
+1 - Code=003481, Full Code=KR7003480019, Company=한진중공1(폐지)
+1 - Code=003480, Full Code=KR7003480001, Company=한진중공업홀딩스
+1 - Code=034850, Full Code=KR7034850008, Company=플래티넘2호(폐지)
+1 - Code=004440, Full Code=KR7004440004, Company=대림씨엔에스
+1 - Code=105190, Full Code=KR7105190003, Company=KINDEX 200
+1 - Code=083610, Full Code=KR7083610006, Company=아시아14호
+1 - Code=104110, Full Code=KR7104110002, Company=신성이엔지(폐지)
+1 - Code=003465, Full Code=KR7003461001, Company=유화증권우
+1 - Code=200030, Full Code=KR7200030005, Company=KODEX 미국산업재(합성)
+1 - Code=033660, Full Code=KR7033660002, Company=아주캐피탈
+1 - Code=002990, Full Code=KR7002990000, Company=금호산업
+1 - Code=002995, Full Code=KR7002991008, Company=금호산업우
+1 - Code=211260, Full Code=KR7211260005, Company=KINDEX 배당성장
+1 - Code=097720, Full Code=KR7097720007, Company=TIGER 미드캡(폐지)
+1 - Code=222180, Full Code=KR7222180002, Company=ARIRANG 스마트베타 Value
+1 - Code=007815, Full Code=KR7007811003, Company=코리아써우
+1 - Code=025610, Full Code=KR7025610007, Company=한국저축은행(폐지)
+1 - Code=097690, Full Code=KR7097690002, Company=KODEX 중대형가치(폐지)
+1 - Code=007810, Full Code=KRA007810138, Company=코리아써키트 18R(폐지)
+1 - Code=019170, Full Code=KR7019170000, Company=신풍제약
+1 - Code=002840, Full Code=KR7002840007, Company=미원상사
+1 - Code=019175, Full Code=KR7019171008, Company=신풍제약우
+1 - Code=014490, Full Code=KR7014490007, Company=쌍용종금(폐지)
+1 - Code=139660, Full Code=KR7139660005, Company=KOSEF 달러인버스선물
+1 - Code=003000, Full Code=KR7003000007, Company=부광약품
+1 - Code=00736B, Full Code=KR7007365000, Company=하나은행5우B(폐지)
+1 - Code=00736C, Full Code=KR7007366008, Company=하나은행6우B(폐지)
+1 - Code=015230, Full Code=KR7015230006, Company=대창단조
+1 - Code=008321, Full Code=KR7008320012, Company=대붕전선1(폐지)
+1 - Code=00736E, Full Code=KR7007368004, Company=하나은행8우B(폐지)
+1 - Code=002200, Full Code=KR7002200004, Company=수출포장
+1 - Code=002201, Full Code=KR7002200012, Company=수출포장1(폐지)
+1 - Code=007490, Full Code=KR7007490006, Company=태창기업(폐지)
+1 - Code=007360, Full Code=KR7007360001, Company=하나은행(폐지)
+1 - Code=007361, Full Code=KR7007360019, Company=하나은행1(폐지)
+1 - Code=007801, Full Code=KR7007800014, Company=동양금고1(폐지)
+1 - Code=007365, Full Code=KR7007361009, Company=하나은행우B(폐지)
+1 - Code=036460, Full Code=KRA036460236, Company=한국가스공사2R(폐지)
+1 - Code=007800, Full Code=KR7007800006, Company=솔로몬저축은행(폐지)
+1 - Code=218420, Full Code=KR7218420008, Company=KODEX 미국에너지(합성)
+1 - Code=091170, Full Code=KR7091170001, Company=KODEX 은행
+1 - Code=049800, Full Code=KR7049800006, Company=우진플라임
+1 - Code=00781K, Full Code=KR700781K015, Company=코리아써키트2우B
+1 - Code=066570, Full Code=KRA066570110, Company=LG전자 76R(폐지)
+1 - Code=066575, Full Code=KR7066571001, Company=LG전자우
+1 - Code=012205, Full Code=KR7012201000, Company=계양전기우
+1 - Code=232590, Full Code=KR7232590000, Company=KINDEX 골드선물 인버스2X(합성 H)
+1 - Code=252410, Full Code=KR7252410006, Company=KBSTAR 200선물인버스
+1 - Code=012201, Full Code=KR7012200010, Company=계양전기1(폐지)
+1 - Code=012200, Full Code=KR7012200002, Company=계양전기
+1 - Code=003260, Full Code=KR7003260007, Company=서광(폐지)
+1 - Code=025542, Full Code=KR7025540022, Company=한국단자2(폐지)
+1 - Code=016581, Full Code=KR7016580011, Company=환인제약1(폐지)
+1 - Code=176950, Full Code=KR7176950004, Company=KODEX 인버스국채선물10년
+1 - Code=025541, Full Code=KR7025540014, Company=한국단자1(폐지)
+1 - Code=024890, Full Code=KR7024890006, Company=대원화성
+1 - Code=012500, Full Code=KR7012500005, Company=제일종금(폐지)
+1 - Code=013240, Full Code=KR7013240007, Company=셀런(폐지)
+1 - Code=013241, Full Code=KR7013240015, Company=세양산업1(폐지)
+1 - Code=044380, Full Code=KR7044380004, Company=주연테크
+1 - Code=000815, Full Code=KR7000811000, Company=삼성화재우
+1 - Code=021171, Full Code=KR7021170014, Company=고려유화1(폐지)
+1 - Code=021170, Full Code=KR7021170006, Company=고려유화(폐지)
+1 - Code=073470, Full Code=KR7073470007, Company=유레스메리츠1(폐지)
+1 - Code=016360, Full Code=KRA016360174, Company=삼성증권 29R(폐지)
+1 - Code=016361, Full Code=KR7016360018, Company=삼성증권1(폐지)
+1 - Code=001420, Full Code=KR7001420009, Company=태원물산
+1 - Code=016365, Full Code=KR7016361008, Company=삼성증권우B(폐지)
+1 - Code=016367, Full Code=KR7016362006, Company=삼성증권2우B(폐지)
+1 - Code=000910, Full Code=KR7000910000, Company=유니온
+1 - Code=000911, Full Code=KR7000910018, Company=유니온1(폐지)
+1 - Code=000912, Full Code=KR7000910026, Company=유니온2(폐지)
+1 - Code=093730, Full Code=KR7093730000, Company=동북아31호(폐지)
+1 - Code=016690, Full Code=KR7016690000, Company=신세계종금(폐지)
+1 - Code=016691, Full Code=KR7016690018, Company=신세계종1(폐지)
+1 - Code=016692, Full Code=KR7016690026, Company=신세계종2(폐지)
+1 - Code=126560, Full Code=KR7126560002, Company=현대에이치씨엔
+1 - Code=138930, Full Code=KRA138930144, Company=BS금융지주5R(폐지)
+1 - Code=006360, Full Code=KR7006360002, Company=GS건설
+1 - Code=226980, Full Code=KR7226980001, Company=KODEX 200 중소형
+1 - Code=013870, Full Code=KR7013870001, Company=지엠비코리아
+1 - Code=950010, Full Code=KR8136010004, Company=평산차업 KDR(폐지)
+1 - Code=002420, Full Code=KR7002420008, Company=세기상사
+1 - Code=017180, Full Code=KRA017180167, Company=명문제약 12R(폐지)
+1 - Code=161490, Full Code=KR7161490008, Company=ARIRANG 방어주
+1 - Code=016740, Full Code=KR7016740003, Company=두올
+1 - Code=053210, Full Code=KR7053210001, Company=스카이라이프
+1 - Code=010690, Full Code=KR7010690006, Company=화신
+1 - Code=010691, Full Code=KR7010690014, Company=화 신 1(폐지)
+1 - Code=000590, Full Code=KR7000590000, Company=CS홀딩스
+1 - Code=006210, Full Code=KR7006210009, Company=휴리프(폐지)
+1 - Code=001515, Full Code=KR7001511005, Company=SK증권우
+1 - Code=006240, Full Code=KR7006240006, Company=진도물산(폐지)
+1 - Code=001510, Full Code=KR7001510007, Company=SK증권
+1 - Code=034220, Full Code=KR7034220004, Company=LG디스플레이
+1 - Code=002735, Full Code=KR7002731008, Company=고려증권우(폐지)
+1 - Code=002730, Full Code=KR7002730000, Company=고려증권(폐지)
+1 - Code=219480, Full Code=KR7219480001, Company=KODEX S&P500;선물(H)
+1 - Code=099350, Full Code=KR7099350001, Company=하나니켈2호
+1 - Code=033920, Full Code=KR7033920000, Company=무학
+1 - Code=033250, Full Code=KRA033250150, Company=체시스 7R(폐지)
+1 - Code=024090, Full Code=KR7024090003, Company=디씨엠
+1 - Code=030210, Full Code=KR7030210009, Company=KTB투자증권
+1 - Code=030211, Full Code=KR7030210017, Company=종합기술1(폐지)
+1 - Code=143460, Full Code=KR7143460004, Company=KINDEX 밸류대형
+1 - Code=014081, Full Code=KR7014080014, Company=뉴맥스1(폐지)
+1 - Code=014080, Full Code=KR7014080006, Company=뉴맥스(폐지)
+1 - Code=253160, Full Code=KR7253160006, Company=ARIRANG 200선물인버스2X
+1 - Code=161000, Full Code=KR7161000005, Company=애경유화
+1 - Code=002460, Full Code=KR7002460004, Company=화성산업
+1 - Code=001350, Full Code=KR7001350008, Company=대한모방(폐지)
+1 - Code=155660, Full Code=KR7155660004, Company=DSR
+1 - Code=018410, Full Code=KR7018410001, Company=현대금속(폐지)
+1 - Code=018411, Full Code=KR7018410019, Company=현대금속1(폐지)
+1 - Code=026960, Full Code=KR7026960005, Company=동서
+1 - Code=005180, Full Code=KR7005180005, Company=빙그레
+1 - Code=005181, Full Code=KR7005180013, Company=빙그레1신(폐지)
+1 - Code=103155, Full Code=KR7103151007, Company=하이트맥주우(폐지)
+1 - Code=261060, Full Code=KR7261060008, Company=TIGER 코스닥150IT
+1 - Code=570003, Full Code=KRG571100038, Company=TRUE 빅5 동일가중 ETN
+1 - Code=253290, Full Code=KR7253290001, Company=KBSTAR 헬스케어채권혼합
+1 - Code=009795, Full Code=KR7009791005, Company=휴닉스우(폐지)
+1 - Code=042660, Full Code=KR7042660001, Company=대우조선해양
+1 - Code=042665, Full Code=KR7042661009, Company=대우조선우B(폐지)
+1 - Code=000170, Full Code=KR7000170001, Company=LG금속(폐지)
+1 - Code=004940, Full Code=KR7004940003, Company=외환은행(폐지)
+1 - Code=010520, Full Code=KR7010520005, Company=현대하이스코(폐지)
+1 - Code=010521, Full Code=KR7010520013, Company=현대강관1(폐지)
+1 - Code=100220, Full Code=KR7100220003, Company=비상교육
+1 - Code=550022, Full Code=KRG551100222, Company=QV 사물인터넷 테마 ETN
+1 - Code=550023, Full Code=KRG551100230, Company=QV 고령화 테마 ETN
+1 - Code=550020, Full Code=KRG551100206, Company=QV 2차전지 테마 ETN
+1 - Code=550021, Full Code=KRG551100214, Company=QV 핀테크 테마 ETN
+1 - Code=124090, Full Code=KR7124090002, Company=HIT 보험(폐지)
+1 - Code=550027, Full Code=KRG551100271, Company=QV 농업 테마 ETN
+1 - Code=550024, Full Code=KRG551100248, Company=QV 수자원 테마 ETN
+1 - Code=550025, Full Code=KRG551100255, Company=QV HMR 테마 ETN
+1 - Code=005980, Full Code=KR7005980008, Company=성지건설
+1 - Code=005450, Full Code=KR7005450002, Company=신한
+1 - Code=550029, Full Code=KRG551100297, Company=QV 대체에너지 테마 ETN
+1 - Code=015110, Full Code=KR7015110000, Company=중앙건설(폐지)
+1 - Code=141240, Full Code=KR7141240002, Company=ARIRANG K100EW
+1 - Code=121910, Full Code=KR7121910004, Company=대우증권스팩(폐지)
+1 - Code=004210, Full Code=KR7004210001, Company=한일방직(폐지)
+1 - Code=009085, Full Code=KR7009081001, Company=퍼시픽글라스우(폐지)
+1 - Code=185750, Full Code=KR7185750007, Company=종근당
+1 - Code=104580, Full Code=KR7104580006, Company=KODEX Brazil(폐지)
+1 - Code=009080, Full Code=KR7009080003, Company=퍼시픽글라스(폐지)
+1 - Code=092230, Full Code=KR7092230002, Company=KPX홀딩스
+1 - Code=034770, Full Code=KR7034770008, Company=SEI에셋(폐지)
+1 - Code=009310, Full Code=KR7009310004, Company=참엔지니어링
+1 - Code=035420, Full Code=KR7035420009, Company=NAVER
+1 - Code=215620, Full Code=KR7215620006, Company=흥국 S&P; 로우볼
+1 - Code=157500, Full Code=KR7157500000, Company=TIGER 증권
+1 - Code=093050, Full Code=KR7093050003, Company=LF
+1 - Code=261240, Full Code=KR7261240006, Company=KODEX 미국달러선물
+1 - Code=012690, Full Code=KR7012690004, Company=모나리자
+1 - Code=012691, Full Code=KR7012690012, Company=모나리자1(폐지)
+1 - Code=005850, Full Code=KR7005850003, Company=에스엘
+1 - Code=015020, Full Code=KR7015020001, Company=이스타코
+1 - Code=017043, Full Code=KR7017040031, Company=광명전기3(폐지)
+1 - Code=139270, Full Code=KR7139270003, Company=TIGER 200 금융
+1 - Code=090980, Full Code=KR7090980004, Company=코리아02호
+1 - Code=072130, Full Code=KR7072130008, Company=유엔젤
+1 - Code=004450, Full Code=KR7004450003, Company=삼화왕관
+1 - Code=004100, Full Code=KR7004100004, Company=태양금속
+1 - Code=004105, Full Code=KR7004101002, Company=태양금속우
+1 - Code=152500, Full Code=KR7152500005, Company=KINDEX 레버리지
+1 - Code=003450, Full Code=KR7003450004, Company=현대증권(폐지)
+1 - Code=003451, Full Code=KR7003450012, Company=현대증권1(폐지)
+1 - Code=003457, Full Code=KR7003452000, Company=현대증권2우B(폐지)
+1 - Code=105560, Full Code=KRA1055602W1, Company=KB금융 3R(폐지)
+1 - Code=012470, Full Code=KR7012470001, Company=영진테크(폐지)
+1 - Code=097750, Full Code=KR7097750004, Company=TREX 중소형가치
+1 - Code=260200, Full Code=KR7260200001, Company=KOSEF 배당바이백플러스
+1 - Code=007790, Full Code=KR7007790009, Company=금하방직(폐지)
+1 - Code=045710, Full Code=KR7045710001, Company=온미디어(폐지)
+1 - Code=153270, Full Code=KR7153270004, Company=KOSEF 100
+1 - Code=037480, Full Code=KR7037480001, Company=박현주2성장(폐지)
+1 - Code=007802, Full Code=KR7007800022, Company=동양금고2(폐지)
+1 - Code=003580, Full Code=KR7003580008, Company=동원
+1 - Code=J02867, Full Code=KRA028672228, Company=22)STX팬오션 1WR
+1 - Code=138250, Full Code=KR7138250006, Company=엔에스쇼핑
+1 - Code=011651, Full Code=KR7011650017, Company=엘지정보1(폐지)
+1 - Code=011650, Full Code=KR7011650009, Company=LG정보(폐지)
+1 - Code=002850, Full Code=KR7002850006, Company=영풍산업(폐지)
+1 - Code=002857, Full Code=KR7002852002, Company=영풍산업2우B(폐지)
+1 - Code=002855, Full Code=KR7002851004, Company=영풍산업우(폐지)
+1 - Code=003070, Full Code=KR7003070000, Company=코오롱글로벌
+1 - Code=003071, Full Code=KR7003070018, Company=코오롱건1(폐지)
+1 - Code=003075, Full Code=KR7003071008, Company=코오롱글로벌우
+1 - Code=008350, Full Code=KR7008350001, Company=남선알미늄
+1 - Code=003291, Full Code=KR7003290012, Company=엔케이텔1(폐지)
+1 - Code=139300, Full Code=KR7139300008, Company=TIGER 블루칩30(폐지)
+1 - Code=008355, Full Code=KR7008351009, Company=남선알미우
+1 - Code=002210, Full Code=KR7002210003, Company=동성제약
+1 - Code=204320, Full Code=KR7204320006, Company=만도
+1 - Code=091160, Full Code=KR7091160002, Company=KODEX 반도체
+1 - Code=J00596, Full Code=KRA005962139, Company=13)동부건설 3WR
+1 - Code=001630, Full Code=KR7001630003, Company=종근당홀딩스
+1 - Code=007570, Full Code=KR7007570005, Company=일양약품
+1 - Code=013890, Full Code=KR7013890009, Company=지누스(폐지)
+1 - Code=038400, Full Code=KR7038400008, Company=외환카드(폐지)
+1 - Code=000315, Full Code=KR7000311001, Company=해태제과우(폐지)
+1 - Code=009840, Full Code=KR7009840000, Company=갑을(폐지)
+1 - Code=012270, Full Code=KR7012270005, Company=동신(폐지)
+1 - Code=252400, Full Code=KR7252400007, Company=KBSTAR 200선물레버리지
+1 - Code=015540, Full Code=KR7015540008, Company=핫텍
+1 - Code=072710, Full Code=KR7072710007, Company=농심홀딩스
+1 - Code=101280, Full Code=KR7101280006, Company=KODEX Japan
+1 - Code=211900, Full Code=KR7211900006, Company=KODEX 배당성장
+1 - Code=003290, Full Code=KR7003290004, Company=엔케이텔레콤(폐지)
+1 - Code=005321, Full Code=KR7005320015, Company=국동1(폐지)
+1 - Code=007571, Full Code=KR7007570013, Company=일양약품1(폐지)
+1 - Code=016590, Full Code=KR7016590002, Company=신대양제지
+1 - Code=001980, Full Code=KR7001980002, Company=대호(폐지)
+1 - Code=007575, Full Code=KR7007571003, Company=일양약품우
+1 - Code=168490, Full Code=KR7168490001, Company=한국패러랠
+1 - Code=006510, Full Code=KR7006510002, Company=인    켈(폐지)
+1 - Code=108070, Full Code=KR7108070004, Company=삼성이미징(폐지)
+1 - Code=021610, Full Code=KR7021610001, Company=동남은행(폐지)
+1 - Code=006515, Full Code=KR7006511000, Company=인 켈 우(폐지)
+1 - Code=085310, Full Code=KRA085310142, Company=엔케이10R(폐지)
+1 - Code=003850, Full Code=KR7003850005, Company=보령제약
+1 - Code=013095, Full Code=KR7013091004, Company=이트로닉스우(폐지)
+1 - Code=013097, Full Code=KR7013092002, Company=이트로닉스2우B(폐지)
+1 - Code=108675, Full Code=KR7108671009, Company=LG하우시스우
+1 - Code=013090, Full Code=KR7013090006, Company=이트로닉스(폐지)
+1 - Code=161550, Full Code=KR7161550009, Company=ARIRANG 화학(폐지)
+1 - Code=J00919, Full Code=KRA009192105, Company=10)대양금속 3WR(폐지)
+1 - Code=013255, Full Code=KR7013251004, Company=대양금고우B(폐지)
+1 - Code=013251, Full Code=KR7013250014, Company=대양금고1(폐지)
+1 - Code=013250, Full Code=KR7013250006, Company=대양금고(폐지)
+1 - Code=002180, Full Code=KR7002180008, Company=삼익건설(폐지)
+1 - Code=007480, Full Code=KR7007480007, Company=대한은박지(폐지)
+1 - Code=233160, Full Code=KR7233160001, Company=TIGER 코스닥150 레버리지
+1 - Code=006350, Full Code=KR7006350003, Company=전북은행(폐지)
+1 - Code=027970, Full Code=KRA027970128, Company=세하 28R(폐지)
+1 - Code=156080, Full Code=KR7156080004, Company=KODEX MSCI KOREA
+1 - Code=138920, Full Code=KR7138920004, Company=KODEX 콩선물(H)
+1 - Code=001745, Full Code=KR7001741008, Company=SK네트웍스우
+1 - Code=016682, Full Code=KR7016680027, Company=태흥피혁2(폐지)
+1 - Code=001740, Full Code=KR7001740000, Company=SK네트웍스
+1 - Code=001741, Full Code=KR7001740018, Company=선 경 1(폐지)
+1 - Code=003920, Full Code=KR7003920006, Company=남양유업
+1 - Code=J00825, Full Code=KRA008252116, Company=11)이건산업 2WR
+1 - Code=003925, Full Code=KR7003921004, Company=남양유업우
+1 - Code=101990, Full Code=KR7101990000, Company=파브코(폐지)
+1 - Code=041650, Full Code=KR7041650003, Company=상신브레이크
+1 - Code=108670, Full Code=KR7108670001, Company=LG하우시스
+1 - Code=017370, Full Code=KR7017370008, Company=우신시스템
+1 - Code=090355, Full Code=KR7090351008, Company=노루페인트우
+1 - Code=144600, Full Code=KR7144600004, Company=KODEX 은선물(H)
+1 - Code=001800, Full Code=KR7001800002, Company=오리온
+1 - Code=108890, Full Code=KR7108890005, Company=거북선4호(폐지)
+1 - Code=090350, Full Code=KR7090350000, Company=노루페인트
+1 - Code=J06725, Full Code=KRA067252122, Company=12)STX조선해양 3WR
+1 - Code=006220, Full Code=KR7006220008, Company=제주은행
+1 - Code=001290, Full Code=KR7001290006, Company=골든브릿지증권
+1 - Code=016970, Full Code=KR7016970006, Company=씨크롭(폐지)
+1 - Code=001560, Full Code=KR7001560002, Company=제일연마
+1 - Code=016975, Full Code=KR7016971004, Company=씨크롭우(폐지)
+1 - Code=001295, Full Code=KR7001291004, Company=대유리젠트증권우(폐지)
+1 - Code=005935, Full Code=KR7005931001, Company=삼성전자우
+1 - Code=002720, Full Code=KR7002720001, Company=국제약품
+1 - Code=030200, Full Code=KR7030200000, Company=KT
+1 - Code=000905, Full Code=KR7000901009, Company=강원산업우(폐지)
+1 - Code=000901, Full Code=KR7000900019, Company=강원산업1신(폐지)
+1 - Code=000900, Full Code=KR7000900001, Company=강원산업(폐지)
+1 - Code=051600, Full Code=KR7051600005, Company=한전KPS
+1 - Code=228810, Full Code=KR7228810008, Company=TIGER 미디어컨텐츠
+1 - Code=009410, Full Code=KR7009410002, Company=태영건설
+1 - Code=042700, Full Code=KR7042700005, Company=한미반도체
+1 - Code=001360, Full Code=KRA001360163, Company=삼성제약 30R(폐지)
+1 - Code=009415, Full Code=KR7009411000, Company=태영건설우
+1 - Code=100910, Full Code=KR7100910009, Company=KOSEF KRX100
+1 - Code=025561, Full Code=KR7025560012, Company=미래산업1(폐지)
+1 - Code=000760, Full Code=KR7000760009, Company=이화산업
+1 - Code=001160, Full Code=KR7001160001, Company=신원제이엠씨(폐지)
+1 - Code=001930, Full Code=KR7001930007, Company=효성물산(폐지)
+1 - Code=011930, Full Code=KRA011930161, Company=신성솔라에너지 30R(폐지)
+1 - Code=011931, Full Code=KR7011930013, Company=신성이엔1(폐지)
+1 - Code=085620, Full Code=KR7085620003, Company=미래에셋생명
+1 - Code=011940, Full Code=KR7011940004, Company=태영판지(폐지)
+1 - Code=011330, Full Code=KRA011330131, Company=유니켐 31R(폐지)
+1 - Code=090970, Full Code=KR7090970005, Company=코리아01호
+1 - Code=005621, Full Code=KR7005620018, Company=대성산업1(폐지)
+1 - Code=005620, Full Code=KR7005620000, Company=대성합동지주
+1 - Code=010221, Full Code=KR7010220010, Company=한솔종금1(폐지)
+1 - Code=005190, Full Code=KR7005190004, Company=동성화학
+1 - Code=010460, Full Code=KR7010460004, Company=화인자산관리(폐지)
+1 - Code=114410, Full Code=KR7114410004, Company=현대푸드(폐지)
+1 - Code=114140, Full Code=KR7114140007, Company=거북선6호(폐지)
+1 - Code=027390, Full Code=KR7027390004, Company=한화갤러리아타임월드
+1 - Code=081660, Full Code=KR7081660003, Company=휠라코리아
+1 - Code=018571, Full Code=KR7018570010, Company=선진금속1(폐지)
+1 - Code=018570, Full Code=KR7018570002, Company=선진금속(폐지)
+1 - Code=000161, Full Code=KR7000160010, Company=대한중석1(폐지)
+1 - Code=000160, Full Code=KR7000160002, Company=대한중석(폐지)
+1 - Code=042675, Full Code=KR7042671008, Company=대우종합기계우B(폐지)
+1 - Code=042670, Full Code=KR7042670000, Company=두산인프라코어
+1 - Code=010530, Full Code=KR7010530004, Company=라이프주택(폐지)
+1 - Code=114090, Full Code=KR7114090004, Company=GKL
+1 - Code=011800, Full Code=KR7011800000, Company=배명금속(폐지)
+1 - Code=181450, Full Code=KR7181450008, Company=KINDEX 선진국하이일드(합성 H)(폐지)
+1 - Code=010095, Full Code=KR7010091007, Company=해태유통우B(폐지)
+1 - Code=550031, Full Code=KRG551100313, Company=QV 항공우주 테마 ETN
+1 - Code=550030, Full Code=KRG551100305, Company=QV OLED 테마 ETN
+1 - Code=550033, Full Code=KRG551100339, Company=QV 스마트리밸런싱 260/4 ETN
+1 - Code=550032, Full Code=KRG551100321, Company=QV 방위산업 테마 ETN
+1 - Code=550035, Full Code=KRG551100354, Company=QV K200 P-SP 1804-01 ETN
+1 - Code=550034, Full Code=KRG551100347, Company=QV K200 C-SP 1804-01 ETN
+1 - Code=550037, Full Code=KRG551100370, Company=QV K200 Condor 1804-01 ETN
+1 - Code=550036, Full Code=KRG551100362, Company=QV K200 Butterfly 1804-01 ETN
+1 - Code=005440, Full Code=KR7005440003, Company=현대그린푸드
+1 - Code=004910, Full Code=KR7004910006, Company=조광페인트
+1 - Code=004660, Full Code=KR7004660007, Company=신동방CP(폐지)
+1 - Code=266370, Full Code=KR7266370006, Company=KODEX IT하드웨어
+1 - Code=141250, Full Code=KR7141250001, Company=ARIRANG KRX100EW(폐지)
+1 - Code=005010, Full Code=KR7005010004, Company=휴스틸
+1 - Code=J01181, Full Code=KRA011812120, Company=12)STX 1WR
+1 - Code=015580, Full Code=KR7015580004, Company=신한은행(폐지)
+1 - Code=004260, Full Code=KR7004260006, Company=대성자원(폐지)
+1 - Code=015585, Full Code=KR7015581002, Company=신한은행우C(폐지)
+1 - Code=000010, Full Code=KR7000010009, Company=조흥은행(폐지)
+1 - Code=092220, Full Code=KRA092220169, Company=KEC 9R(폐지)
+1 - Code=032830, Full Code=KR7032830002, Company=삼성생명
+1 - Code=017674, Full Code=KR7017670118, Company=한국이통전1(폐지)
+1 - Code=009320, Full Code=KRA009320110, Company=대우부품 31R(폐지)
+1 - Code=012910, Full Code=KR7012910006, Company=한라시멘트(폐지)
+1 - Code=004000, Full Code=KR7004000006, Company=롯데정밀화학
+1 - Code=004001, Full Code=KR7004000014, Company=삼성정밀1(폐지)
+1 - Code=006290, Full Code=KR7006290001, Company=인천정유(폐지)
+1 - Code=150460, Full Code=KR7150460004, Company=TIGER 중국소비테마
+1 - Code=011790, Full Code=KR7011790003, Company=SKC
+1 - Code=011791, Full Code=KR7011790011, Company=SKC1(폐지)
+1 - Code=139260, Full Code=KR7139260004, Company=TIGER 200 IT
+1 - Code=003665, Full Code=KR7003661006, Company=고려시멘우(폐지)
+1 - Code=090990, Full Code=KR7090990003, Company=코리아03호
+1 - Code=003660, Full Code=KR7003660008, Company=고려시멘트(폐지)
+1 - Code=077970, Full Code=KR7077970002, Company=STX엔진
+1 - Code=530027, Full Code=KRG531100276, Company=삼성 K200 Auto-C-SP 2003-01 ETN
+1 - Code=004465, Full Code=KR7004461000, Company=고합우(폐지)
+1 - Code=004460, Full Code=KR7004460002, Company=고합(폐지)
+1 - Code=008120, Full Code=KR7008120008, Company=모토조이(폐지)
+1 - Code=140700, Full Code=KR7140700006, Company=KODEX 보험
+1 - Code=008690, Full Code=KR7008690000, Company=한양(폐지)
+1 - Code=004710, Full Code=KRA004710141, Company=한솔테크닉스35R(폐지)
+1 - Code=004711, Full Code=KR7004710018, Company=한솔전자1(폐지)
+1 - Code=007160, Full Code=KR7007160005, Company=사조산업
+1 - Code=007161, Full Code=KR7007160013, Company=사조산업1(폐지)
+1 - Code=J11800, Full Code=KRA118002112, Company=11)우리들생명과학 2WR
+1 - Code=003110, Full Code=KR7003110004, Company=대일화학(폐지)
+1 - Code=000227, Full Code=KR7000222000, Company=유유제약2우B
+1 - Code=097740, Full Code=KR7097740005, Company=KOSEF 중형순수가치(폐지)
+1 - Code=023810, Full Code=KR7023810005, Company=인팩
+1 - Code=000225, Full Code=KR7000221002, Company=유유제약1우
+1 - Code=003590, Full Code=KR7003590007, Company=광덕물산(폐지)
+1 - Code=003595, Full Code=KR7003591005, Company=광덕물산우B(폐지)
+1 - Code=003470, Full Code=KR7003470002, Company=유안타증권
+1 - Code=204480, Full Code=KR7204480008, Company=TIGER 차이나A레버리지(합성)
+1 - Code=003060, Full Code=KR7003060001, Company=슈넬생명과학
+1 - Code=088350, Full Code=KR7088350004, Company=한화생명
+1 - Code=016681, Full Code=KR7016680019, Company=태흥피혁1(폐지)
+1 - Code=016680, Full Code=KR7016680001, Company=태흥피혁(폐지)
+1 - Code=122900, Full Code=KR7122900004, Company=아이마켓코리아
+1 - Code=139310, Full Code=KR7139310007, Company=TIGER 금속선물(H)
+1 - Code=005820, Full Code=KR7005820006, Company=원림
+1 - Code=002880, Full Code=KR7002880003, Company=대유에이텍
+1 - Code=002220, Full Code=KR7002220002, Company=한일철강
+1 - Code=008900, Full Code=KR7008900003, Company=티이씨앤코(폐지)
+1 - Code=096760, Full Code=KR7096760004, Company=JW홀딩스
+1 - Code=012261, Full Code=KR7012260014, Company=한일써키트1(폐지)
+1 - Code=012260, Full Code=KR7012260006, Company=이지닷컴(폐지)
+1 - Code=012265, Full Code=KR7012261004, Company=이지닷컴우(폐지)
+1 - Code=064420, Full Code=KR7064420003, Company=케이피케미칼(폐지)
+1 - Code=J00299, Full Code=KRA002991K55, Company=K5)금호산업1WR(폐지)
+1 - Code=068870, Full Code=KR7068870005, Company=LG생명과학(폐지)
+1 - Code=068875, Full Code=KR7068871003, Company=LG생명과학우(폐지)
+1 - Code=003280, Full Code=KRA003280161, Company=흥아해운 13R(폐지)
+1 - Code=025560, Full Code=KRA025560145, Company=미래산업22R(폐지)
+1 - Code=014300, Full Code=KR7014300008, Company=선진지주(폐지)
+1 - Code=025562, Full Code=KR7025560020, Company=미래산업2(폐지)
+1 - Code=025563, Full Code=KR7025560038, Company=미래산업3신(폐지)
+1 - Code=종, Full Code=1, Company=
+1 - Code=002080, Full Code=KR7002080000, Company=벽산개발(폐지)
+1 - Code=211210, Full Code=KR7211210000, Company=마이티 코스피고배당
+1 - Code=021600, Full Code=KR7021600002, Company=대동은행(폐지)
+1 - Code=016560, Full Code=KR7016560005, Company=서울저축은행(폐지)
+1 - Code=003840, Full Code=KR7003840006, Company=중    원(폐지)
+1 - Code=036530, Full Code=KR7036530004, Company=S&T;홀딩스
+1 - Code=002530, Full Code=KR7002530004, Company=벽산건설(폐지)
+1 - Code=002535, Full Code=KR7002531002, Company=벽산건설우(폐지)
+1 - Code=016160, Full Code=KR7016160004, Company=오라바이오틱스(폐지)
+1 - Code=016161, Full Code=KR7016160012, Company=대륭정밀1(폐지)
+1 - Code=016167, Full Code=KR7016162000, Company=오라바이오틱스2우B(폐지)
+1 - Code=006980, Full Code=KR7006980007, Company=우성사료
+1 - Code=143860, Full Code=KR7143860005, Company=TIGER 헬스케어
+1 - Code=007340, Full Code=KR7007340003, Company=동아타이어
+1 - Code=099340, Full Code=KR7099340002, Company=하나니켈1호
+1 - Code=006161, Full Code=KR7006160014, Company=신화건설1(폐지)
+1 - Code=012510, Full Code=KR7012510004, Company=더존비즈온
+1 - Code=004390, Full Code=KR7004390001, Company=오리온전기(폐지)
+1 - Code=006165, Full Code=KR7006161004, Company=신화건설우(폐지)
+1 - Code=006341, Full Code=KR7006340012, Company=대원전선1(폐지)
+1 - Code=006340, Full Code=KR7006340004, Company=대원전선
+1 - Code=006347, Full Code=KR7006342000, Company=대원전선2우B(폐지)
+1 - Code=006345, Full Code=KR7006341002, Company=대원전선우
+1 - Code=006344, Full Code=KR7006340111, Company=대원전선전1(폐지)
+1 - Code=001190, Full Code=KR7001190008, Company=마이크로닉스(폐지)
+1 - Code=033780, Full Code=KR7033780008, Company=KT&G;
+1 - Code=138910, Full Code=KR7138910005, Company=KODEX 구리선물(H)
+1 - Code=120030, Full Code=KR7120030002, Company=조선선재
+1 - Code=002150, Full Code=KR7002150001, Company=도화엔지니어링
+1 - Code=025890, Full Code=KR7025890005, Company=한국주강
+1 - Code=034730, Full Code=KR7034730002, Company=SK
+1 - Code=103130, Full Code=KRA103130167, Company=웅진에너지 10R(폐지)
+1 - Code=001750, Full Code=KR7001750009, Company=한양증권
+1 - Code=950070, Full Code=KR8702040005, Company=중국고섬(폐지)
+1 - Code=003930, Full Code=KR7003930005, Company=부흥(폐지)
+1 - Code=019930, Full Code=KR7019930007, Company=기라정보통신(폐지)
+1 - Code=044450, Full Code=KR7044450005, Company=KSS해운
+1 - Code=001280, Full Code=KR7001280007, Company=우리증권(폐지)
+1 - Code=000805, Full Code=KR7000801001, Company=경남기업우B(폐지)
+1 - Code=000370, Full Code=KR7000370007, Company=한화손해보험
+1 - Code=195870, Full Code=KR7195870001, Company=해성디에스
+1 - Code=000800, Full Code=KR7000800003, Company=경남기업(폐지)
+1 - Code=000801, Full Code=KR7000800011, Company=경남기업1(폐지)
+1 - Code=234790, Full Code=KR7234790004, Company=KINDEX 코스닥150 레버리지
+1 - Code=001570, Full Code=KR7001570001, Company=금양
+1 - Code=084690, Full Code=KR7084690007, Company=대상홀딩스
+1 - Code=084697, Full Code=KR7084692003, Company=대상홀딩스2우B(폐지)
+1 - Code=017960, Full Code=KR7017960006, Company=한국카본
+1 - Code=084695, Full Code=KR7084691005, Company=대상홀딩스우
+1 - Code=002710, Full Code=KR7002710002, Company=TCC동양
+1 - Code=078000, Full Code=KR7078000007, Company=텔코웨어
+1 - Code=034200, Full Code=KR7034200006, Company=박현주3호(폐지)
+1 - Code=000970, Full Code=KR7000970004, Company=한국주철관
+1 - Code=033270, Full Code=KR7033270000, Company=유나이티드제약
+1 - Code=010780, Full Code=KR7010780005, Company=아이에스동서
+1 - Code=010781, Full Code=KR7010780013, Company=동서산업1(폐지)
+1 - Code=080970, Full Code=KR7080970007, Company=동북아4호(폐지)
+1 - Code=228820, Full Code=KR7228820007, Company=TIGER KTOP30
+1 - Code=010030, Full Code=KR7010030005, Company=흥양(폐지)
+1 - Code=014991, Full Code=KR7014990014, Company=나 산 1(폐지)
+1 - Code=014990, Full Code=KR7014990006, Company=인디에프
+1 - Code=001371, Full Code=KR7001370014, Company=코오롱상사1(폐지)
+1 - Code=001370, Full Code=KR7001370006, Company=FnC코오롱(폐지)
+1 - Code=001375, Full Code=KR7001371004, Company=FnC코오롱우(폐지)
+1 - Code=001171, Full Code=KR7001170018, Company=장은증권1(폐지)
+1 - Code=001170, Full Code=KR7001170000, Company=장은증권(폐지)
+1 - Code=000480, Full Code=KR7000480004, Company=조선내화
+1 - Code=000481, Full Code=KR7000480012, Company=조선내화1(폐지)
+1 - Code=234310, Full Code=KR7234310001, Company=KBSTAR V&S;셀렉트밸류
+1 - Code=026940, Full Code=KR7026940007, Company=부국철강
+1 - Code=005610, Full Code=KR7005610001, Company=SPC삼립
+1 - Code=000155, Full Code=KR7000151001, Company=두산우
+1 - Code=000157, Full Code=KR7000152009, Company=두산2우B
+1 - Code=000150, Full Code=KR7000150003, Company=두산
+1 - Code=217770, Full Code=KR7217770007, Company=TIGER 원유인버스선물(H)
+1 - Code=227840, Full Code=KR7227840006, Company=현대씨앤에프
+1 - Code=086790, Full Code=KR7086790003, Company=하나금융지주
+1 - Code=011815, Full Code=KR7011811007, Company=STX우(폐지)
+1 - Code=031430, Full Code=KR7031430002, Company=신세계인터내셔날
+1 - Code=000390, Full Code=KR7000390005, Company=삼화페인트
+1 - Code=011810, Full Code=KR7011810009, Company=STX
+1 - Code=084680, Full Code=KR7084680008, Company=이월드
+1 - Code=093400, Full Code=KR7093400000, Company=코리아05호(폐지)
+1 - Code=009240, Full Code=KR7009240003, Company=한샘
+1 - Code=266140, Full Code=KR7266140003, Company=TIGER 지속배당
+1 - Code=003010, Full Code=KR7003010006, Company=혜인
+1 - Code=145720, Full Code=KR7145720009, Company=덴티움
+1 - Code=084670, Full Code=KR7084670009, Company=동양고속
+1 - Code=035150, Full Code=KR7035150002, Company=백산
+1 - Code=064350, Full Code=KR7064350002, Company=현대로템
+1 - Code=083580, Full Code=KR7083580001, Company=아시아11호
+1 - Code=005500, Full Code=KR7005500004, Company=삼진제약
+1 - Code=014440, Full Code=KR7014440002, Company=영보화학
+1 - Code=550008, Full Code=KRG551100081, Company=QV 소프트웨어 TOP5 ETN
+1 - Code=550009, Full Code=KRG551100099, Company=QV 하드웨어 TOP5 ETN
+1 - Code=005270, Full Code=KR7005270004, Company=대구은행(폐지)
+1 - Code=550004, Full Code=KRG551100040, Company=QV 롱숏 K150 매수 로우볼 매도 ETN
+1 - Code=550005, Full Code=KRG551100057, Company=QV 에너지 TOP5 ETN
+1 - Code=550006, Full Code=KRG551100065, Company=QV 내수소비 TOP5 ETN
+1 - Code=550007, Full Code=KRG551100073, Company=QV 조선 TOP5 ETN
+1 - Code=550001, Full Code=KRG551100016, Company=QV Big Vol ETN
+1 - Code=550002, Full Code=KRG551100024, Company=QV WISE 배당 ETN
+1 - Code=550003, Full Code=KRG551100032, Company=QV 스마트리밸런싱 250/3 ETN
+1 - Code=014681, Full Code=KR7014680011, Company=한솔화학1(폐지)
+1 - Code=014680, Full Code=KR7014680003, Company=한솔케미칼
+1 - Code=227930, Full Code=KR7227930005, Company=KINDEX 코스닥 150
+1 - Code=266360, Full Code=KR7266360007, Company=KODEX IT소프트웨어
+1 - Code=J01193, Full Code=KRA0119301N5, Company=1N)신성이엔지14R(폐지)
+1 - Code=000020, Full Code=KR7000020008, Company=동화약품
+1 - Code=004270, Full Code=KR7004270005, Company=남성
+1 - Code=009335, Full Code=KR7009331000, Company=삼애인더스우B(폐지)
+1 - Code=009330, Full Code=KR7009330002, Company=삼애인더스(폐지)
+1 - Code=008750, Full Code=KR7008750002, Company=범양식품(폐지)
+1 - Code=100840, Full Code=KR7100840008, Company=S&TC;
+1 - Code=101790, Full Code=KR7101790004, Company=케이알제2호(폐지)
+1 - Code=015620, Full Code=KR7015620008, Company=현대울산종금(폐지)
+1 - Code=089470, Full Code=KR7089470009, Company=현대EP
+1 - Code=219390, Full Code=KR7219390002, Company=KBSTAR 미국원유생산기업(합성 H)
+1 - Code=004871, Full Code=KR7004870010, Company=거 평 1(폐지)
+1 - Code=011780, Full Code=KR7011780004, Company=금호석유
+1 - Code=004011, Full Code=KR7004010013, Company=미도파1(폐지)
+1 - Code=004010, Full Code=KR7004010005, Company=롯데미도파(폐지)
+1 - Code=005870, Full Code=KR7005870001, Company=휴니드
+1 - Code=005871, Full Code=KR7005870019, Company=대영전자1(폐지)
+1 - Code=236460, Full Code=KR7236460002, Company=ARIRANG 스마트베타 LowVOL
+1 - Code=011070, Full Code=KR7011070000, Company=LG이노텍
+1 - Code=012670, Full Code=KR7012670006, Company=환영철강(폐지)
+1 - Code=014530, Full Code=KR7014530000, Company=극동유화
+1 - Code=003610, Full Code=KR7003610003, Company=방림
+1 - Code=005410, Full Code=KR7005410006, Company=신광산업(폐지)
+1 - Code=053690, Full Code=KR7053690004, Company=한미글로벌
+1 - Code=139250, Full Code=KR7139250005, Company=TIGER 200 에너지화학
+1 - Code=083120, Full Code=KR7083120006, Company=동북아9호(폐지)
+1 - Code=004415, Full Code=KR7004411005, Company=서울식품우
+1 - Code=253250, Full Code=KR7253250005, Company=KOSEF 200선물레버리지
+1 - Code=008110, Full Code=KR7008110009, Company=대동전자
+1 - Code=089180, Full Code=KR7089180004, Company=동북아28호(폐지)
+1 - Code=140710, Full Code=KR7140710005, Company=KODEX 운송
+1 - Code=004701, Full Code=KR7004700019, Company=조광피혁1(폐지)
+1 - Code=105780, Full Code=KR7105780001, Company=KBSTAR 5대그룹주
+1 - Code=003120, Full Code=KR7003120003, Company=일성신약
+1 - Code=J00027, Full Code=KRA0002721W5, Company=1W)기아자동차 1 WR
+1 - Code=004490, Full Code=KR7004490009, Company=세방전지
+1 - Code=023800, Full Code=KR7023800006, Company=인지컨트롤스
+1 - Code=012410, Full Code=KR7012410007, Company=글로스텍(폐지)
+1 - Code=138230, Full Code=KR7138230008, Company=KOSEF 달러선물
+1 - Code=011470, Full Code=KR7011470002, Company=기    산(폐지)
+1 - Code=025620, Full Code=KR7025620006, Company=제이준
+1 - Code=900140, Full Code=KYG5307W1015, Company=코라오홀딩스
+1 - Code=032640, Full Code=KR7032640005, Company=LG유플러스
+1 - Code=139320, Full Code=KR7139320006, Company=TIGER 금은선물(H)
+1 - Code=007000, Full Code=KR7007000003, Company=한주전자(폐지)
+1 - Code=003050, Full Code=KR7003050002, Company=넥상스코리아(폐지)
+1 - Code=003720, Full Code=KR7003720000, Company=삼영화학
+1 - Code=003547, Full Code=KR7003542008, Company=대신증권2우B
+1 - Code=003545, Full Code=KR7003541000, Company=대신증권우
+1 - Code=003540, Full Code=KR7003540002, Company=대신증권
+1 - Code=006750, Full Code=KR7006750004, Company=센추리(폐지)
+1 - Code=134000, Full Code=KR7134000009, Company=거북선7호(폐지)
+1 - Code=009651, Full Code=KR7009650011, Company=현대차써1(폐지)
+1 - Code=012250, Full Code=KR7012250007, Company=셰프라인(폐지)
+1 - Code=J00620, Full Code=KRA006202121, Company=12)한국전자홀딩스 2WR(폐지)
+1 - Code=008970, Full Code=KR7008970006, Company=동양철관
+1 - Code=008971, Full Code=KR7008970014, Company=동양철관1(폐지)
+1 - Code=084870, Full Code=KR7084870005, Company=TBH글로벌
+1 - Code=096770, Full Code=KR7096770003, Company=SK이노베이션
+1 - Code=096775, Full Code=KR7096771001, Company=SK이노베이션우
+1 - Code=012091, Full Code=KR7012090015, Company=성원건설1(폐지)
+1 - Code=102780, Full Code=KR7102780004, Company=KODEX 삼성그룹
+1 - Code=010120, Full Code=KR7010120004, Company=LS산전
+1 - Code=007170, Full Code=KR7007170004, Company=기아차판매(폐지)
+1 - Code=007911, Full Code=KR7007910011, Company=세원화성1(폐지)
+1 - Code=007910, Full Code=KR7007910003, Company=세원화성(폐지)
+1 - Code=214330, Full Code=KR7214330003, Company=금호에이치티
+1 - Code=004090, Full Code=KR7004090007, Company=한국석유
+1 - Code=007595, Full Code=KR7007591001, Company=동방아그우(폐지)
+1 - Code=001615, Full Code=KR7001611003, Company=두산종식1우(폐지)
+1 - Code=001610, Full Code=KR7001610005, Company=두산종합식품(폐지)
+1 - Code=251890, Full Code=KR7251890000, Company=KINDEX 코스닥(합성)
+1 - Code=064960, Full Code=KR7064960008, Company=S&T;모티브
+1 - Code=088010, Full Code=KR7088010004, Company=동북아21호(폐지)
+1 - Code=J00241, Full Code=KRA002412104, Company=10)범양건영 2WR
+1 - Code=012320, Full Code=KR7012320008, Company=경동가스
+1 - Code=069640, Full Code=KR7069640001, Company=엠케이트렌드
+1 - Code=000887, Full Code=KR7000882001, Company=한화2우B(폐지)
+1 - Code=014980, Full Code=KR7014980007, Company=항도종금(폐지)
+1 - Code=000885, Full Code=KR7000881003, Company=한화우
+1 - Code=006400, Full Code=KR7006400006, Company=삼성SDI
+1 - Code=006401, Full Code=KR7006400014, Company=삼성전관1(폐지)
+1 - Code=139240, Full Code=KR7139240006, Company=TIGER 200 철강소재
+1 - Code=006405, Full Code=KR7006401004, Company=삼성SDI우
+1 - Code=168580, Full Code=KR7168580009, Company=KINDEX 중국본토CSI300
+1 - Code=014981, Full Code=KR7014980015, Company=항도종금1(폐지)
+1 - Code=002410, Full Code=KRA002410157, Company=범양건영 30R(폐지)
+1 - Code=002140, Full Code=KR7002140002, Company=고려산업
+1 - Code=123310, Full Code=KR7123310005, Company=TIGER 인버스
+1 - Code=122260, Full Code=KR7122260003, Company=KOSEF 통안채
+1 - Code=003940, Full Code=KR7003940004, Company=삼양제넥스(폐지)
+1 - Code=003941, Full Code=KR7003940012, Company=삼양제넥1신(폐지)
+1 - Code=003946, Full Code=KR7003941010, Company=삼양제넥우1(폐지)
+1 - Code=003945, Full Code=KR7003941002, Company=삼양제넥우(폐지)
+1 - Code=004565, Full Code=KR7004561007, Company=현대비앤지스틸우
+1 - Code=237350, Full Code=KR7237350004, Company=KODEX 200 대형
+1 - Code=229720, Full Code=KR7229720008, Company=KODEX KTOP30
+1 - Code=000360, Full Code=KR7000360008, Company=삼환기업(폐지)
+1 - Code=000810, Full Code=KR7000810002, Company=삼성화재
+1 - Code=000365, Full Code=KR7000361006, Company=삼환기업우(폐지)
+1 - Code=030790, Full Code=KR7030790000, Company=동양네트웍스
+1 - Code=024110, Full Code=KR7024110009, Company=기업은행
+1 - Code=101530, Full Code=KR7101530004, Company=해태제과식품
+1 - Code=159650, Full Code=KR7159650001, Company=하이골드8호
+1 - Code=002700, Full Code=KRA002700144, Company=신일산업26R(폐지)
+1 - Code=111110, Full Code=KR7111110003, Company=호전실업
+1 - Code=083620, Full Code=KR7083620005, Company=아시아15호
+1 - Code=017555, Full Code=KR7017551003, Company=수산중공우(폐지)
+1 - Code=017550, Full Code=KR7017550005, Company=수산중공업
+1 - Code=017551, Full Code=KR7017550013, Company=수산중공업1(폐지)
+1 - Code=145990, Full Code=KR7145990008, Company=삼양사
+1 - Code=012830, Full Code=KR7012830006, Company=현대리바트(폐지)
+1 - Code=136340, Full Code=KR7136340007, Company=KBSTAR 우량회사채
+1 - Code=017042, Full Code=KR7017040023, Company=광명전기2(폐지)
+1 - Code=145995, Full Code=KR7145991006, Company=삼양사우
+1 - Code=017040, Full Code=KR7017040007, Company=광명전기
+1 - Code=017041, Full Code=KR7017040015, Company=광명전기1(폐지)
+1 - Code=080960, Full Code=KR7080960008, Company=동북아3호(폐지)
+1 - Code=195920, Full Code=KR7195920004, Company=TIGER 일본(합성 H)
+1 - Code=000700, Full Code=KR7000700005, Company=유수홀딩스
+1 - Code=001385, Full Code=KR7001381003, Company=SG충남방적우(폐지)
+1 - Code=256450, Full Code=KR7256450008, Company=ARIRANG 심천차이넥스트(합성)
+1 - Code=001380, Full Code=KR7001380005, Company=SG충방
+1 - Code=004735, Full Code=KR7004731006, Company=진로식품우(폐지)
+1 - Code=001140, Full Code=KR7001140003, Company=국보
+1 - Code=034300, Full Code=KR7034300004, Company=신세계건설
+1 - Code=000490, Full Code=KR7000490003, Company=대동공업
+1 - Code=010330, Full Code=KR7010330009, Company=라미화장품(폐지)
+1 - Code=075180, Full Code=KR7075180000, Company=새론오토모티브
+1 - Code=01193), Full Code=KRA0119301N5, Company=성이엔지14R(폐지)
+1 - Code=117700, Full Code=KR7117700005, Company=KODEX 건설
+1 - Code=097950, Full Code=KR7097950000, Company=CJ제일제당
+1 - Code=166400, Full Code=KR7166400002, Company=TIGER 커버드C200
+1 - Code=000140, Full Code=KR7000140004, Company=하이트진로홀딩스
+1 - Code=000147, Full Code=KR7000142000, Company=하이트맥주2우B(폐지)
+1 - Code=097955, Full Code=KR7097951008, Company=CJ제일제당 우
+1 - Code=000145, Full Code=KR7000141002, Company=하이트진로홀딩스우
+1 - Code=097957, Full Code=KR7097952006, Company=CJ제일제당 2우B(폐지)
+1 - Code=097959, Full Code=KR7097953004, Company=CJ제일제당 3우B(폐지)
+1 - Code=000149, Full Code=KR7000143008, Company=하이트맥주3우B(폐지)
+1 - Code=093410, Full Code=KR7093410009, Company=코리아06호(폐지)
+1 - Code=005280, Full Code=KR7005280003, Company=부산은행(폐지)
+1 - Code=007110, Full Code=KR7007110000, Company=일신석재
+1 - Code=207940, Full Code=KR7207940008, Company=삼성바이오로직스
+1 - Code=170350, Full Code=KR7170350003, Company=TIGER 베타플러스
+1 - Code=083590, Full Code=KR7083590000, Company=아시아12호
+1 - Code=014830, Full Code=KR7014830004, Company=유니드
+1 - Code=005510, Full Code=KR7005510003, Company=충청은행(폐지)
+1 - Code=005040, Full Code=KR7005040001, Company=두산기계(폐지)
+1 - Code=009290, Full Code=KR7009290008, Company=광동제약
+1 - Code=550019, Full Code=KRG551100198, Company=QV 전기차 테마 ETN
+1 - Code=550018, Full Code=KRG556100185, Company=QV CHINEXT ETN(H)
+1 - Code=266420, Full Code=KR7266420009, Company=KODEX 헬스케어
+1 - Code=550013, Full Code=KRG551100131, Company=QV 화학 TOP5 ETN
+1 - Code=550012, Full Code=KRG551100123, Company=QV 의료 TOP5 ETN
+1 - Code=550011, Full Code=KRG551100115, Company=QV 자동차 TOP5 ETN
+1 - Code=550010, Full Code=KRG551100107, Company=QV 운송 TOP5 ETN
+1 - Code=550016, Full Code=KRG551100164, Company=QV 건설 TOP5 ETN
+1 - Code=550015, Full Code=KRG551100156, Company=QV 제약 TOP5 ETN
+1 - Code=550014, Full Code=KRG551100149, Company=QV 바이오 TOP5 ETN
+1 - Code=016570, Full Code=KR7016570004, Company=태평양제약(폐지)
+1 - Code=092200, Full Code=KR7092200005, Company=디아이씨
+1 - Code=011260, Full Code=KR7011260007, Company=한국종금(폐지)
+1 - Code=189400, Full Code=KR7189400005, Company=ARIRANG AC 월드(합성 H)
+1 - Code=098150, Full Code=KR7098150006, Company=한국아태특별(폐지)
+1 - Code=042100, Full Code=KR7042100008, Company=현대오토넷(폐지)
+1 - Code=000030, Full Code=KR7000030007, Company=우리은행
+1 - Code=005605, Full Code=KR7005601000, Company=중앙제지우B(폐지)
+1 - Code=009180, Full Code=KR7009180001, Company=한솔로지스틱스
+1 - Code=160580, Full Code=KR7160580007, Company=TIGER 구리실물
+1 - Code=005600, Full Code=KR7005600002, Company=중앙제지(폐지)
+1 - Code=015545, Full Code=KR7015541006, Company=웰스브릿지우(폐지)
+1 - Code=004800, Full Code=KR7004800009, Company=효성
+1 - Code=182480, Full Code=KR7182480004, Company=TIGER US리츠(합성 H)
+1 - Code=018020, Full Code=KR7018020008, Company=스타리스(폐지)
+1 - Code=200250, Full Code=KR7200250009, Company=KOSEF 인디아(합성)
+1 - Code=010222, Full Code=KR7010220028, Company=한솔종금2(폐지)
+1 - Code=010220, Full Code=KR7010220002, Company=한솔종금(폐지)
+1 - Code=003600, Full Code=KR7003600004, Company=SK(폐지)
+1 - Code=008105, Full Code=KR7008101008, Company=거성산업우(폐지)
+1 - Code=003605, Full Code=KR7003601002, Company=SK우(폐지)
+1 - Code=008100, Full Code=KR7008100000, Company=거성산업(폐지)
+1 - Code=093240, Full Code=KR7093240000, Company=형지엘리트
+1 - Code=076170, Full Code=KR7076170000, Company=GBS(폐지)
+1 - Code=009760, Full Code=KR7009760000, Company=한국컴퓨터지주(폐지)
+1 - Code=011760, Full Code=KR7011760006, Company=현대상사
+1 - Code=015941, Full Code=KR7015940018, Company=데이콤1(폐지)
+1 - Code=015940, Full Code=KR7015940000, Company=LG데이콤(폐지)
+1 - Code=089190, Full Code=KR7089190003, Company=동북아29호(폐지)
+1 - Code=227540, Full Code=KR7227540002, Company=TIGER 200 헬스케어
+1 - Code=230480, Full Code=KR7230480006, Company=KOSEF 미국달러선물 인버스2X(합성)
+1 - Code=004730, Full Code=KR7004730008, Company=진로식품(폐지)
+1 - Code=247800, Full Code=KR7247800006, Company=KODEX 턴어라운드투자
+1 - Code=152330, Full Code=KR7152330007, Company=코리아오토글라스
+1 - Code=022520, Full Code=KR7022520001, Company=코오롱아이넷(폐지)
+1 - Code=089170, Full Code=KR7089170005, Company=동북아27호(폐지)
+1 - Code=012400, Full Code=KR7012400008, Company=허메스홀딩스(폐지)
+1 - Code=012405, Full Code=KR7012401006, Company=허메스홀딩스우(폐지)
+1 - Code=016350, Full Code=KR7016350001, Company=신한종금(폐지)
+1 - Code=004025, Full Code=KR7004021002, Company=현대제철 1우B(폐지)
+1 - Code=J00102, Full Code=KRA001022128, Company=12)페이퍼코리아1WR(폐지)
+1 - Code=004020, Full Code=KR7004020004, Company=현대제철
+1 - Code=008560, Full Code=KRA008560153, Company=메리츠종금증권55R(폐지)
+1 - Code=J00106, Full Code=KRA0010621W7, Company=1W)JW중외제약 1WR(폐지)
+1 - Code=003040, Full Code=KR7003040003, Company=한일약품(폐지)
+1 - Code=004021, Full Code=KR7004020012, Company=인천제철1(폐지)
+1 - Code=003555, Full Code=KR7003551009, Company=LG우
+1 - Code=003550, Full Code=KR7003550001, Company=LG
+1 - Code=000241, Full Code=KR7000240010, Company=한국타이1(폐지)
+1 - Code=035000, Full Code=KR7035000009, Company=지투알
+1 - Code=007610, Full Code=KR7007610009, Company=선도전기
+1 - Code=007611, Full Code=KR7007610017, Company=선도전기1(폐지)
+1 - Code=232080, Full Code=KR7232080002, Company=TIGER 코스닥150
+1 - Code=203780, Full Code=KR7203780002, Company=TIGER 나스닥바이오
+1 - Code=002027, Full Code=KR7002022002, Company=코오롱2우B(폐지)
+1 - Code=007100, Full Code=KR7007100001, Company=호남식품(폐지)
+1 - Code=192530, Full Code=KR7192530004, Company=광주은행
+1 - Code=002957, Full Code=KR7002952000, Company=두산건설2우B(폐지)
+1 - Code=002955, Full Code=KR7002951002, Company=두산건설우(폐지)
+1 - Code=002950, Full Code=KR7002950004, Company=두산건설(폐지)
+1 - Code=002951, Full Code=KR7002950012, Company=두산건설1(폐지)
+1 - Code=002550, Full Code=KR7002550002, Company=KB손해보험
+1 - Code=078935, Full Code=KR7078931003, Company=GS우
+1 - Code=016090, Full Code=KR7016090003, Company=대현
+1 - Code=001600, Full Code=KR7001600006, Company=서광건설(폐지)
+1 - Code=078930, Full Code=KR7078930005, Company=GS
+1 - Code=102000, Full Code=KR7102000007, Company=거북선3호(폐지)
+1 - Code=084240, Full Code=KR7084240001, Company=동북아15호(폐지)
+1 - Code=008810, Full Code=KR7008810004, Company=LG종금(폐지)
+1 - Code=058430, Full Code=KR7058430000, Company=포스코강판
+1 - Code=094520, Full Code=KR7094520004, Company=맵스베트남1(폐지)
+1 - Code=226380, Full Code=KR7226380004, Company=KINDEX 한류
+1 - Code=081190, Full Code=KR7081190001, Company=아시아2호(폐지)
+1 - Code=024960, Full Code=KR7024960007, Company=영남종금(폐지)
+1 - Code=012337, Full Code=KR7012332003, Company=현대모비스2우B(폐지)
+1 - Code=01683C, Full Code=KR7016836009, Company=한미은행6우B(폐지)
+1 - Code=012335, Full Code=KR7012331005, Company=현대모비스우(폐지)
+1 - Code=012330, Full Code=KR7012330007, Company=현대모비스
+1 - Code=072450, Full Code=KR7072450000, Company=리얼티1(폐지)
+1 - Code=006740, Full Code=KR7006740005, Company=영풍제지
+1 - Code=115390, Full Code=KRA115390114, Company=락앤락 3R(폐지)
+1 - Code=021240, Full Code=KR7021240007, Company=코웨이
+1 - Code=001770, Full Code=KR7001770007, Company=신화실업
+1 - Code=002170, Full Code=KR7002170009, Company=삼양통상
+1 - Code=085450, Full Code=KR7085450005, Company=굿리치경매1(폐지)
+1 - Code=092440, Full Code=KR7092440007, Company=기신정기
+1 - Code=017301, Full Code=KR7017300013, Company=코데이터1(폐지)
+1 - Code=017300, Full Code=KR7017300005, Company=에이치비이에너지(폐지)
+1 - Code=017302, Full Code=KR7017300021, Company=코데이터2(폐지)
+1 - Code=122090, Full Code=KR7122090004, Company=ARIRANG KOSPI50
+1 - Code=083600, Full Code=KR7083600007, Company=아시아13호
+1 - Code=047400, Full Code=KR7047400007, Company=쌍용머티리얼
+1 - Code=016430, Full Code=KR7016430001, Company=동신제지(폐지)
+1 - Code=500023, Full Code=KRG502400234, Company=신한 콩 선물 ETN(H)
+1 - Code=001550, Full Code=KR7001550003, Company=조비
+1 - Code=192820, Full Code=KRA192820165, Company=코스맥스 2R(폐지)
+1 - Code=016435, Full Code=KR7016431009, Company=동신제지1우(폐지)
+1 - Code=017941, Full Code=KR7017940016, Company=LG가스1(폐지)
+1 - Code=017940, Full Code=KR7017940008, Company=E1
+1 - Code=017121, Full Code=KR7017120015, Company=바로크1(폐지)
+1 - Code=017120, Full Code=KR7017120007, Company=바로크(폐지)
+1 - Code=500021, Full Code=KRG502400218, Company=신한 천연가스 선물 ETN(H)
+1 - Code=007191, Full Code=KR7007190010, Company=신호제지1신(폐지)
+1 - Code=500020, Full Code=KRG502100206, Company=신한 레버리지 다우존스지수 선물 ETN(H)
+1 - Code=007190, Full Code=KR7007190002, Company=한솔아트원제지(폐지)
+1 - Code=024101, Full Code=KR7024100018, Company=제일금고1(폐지)
+1 - Code=006250, Full Code=KR7006250005, Company=극동전선(폐지)
+1 - Code=144620, Full Code=KR7144620002, Company=코오롱머티리얼
+1 - Code=007195, Full Code=KR7007191000, Company=한솔아트원제지우(폐지)
+1 - Code=500024, Full Code=KRG502400242, Company=신한 인버스 콩 선물 ETN(H)
+1 - Code=007197, Full Code=KR7007192008, Company=한솔아트원제지2우B(폐지)
+1 - Code=252650, Full Code=KR7252650007, Company=KODEX 200동일가중
+1 - Code=229640, Full Code=KR7229640008, Company=LS전선아시아
+1 - Code=000950, Full Code=KR7000950006, Company=전방
+1 - Code=000730, Full Code=KR7000730002, Company=서울교통공사(폐지)
+1 - Code=195930, Full Code=KR7195930003, Company=TIGER 유로스탁스50(합성 H)
+1 - Code=123690, Full Code=KR7123690000, Company=한국화장품
+1 - Code=014590, Full Code=KR7014590004, Company=티엘씨레저(폐지)
+1 - Code=256440, Full Code=KR7256440009, Company=KINDEX 인도네시아MSCI(합성)
+1 - Code=001390, Full Code=KR7001390004, Company=KG케미칼
+1 - Code=145850, Full Code=KR7145850004, Company=TREX 펀더멘탈 200
+1 - Code=002600, Full Code=KR7002600005, Company=조흥
+1 - Code=001155, Full Code=KR7001151000, Company=서통우(폐지)
+1 - Code=001150, Full Code=KR7001150002, Company=서통(폐지)
+1 - Code=590001, Full Code=KRG592100017, Company=미래에셋 미국 바이백 ETN(H)
+1 - Code=590002, Full Code=KRG595100022, Company=미래에셋 일본 바이백 ETN(H)
+1 - Code=590003, Full Code=KRG594100031, Company=미래에셋 유럽 대형주 ETN(H)
+1 - Code=590004, Full Code=KRG594100049, Company=미래에셋 유럽 중형주 ETN(H)
+1 - Code=590005, Full Code=KRG595100055, Company=미래에셋 일본 대형주 ETN(H)
+1 - Code=590006, Full Code=KRG595100063, Company=미래에셋 일본 중형주 ETN(H)
+1 - Code=590007, Full Code=KRG592100074, Company=미래에셋 미국 대형주 ETN(H)
+1 - Code=590008, Full Code=KRG592100082, Company=미래에셋 미국 중형주 ETN(H)
+1 - Code=145670, Full Code=KR7145670006, Company=KINDEX 인버스
+1 - Code=011301, Full Code=KR7011300019, Company=성 안 1(폐지)
+1 - Code=011300, Full Code=KR7011300001, Company=성안
+1 - Code=105840, Full Code=KR7105840003, Company=우진
+1 - Code=02826K, Full Code=KR702826K016, Company=삼성물산우B
+1 - Code=J09222, Full Code=KRA092222124, Company=12)KEC 3WR(폐지)
+1 - Code=225030, Full Code=KR7225030006, Company=TIGER S&P500;인버스선물(H)
+1 - Code=014045, Full Code=KR7014041008, Company=GPS우B(폐지)
+1 - Code=014040, Full Code=KR7014040000, Company=GPS(폐지)
+1 - Code=005070, Full Code=KR7005070008, Company=코스모신소재
+1 - Code=014820, Full Code=KR7014820005, Company=동원시스템즈
+1 - Code=055550, Full Code=KRA0555501W2, Company=신한지주 51R(폐지)
+1 - Code=014825, Full Code=KR7014821003, Company=동원시스템즈우
+1 - Code=014827, Full Code=KR7014822001, Company=동원시스템즈2우B(폐지)
+1 - Code=005250, Full Code=KR7005250006, Company=녹십자홀딩스
+1 - Code=005255, Full Code=KR7005251004, Company=녹십자홀딩스1우
+1 - Code=005257, Full Code=KR7005252002, Company=녹십자홀딩스2우
+1 - Code=004380, Full Code=KR7004380002, Company=삼익THK
+1 - Code=070960, Full Code=KR7070960000, Company=용평리조트
+1 - Code=009281, Full Code=KR7009280017, Company=새한정기1(폐지)
+1 - Code=009280, Full Code=KR7009280009, Company=다함이텍(폐지)
+1 - Code=000282, Full Code=KR7000280024, Company=동아건설2(폐지)
+1 - Code=086720, Full Code=KR7086720000, Company=코크렙7호(폐지)
+1 - Code=028260, Full Code=KR7028260008, Company=삼성물산
+1 - Code=023000, Full Code=KR7023000003, Company=삼원강재
+1 - Code=005380, Full Code=KR7005380001, Company=현대차
+1 - Code=005386, Full Code=KR7005381017, Company=현대차우1(폐지)
+1 - Code=005387, Full Code=KR7005382007, Company=현대차2우B
+1 - Code=005385, Full Code=KR7005381009, Company=현대차우
+1 - Code=008770, Full Code=KR7008770000, Company=호텔신라
+1 - Code=000040, Full Code=KR7000040006, Company=KR모터스
+1 - Code=004250, Full Code=KR7004250007, Company=NPC
+1 - Code=008775, Full Code=KR7008771008, Company=호텔신라우
+1 - Code=004255, Full Code=KR7004251005, Company=NPC우
+1 - Code=009190, Full Code=KR7009190000, Company=대양금속
+1 - Code=035040, Full Code=KR7035040005, Company=플래티넘3호(폐지)
+1 - Code=011050, Full Code=KR7011050002, Company=케드콤(폐지)
+1 - Code=104520, Full Code=KR7104520002, Company=KOSEF 블루칩
+1 - Code=250780, Full Code=KR7250780004, Company=TIGER 코스닥150인버스
+1 - Code=008485, Full Code=KR7008481004, Company=KEP전자우B(폐지)
+1 - Code=063350, Full Code=KR7063350003, Company=팬택앤큐리텔(폐지)
+1 - Code=005810, Full Code=KR7005810007, Company=풍산홀딩스
+1 - Code=097230, Full Code=KRA097230130, Company=한진중공업4R(폐지)
+1 - Code=J09037, Full Code=KRA090372152, Company=15)아비스타 5WR
+1 - Code=001975, Full Code=KR7001971001, Company=신성건설우(폐지)
+1 - Code=023139, Full Code=KR7023133002, Company=국민은행3우B(폐지)
+1 - Code=035590, Full Code=KR7035590009, Company=마이다스성일(폐지)
+1 - Code=023137, Full Code=KR7023132004, Company=국민은행2우B(폐지)
+1 - Code=009990, Full Code=KR7009990003, Company=미우(폐지)
+1 - Code=023131, Full Code=KR7023130016, Company=국민은행1(폐지)
+1 - Code=227550, Full Code=KR7227550001, Company=TIGER 200 산업재
+1 - Code=009995, Full Code=KR7009991001, Company=미우우선(폐지)
+1 - Code=009770, Full Code=KR7009770009, Company=삼정펄프
+1 - Code=139290, Full Code=KR7139290001, Company=TIGER 200 경기소비재
+1 - Code=023350, Full Code=KR7023350002, Company=한국종합기술
+1 - Code=J00001, Full Code=KRA000011KB2, Company=KB)조흥은행1WR(폐지)
+1 - Code=02313A, Full Code=KR7023134000, Company=국민은행4우B(폐지)
+1 - Code=140910, Full Code=KRA140910126, Company=광희리츠 4R(폐지)
+1 - Code=009970, Full Code=KR7009970005, Company=영원무역홀딩스
+1 - Code=025832, Full Code=KR7025830027, Company=한국합섬2신(폐지)
+1 - Code=011690, Full Code=KR7011690005, Company=유양디앤유
+1 - Code=138210, Full Code=KR7138210000, Company=GREAT GREEN(폐지)
+1 - Code=011450, Full Code=KR7011450004, Company=송원칼라(폐지)
+1 - Code=013200, Full Code=KR7013200001, Company=C&우방(폐지)
+1 - Code=J00136, Full Code=KRA001362227, Company=22)삼성제약 2WR(폐지)
+1 - Code=008000, Full Code=KR7008000002, Company=도레이케미칼
+1 - Code=013201, Full Code=KR7013200019, Company=우 방 1(폐지)
+1 - Code=003560, Full Code=KR7003560000, Company=IHQ
+1 - Code=003561, Full Code=KR7003560018, Company=태평양패션1(폐지)
+1 - Code=008950, Full Code=KR7008950008, Company=동부화학(폐지)
+1 - Code=105450, Full Code=KR7105450001, Company=KODEX 15(폐지)
+1 - Code=003090, Full Code=KR7003090008, Company=대웅
+1 - Code=091000, Full Code=KR7091000000, Company=코리아04호
+1 - Code=058730, Full Code=KRA058730169, Company=동아에스텍 13R(폐지)
+1 - Code=007280, Full Code=KR7007280001, Company=한국특수형강
+1 - Code=007111, Full Code=KR7007110018, Company=일신석재1(폐지)
+1 - Code=003415, Full Code=KR7003411006, Company=쌍용양회우
+1 - Code=003417, Full Code=KR7003412004, Company=쌍용양회2우B(폐지)
+1 - Code=200040, Full Code=KR7200040004, Company=KODEX 미국금융(합성)
+1 - Code=192520, Full Code=KR7192520005, Company=경남은행(폐지)
+1 - Code=002940, Full Code=KR7002940005, Company=경동산업(폐지)
+1 - Code=00341D, Full Code=KR7003415007, Company=쌍용양회5우B(폐지)
+1 - Code=002540, Full Code=KR7002540003, Company=고제(폐지)
+1 - Code=108630, Full Code=KR7108630005, Company=FIRST 스타우량(폐지)
+1 - Code=204210, Full Code=KR7204210009, Company=모두투어리츠
+1 - Code=001940, Full Code=KR7001940006, Company=KISCO홀딩스
+1 - Code=123930, Full Code=KR7123930000, Company=KOSEF 인버스(폐지)
+1 - Code=002380, Full Code=KR7002380004, Company=KCC
+1 - Code=143850, Full Code=KR7143850006, Company=TIGER S&P500;선물(H)
+1 - Code=039570, Full Code=KR7039570007, Company=아이콘트롤스
+1 - Code=152100, Full Code=KR7152100004, Company=ARIRANG 200
+1 - Code=019301, Full Code=KR7019300011, Company=동일제지1(폐지)
+1 - Code=019300, Full Code=KR7019300003, Company=태림페이퍼(폐지)
+1 - Code=194370, Full Code=KR7194370003, Company=제이에스코퍼레이션
+1 - Code=069660, Full Code=KR7069660009, Company=KOSEF 200
+1 - Code=019491, Full Code=KR7019490010, Company=하이트론1(폐지)
+1 - Code=019490, Full Code=KR7019490002, Company=하이트론
+1 - Code=006880, Full Code=KR7006880009, Company=신송홀딩스
+1 - Code=045820, Full Code=KR7045820008, Company=LG파워콤(폐지)
+1 - Code=001700, Full Code=KR7001700004, Company=공영토건(폐지)
+1 - Code=006390, Full Code=KR7006390009, Company=현대시멘트
+1 - Code=137610, Full Code=KR7137610002, Company=TIGER 농산물선물(H)
+1 - Code=014015, Full Code=KR7014011001, Company=인터피온반도체우(폐지)
+1 - Code=003965, Full Code=KR7003961000, Company=사조대림우(폐지)
+1 - Code=003960, Full Code=KR7003960002, Company=사조대림
+1 - Code=007420, Full Code=KR7007420003, Company=해동금고(폐지)
+1 - Code=004989, Full Code=KR7004983003, Company=성신양회3우B
+1 - Code=237370, Full Code=KR7237370002, Company=KODEX 배당성장채권혼합
+1 - Code=016555, Full Code=KR7016551004, Company=한별텔레콤우(폐지)
+1 - Code=016550, Full Code=KR7016550006, Company=한별텔레콤(폐지)
+1 - Code=001830, Full Code=KR7001830009, Company=동부일렉트로닉스(폐지)
+1 - Code=000545, Full Code=KR7000541003, Company=흥국화재우
+1 - Code=006260, Full Code=KR7006260004, Company=LS
+1 - Code=001835, Full Code=KR7001831007, Company=동부일렉트로닉우(폐지)
+1 - Code=001837, Full Code=KR7001832005, Company=동부일렉트로2우B(폐지)
+1 - Code=252000, Full Code=KR7252000005, Company=TIGER 200동일가중
+1 - Code=006060, Full Code=KR7006060008, Company=화승인더
+1 - Code=010820, Full Code=KR7010820009, Company=퍼스텍
+1 - Code=002760, Full Code=KR7002760007, Company=보락
+1 - Code=069470, Full Code=KR7069470003, Company=제로원인터랙티브(폐지)
+1 - Code=016880, Full Code=KR7016880007, Company=웅진
+1 - Code=001490, Full Code=KR7001490002, Company=천지산업(폐지)
+1 - Code=036585, Full Code=KR7036581007, Company=팜스코우B(폐지)
+1 - Code=036580, Full Code=KR7036580009, Company=팜스코
+1 - Code=060980, Full Code=KR7060980000, Company=한라홀딩스
+1 - Code=079980, Full Code=KR7079980009, Company=휴비스
+1 - Code=000721, Full Code=KR7000720011, Company=현대건설1(폐지)
+1 - Code=000720, Full Code=KR7000720003, Company=현대건설
+1 - Code=000726, Full Code=KR7000721019, Company=현대건설우1(폐지)
+1 - Code=000725, Full Code=KR7000721001, Company=현대건설우
+1 - Code=027840, Full Code=KR7027840008, Company=고덴시(폐지)
+1 - Code=225800, Full Code=KR7225800002, Company=KOSEF 미국달러선물 레버리지(합성)
+1 - Code=002615, Full Code=KR7002611002, Company=LGEI우(폐지)
+1 - Code=071055, Full Code=KR7071051007, Company=한국금융지주우
+1 - Code=000661, Full Code=KR7000660019, Company=현대전자1(폐지)
+1 - Code=002610, Full Code=KR7002610004, Company=LGEI(폐지)
+1 - Code=245710, Full Code=KR7245710009, Company=KINDEX 베트남VN30(합성)
+1 - Code=001120, Full Code=KR7001120005, Company=LG상사
+1 - Code=033530, Full Code=KR7033530007, Company=세종공업
+1 - Code=000835, Full Code=KR7000831008, Company=삼성물산우(폐지)
+1 - Code=017110, Full Code=KR7017110008, Company=고려종금(폐지)
+1 - Code=017111, Full Code=KR7017110016, Company=고려종금1(폐지)
+1 - Code=000831, Full Code=KR7000830018, Company=삼성물산1(폐지)
+1 - Code=000830, Full Code=KR7000830000, Company=삼성물산(폐지)
+1 - Code=010641, Full Code=KR7010640019, Company=한국폴리1(폐지)
+1 - Code=010640, Full Code=KR7010640001, Company=진양폴리
+1 - Code=253240, Full Code=KR7253240006, Company=KOSEF 200선물인버스
+1 - Code=590018, Full Code=KRG596100187, Company=미래에셋 중국 심천 100 ETN
+1 - Code=590017, Full Code=KRG592100173, Company=미래에셋 미국 고배당주 ETN(H)
+1 - Code=590016, Full Code=KRG592100165, Company=미래에셋 미국 헬스케어 ETN(H)
+1 - Code=011090, Full Code=KRA011090123, Company=에넥스 11R(폐지)
+1 - Code=590013, Full Code=KRG592100132, Company=미래에셋 미국 리츠 ETN(H)
+1 - Code=590012, Full Code=KRG597100129, Company=미래에셋 글로벌 리츠 ETN(H)
+1 - Code=590011, Full Code=KRG592100116, Company=미래에셋 인버스 S&P500; ETN(H)
+1 - Code=590010, Full Code=KRG592100108, Company=미래에셋 레버리지 S&P500; ETN(H)
+1 - Code=148020, Full Code=KR7148020001, Company=KBSTAR 200
+1 - Code=008124, Full Code=KR7008120115, Company=북두전1(폐지)
+1 - Code=114100, Full Code=KR7114100001, Company=KBSTAR 국고채
+1 - Code=000610, Full Code=KR7000610006, Company=제일화재(폐지)
+1 - Code=001230, Full Code=KRA001230143, Company=동국제강12R(폐지)
+1 - Code=005060, Full Code=KR7005060009, Company=대우통신(폐지)
+1 - Code=034180, Full Code=KR7034180000, Company=알바트로스(폐지)
+1 - Code=119650, Full Code=KRA119650166, Company=KC코트렐 5R(폐지)
+1 - Code=011840, Full Code=KR7011840006, Company=계몽사(폐지)
+1 - Code=011841, Full Code=KR7011840014, Company=계 몽 사1(폐지)
+1 - Code=014450, Full Code=KR7014450001, Company=삼양종금(폐지)
+1 - Code=008691, Full Code=KR7008690018, Company=한 양 1(폐지)
+1 - Code=010000, Full Code=KR7010000008, Company=금성계전(폐지)
+1 - Code=011200, Full Code=KRA011200151, Company=현대상선17R(폐지)
+1 - Code=015780, Full Code=KR7015780000, Company=논    노(폐지)
+1 - Code=130730, Full Code=KR7130730005, Company=KOSEF 단기자금
+1 - Code=117580, Full Code=KR7117580001, Company=대성에너지
+1 - Code=014491, Full Code=KR7014490015, Company=쌍용종금1(폐지)
+1 - Code=014492, Full Code=KR7014490023, Company=쌍용종금2(폐지)
+1 - Code=071970, Full Code=KR7071970008, Company=STX중공업
+1 - Code=196030, Full Code=KR7196030001, Company=KINDEX 일본레버리지(H)
+1 - Code=005390, Full Code=KR7005390000, Company=신성통상
+1 - Code=001675, Full Code=KR7001671007, Company=경남모직우(폐지)
+1 - Code=000050, Full Code=KR7000050005, Company=경방
+1 - Code=009360, Full Code=KR7009360009, Company=베네데스하이텍(폐지)
+1 - Code=005660, Full Code=KR7005660006, Company=한진건설(폐지)
+1 - Code=029890, Full Code=KR7029890001, Company=현대반도체(폐지)
+1 - Code=005664, Full Code=KR7005660113, Company=한진건설전1(폐지)
+1 - Code=005667, Full Code=KR7005660121, Company=한진건설전2(폐지)
+1 - Code=035050, Full Code=KR7035050004, Company=플래티넘타겟(폐지)
+1 - Code=009160, Full Code=KR7009160003, Company=SIMPAC
+1 - Code=004280, Full Code=KR7004280004, Company=아시아차(폐지)
+1 - Code=003810, Full Code=KR7003810009, Company=대우(폐지)
+1 - Code=009385, Full Code=KR7009381005, Company=아세아페우B(폐지)
+1 - Code=009380, Full Code=KR7009380007, Company=아세아페이퍼텍(폐지)
+1 - Code=037560, Full Code=KR7037560000, Company=CJ헬로비전
+1 - Code=104530, Full Code=KR7104530001, Company=KOSEF 고배당
+1 - Code=004820, Full Code=KR7004820007, Company=조인에너지(폐지)
+1 - Code=004530, Full Code=KR7004530002, Company=SY(폐지)
+1 - Code=008490, Full Code=KR7008490005, Company=서흥
+1 - Code=096300, Full Code=KR7096300009, Company=베트남개발1
+1 - Code=063160, Full Code=KR7063160006, Company=종근당바이오
+1 - Code=005800, Full Code=KR7005800008, Company=신영와코루
+1 - Code=011510, Full Code=KR7011510005, Company=청구(폐지)
+1 - Code=053000, Full Code=KR7053000006, Company=우리금융(폐지)
+1 - Code=003620, Full Code=KR7003620002, Company=쌍용차
+1 - Code=004620, Full Code=KR7004620001, Company=캠브리지코오롱(폐지)
+1 - Code=140580, Full Code=KR7140580002, Company=KBSTAR 우량업종
+1 - Code=227560, Full Code=KR7227560000, Company=TIGER 200 생활소비재
+1 - Code=012420, Full Code=KR7012420006, Company=메리츠종금(폐지)
+1 - Code=134380, Full Code=KR7134380005, Company=미원화학
+1 - Code=139280, Full Code=KR7139280002, Company=TIGER 경기방어
+1 - Code=009940, Full Code=KR7009940008, Company=대아리드선(폐지)
+1 - Code=005936, Full Code=KR7005931019, Company=삼성전자우1(폐지)
+1 - Code=005931, Full Code=KR7005930011, Company=삼성전자1(폐지)
+1 - Code=005930, Full Code=KR7005930003, Company=삼성전자
+1 - Code=015361, Full Code=KR7015360019, Company=극동가스1(폐지)
+1 - Code=015360, Full Code=KR7015360001, Company=예스코
+1 - Code=261140, Full Code=KR7261140008, Company=TIGER 우선주
+1 - Code=010910, Full Code=KR7010910008, Company=제일냉동(폐지)
+1 - Code=011420, Full Code=KR7011420007, Company=갤럭시아에스엠
+1 - Code=J00126, Full Code=KRA0012621W5, Company=1W)남광토건 1WR
+1 - Code=008541, Full Code=KR7008540015, Company=태창1신(폐지)
+1 - Code=008540, Full Code=KRA008540106, Company=케이비물산31R(폐지)
+1 - Code=J00307, Full Code=KRA003072105, Company=10)코오롱글로벌 2WR
+1 - Code=J00306, Full Code=KRA003062114, Company=11)슈넬생명과학 8WR(폐지)
+1 - Code=007630, Full Code=KR7007630007, Company=암니스
+1 - Code=003570, Full Code=KR7003570009, Company=S&T;중공업
+1 - Code=023960, Full Code=KR7023960008, Company=에쓰씨엔지니어링
+1 - Code=J00498, Full Code=KRA004982112, Company=11)성신양회 3WR(폐지)
+1 - Code=003082, Full Code=KR7003080025, Company=성보화학2(폐지)
+1 - Code=003081, Full Code=KR7003080017, Company=성보화학1(폐지)
+1 - Code=003080, Full Code=KR7003080009, Company=성보화학
+1 - Code=244620, Full Code=KR7244620001, Company=KODEX 모멘텀Plus
+1 - Code=079550, Full Code=KR7079550000, Company=LIG넥스원
+1 - Code=200050, Full Code=KR7200050003, Company=KODEX MSCI독일(합성)
+1 - Code=049770, Full Code=KR7049770001, Company=동원F&B;
+1 - Code=007120, Full Code=KR7007120009, Company=미래아이앤지
+1 - Code=161500, Full Code=KR7161500004, Company=ARIRANG 주도주
+1 - Code=007700, Full Code=KR7007700008, Company=F&F;
+1 - Code=159800, Full Code=KR7159800002, Company=마이티 K100
+1 - Code=006650, Full Code=KR7006650006, Company=대한유화
+1 - Code=036570, Full Code=KR7036570000, Company=엔씨소프트
+1 - Code=J00270, Full Code=KRA0027021W1, Company=1W)신일산업 1WR
+1 - Code=024900, Full Code=KR7024900003, Company=덕양산업
+1 - Code=157520, Full Code=KR7157520008, Company=TIGER 화학
+1 - Code=006890, Full Code=KR7006890008, Company=태경화학
+1 - Code=204420, Full Code=KR7204420004, Company=ARIRANG 차이나H 레버리지(합성 H)
+1 - Code=007380, Full Code=KR7007380009, Company=고합물산(폐지)
+1 - Code=251350, Full Code=KR7251350005, Company=KODEX MSCI World
+1 - Code=019685, Full Code=KR7019681006, Company=대교우B
+1 - Code=102110, Full Code=KR7102110004, Company=TIGER 200
+1 - Code=019680, Full Code=KR7019680008, Company=대교
+1 - Code=123320, Full Code=KR7123320004, Company=TIGER 레버리지
+1 - Code=007410, Full Code=KR7007410004, Company=대우전자(폐지)
+1 - Code=003971, Full Code=KR7003970019, Company=동부산업1(폐지)
+1 - Code=003970, Full Code=KR7003970001, Company=동부산업(폐지)
+1 - Code=003975, Full Code=KR7003971009, Company=동부산업우(폐지)
+1 - Code=137930, Full Code=KR7137930004, Company=마이다스 커버드콜
+1 - Code=039490, Full Code=KR7039490008, Company=키움증권
+1 - Code=155900, Full Code=KR7155900004, Company=바다로19호
+1 - Code=017320, Full Code=KR7017320003, Company=태일정밀(폐지)
+1 - Code=208470, Full Code=KR7208470005, Company=SMART MSCI선진국(합성 H)
+1 - Code=017325, Full Code=KR7017321001, Company=태일정밀우(폐지)
+1 - Code=001955, Full Code=KR7001951003, Company=남한제지우(폐지)
+1 - Code=161390, Full Code=KR7161390000, Company=한국타이어
+1 - Code=001950, Full Code=KR7001950005, Company=남한제지(폐지)
+1 - Code=033180, Full Code=KR7033180001, Company=필룩스
+1 - Code=006090, Full Code=KR7006090005, Company=사조오양
+1 - Code=006270, Full Code=KR7006270003, Company=금성통신(폐지)
+1 - Code=006275, Full Code=KR7006271001, Company=금성통신우선(폐지)
+1 - Code=016450, Full Code=KR7016450009, Company=한세예스24홀딩스
+1 - Code=001821, Full Code=KR7001820018, Company=삼화콘덴1(폐지)
+1 - Code=001820, Full Code=KR7001820000, Company=삼화콘덴서
+1 - Code=084010, Full Code=KR7084010008, Company=대한제강
+1 - Code=002025, Full Code=KR7002021004, Company=코오롱우
+1 - Code=006070, Full Code=KR7006070007, Company=기린(폐지)
+1 - Code=002020, Full Code=KR7002020006, Company=코오롱
+1 - Code=024100, Full Code=KR7024100000, Company=제일저축은행(폐지)
+1 - Code=069260, Full Code=KRA069260107, Company=휴켐스 2R(폐지)
+1 - Code=013005, Full Code=KR7013001003, Company=세우글로벌우(폐지)
+1 - Code=013000, Full Code=KR7013000005, Company=세우글로벌
+1 - Code=013001, Full Code=KR7013000013, Company=세우포리머1(폐지)
+1 - Code=091200, Full Code=KR7091200006, Company=KOSEF IT(폐지)
+1 - Code=005430, Full Code=KR7005430004, Company=한국공항
+1 - Code=069460, Full Code=KR7069460004, Company=대호에이엘
+1 - Code=252670, Full Code=KR7252670005, Company=KODEX 200선물인버스2X
+1 - Code=006380, Full Code=KR7006380000, Company=카프로
+1 - Code=157450, Full Code=KR7157450008, Company=TIGER 유동자금
+1 - Code=005061, Full Code=KR7005060017, Company=대우통신1(폐지)
+1 - Code=000280, Full Code=KR7000280008, Company=동아건설(폐지)
+1 - Code=000281, Full Code=KR7000280016, Company=동아건설1(폐지)
+1 - Code=245360, Full Code=KR7245360003, Company=TIGER 차이나H
+1 - Code=017070, Full Code=KR7017070004, Company=호승(폐지)
+1 - Code=000990, Full Code=KR7000990002, Company=동부하이텍
+1 - Code=016580, Full Code=KR7016580003, Company=환인제약
+1 - Code=003079, Full Code=KR7003073004, Company=코오롱건설3우B(폐지)
+1 - Code=000995, Full Code=KR7000991000, Company=동부하이텍1우
+1 - Code=000997, Full Code=KR7000992008, Company=동부하이텍2우B(폐지)
+1 - Code=238720, Full Code=KR7238720007, Company=KINDEX 일본Nikkei225(H)
+1 - Code=002470, Full Code=KR7002470003, Company=동성(폐지)
+1 - Code=002620, Full Code=KR7002620003, Company=제일약품
+1 - Code=213610, Full Code=KR7213610009, Company=KODEX 삼성그룹밸류
+1 - Code=030610, Full Code=KR7030610000, Company=교보증권
+1 - Code=025830, Full Code=KR7025830001, Company=한국합섬(폐지)
+1 - Code=025831, Full Code=KR7025830019, Company=한국합섬1신(폐지)
+1 - Code=001130, Full Code=KR7001130004, Company=대한제분
+1 - Code=000840, Full Code=KR7000840009, Company=한국벨트(폐지)
+1 - Code=229200, Full Code=KR7229200001, Company=KODEX 코스닥 150
+1 - Code=018881, Full Code=KR7018880013, Company=한라공조1(폐지)
+1 - Code=570014, Full Code=KRG574100142, Company=TRUE 인버스 유로선물 ETN
+1 - Code=001780, Full Code=KR7001780006, Company=알루코
+1 - Code=114820, Full Code=KR7114820004, Company=TIGER 국채3
+1 - Code=129270, Full Code=KR7129270005, Company=ARIRANG 네오밸류(폐지)
+1 - Code=010620, Full Code=KR7010620003, Company=현대미포조선
+1 - Code=114130, Full Code=KR7114130008, Company=거북선5호(폐지)
+1 - Code=014150, Full Code=KR7014150007, Company=한외종금(폐지)
+1 - Code=010100, Full Code=KR7010100006, Company=한국프랜지
+1 - Code=570010, Full Code=KRG575100109, Company=TRUE 엔선물 ETN
+1 - Code=012631, Full Code=KR7012630018, Company=현대산업1(폐지)
+1 - Code=034190, Full Code=KR7034190009, Company=코스파이더(폐지)
+1 - Code=000660, Full Code=KR7000660001, Company=SK하이닉스
+1 - Code=570012, Full Code=KRG575100125, Company=TRUE 인버스 엔선물 ETN
+1 - Code=083380, Full Code=KR7083380006, Company=동북아13호
+1 - Code=010580, Full Code=KRA010580165, Company=지코 11R(폐지)
+1 - Code=005011, Full Code=KR7005010012, Company=신호스틸1(폐지)
+1 - Code=028100, Full Code=KR7028100006, Company=동아지질
+1 - Code=005015, Full Code=KR7005011002, Company=신호스틸우선(폐지)
+1 - Code=094950, Full Code=KR7094950003, Company=지비베트남1(폐지)
+1 - Code=122750, Full Code=KR7122750003, Company=우리스팩1호(폐지)
+1 - Code=117930, Full Code=KR7117930008, Company=한진해운(폐지)
+1 - Code=225050, Full Code=KR7225050004, Company=TIGER 유로스탁스레버리지(합성 H)
+1 - Code=026870, Full Code=KR7026870006, Company=코원에너지서비스(폐지)
+1 - Code=011210, Full Code=KR7011210002, Company=현대위아
+1 - Code=005720, Full Code=KR7005720008, Company=넥센
+1 - Code=005725, Full Code=KR7005721006, Company=넥센우
+1 - Code=266410, Full Code=KR7266410000, Company=KODEX 필수소비재
+1 - Code=071090, Full Code=KR7071090005, Company=하이스틸
+1 - Code=000060, Full Code=KR7000060004, Company=메리츠화재
+1 - Code=026890, Full Code=KR7026890004, Company=디피씨
+1 - Code=002390, Full Code=KRA002390144, Company=한독 20R(폐지)
+1 - Code=241390, Full Code=KR7241390004, Company=KBSTAR V&S;셀렉트밸류채권혼합
+1 - Code=172580, Full Code=KR7172580003, Company=하이골드12호
+1 - Code=140890, Full Code=KR7140890005, Company=트러스제7호
+1 - Code=014790, Full Code=KR7014790000, Company=한라
+1 - Code=228790, Full Code=KR7228790002, Company=TIGER 화장품
+1 - Code=012630, Full Code=KR7012630000, Company=현대산업
+1 - Code=023590, Full Code=KR7023590003, Company=다우기술
+1 - Code=005830, Full Code=KR7005830005, Company=동부화재
+1 - Code=004295, Full Code=KR7004291001, Company=아이케이우(폐지)
+1 - Code=004830, Full Code=KR7004830006, Company=덕성
+1 - Code=004837, Full Code=KR7004832002, Company=덕성2우B(폐지)
+1 - Code=004835, Full Code=KR7004831004, Company=덕성우
+1 - Code=004290, Full Code=KR7004290003, Company=아이케이(폐지)
+1 - Code=093230, Full Code=KR7093230001, Company=이아이디
+1 - Code=192720, Full Code=KR7192720001, Company=파워 고배당저변동성
+1 - Code=011500, Full Code=KR7011500006, Company=한농화성
+1 - Code=083160, Full Code=KR7083160002, Company=현대경매일호(폐지)
+1 - Code=227570, Full Code=KR7227570009, Company=TIGER 우량가치
+1 - Code=900030, Full Code=HK0000040383, Company=연합과기(폐지)
+1 - Code=500005, Full Code=KRG502400051, Company=신한 인버스 브렌트원유 선물 ETN(H)
+1 - Code=079160, Full Code=KR7079160008, Company=CJ CGV
+1 - Code=018670, Full Code=KR7018670000, Company=SK가스
+1 - Code=011180, Full Code=KR7011180007, Company=동국방직(폐지)
+1 - Code=083360, Full Code=KR7083360008, Company=동북아11호
+1 - Code=015350, Full Code=KR7015350002, Company=부산가스
+1 - Code=004740, Full Code=KRA004740155, Company=보루네오 20R(폐지)
+1 - Code=005900, Full Code=KR7005900006, Company=동양건설(폐지)
+1 - Code=006840, Full Code=KRA006840110, Company=애경유화 2R(폐지)
+1 - Code=019180, Full Code=KR7019180009, Company=티에이치엔
+1 - Code=244580, Full Code=KR7244580007, Company=KODEX 바이오
+1 - Code=018417, Full Code=KR7018412007, Company=현대금속2우B(폐지)
+1 - Code=530021, Full Code=KRG532100218, Company=삼성 미국 중소형 성장주 ETN
+1 - Code=008020, Full Code=KR7008020000, Company=경남에너지(폐지)
+1 - Code=008530, Full Code=KR7008530008, Company=일은증권(폐지)
+1 - Code=153360, Full Code=KR7153360003, Company=하이골드3호
+1 - Code=107560, Full Code=KR7107560005, Company=GIANT 현대차그룹(폐지)
+1 - Code=003500, Full Code=KR7003500006, Company=삼진화학(폐지)
+1 - Code=128820, Full Code=KRA128820149, Company=대성산업 8R(폐지)
+1 - Code=138490, Full Code=KRA138490164, Company=코오롱플라스틱 3R(폐지)
+1 - Code=013580, Full Code=KR7013580006, Company=계룡건설
+1 - Code=097680, Full Code=KR7097680003, Company=KODEX 중대형성장(폐지)
+1 - Code=236350, Full Code=KR7236350005, Company=TIGER 인도레버리지(합성)
+1 - Code=009420, Full Code=KR7009420001, Company=한올바이오파마
+1 - Code=011721, Full Code=KR7011720018, Company=현대페인1(폐지)
+1 - Code=081000, Full Code=KR7081000002, Company=일진다이아
+1 - Code=002960, Full Code=KR7002960003, Company=한국쉘석유
+1 - Code=001970, Full Code=KR7001970003, Company=신성건설(폐지)
+1 - Code=025750, Full Code=KR7025750001, Company=한솔홈데코
+1 - Code=249420, Full Code=KR7249420001, Company=일동제약
+1 - Code=J00066, Full Code=KRA000661KA6, Company=KA)하이닉스1WR(폐지)
+1 - Code=008440, Full Code=KR7008440000, Company=아이넥스(폐지)
+1 - Code=105270, Full Code=KR7105270003, Company=KINDEX 성장대형F15(폐지)
+1 - Code=003160, Full Code=KR7003160009, Company=디아이
+1 - Code=003161, Full Code=KR7003160017, Company=디아이1(폐지)
+1 - Code=007240, Full Code=KR7007240005, Company=충북은행(폐지)
+1 - Code=034310, Full Code=KR7034310003, Company=NICE
+1 - Code=095570, Full Code=KR7095570008, Company=AJ네트웍스
+1 - Code=161530, Full Code=KR7161530001, Company=ARIRANG 조선운송(폐지)
+1 - Code=002365, Full Code=KR7002361004, Company=SH에너지화학우(폐지)
+1 - Code=248260, Full Code=KR7248260002, Company=TIGER 일본헬스케어(합성)
+1 - Code=002360, Full Code=KR7002360006, Company=SH에너지화학
+1 - Code=530008, Full Code=KRG531100086, Company=삼성 미디어 테마주 ETN
+1 - Code=530009, Full Code=KRG531100094, Company=삼성 증권 테마주 ETN
+1 - Code=012160, Full Code=KR7012160008, Company=영흥철강
+1 - Code=530002, Full Code=KRG536100024, Company=삼성 인버스 China A50 선물 ETN(H)
+1 - Code=530003, Full Code=KRG531100037, Company=삼성 모멘텀 탑픽 ETN
+1 - Code=530001, Full Code=KRG534100018, Company=삼성 유럽 고배당 주식 ETN(H)
+1 - Code=530006, Full Code=KRG531100060, Company=삼성 음식료 테마주 ETN
+1 - Code=530007, Full Code=KRG531100078, Company=삼성 레저 테마주 ETN
+1 - Code=530004, Full Code=KRG531100045, Company=삼성 화장품 테마주 ETN
+1 - Code=530005, Full Code=KRG531100052, Company=삼성 바이오 테마주 ETN
+1 - Code=251340, Full Code=KR7251340006, Company=KODEX 코스닥150인버스
+1 - Code=112610, Full Code=KR7112610001, Company=씨에스윈드
+1 - Code=138540, Full Code=KR7138540000, Company=TIGER 현대차그룹+
+1 - Code=001725, Full Code=KR7001721000, Company=신영증권우
+1 - Code=001720, Full Code=KR7001720002, Company=신영증권
+1 - Code=002100, Full Code=KR7002100006, Company=경농
+1 - Code=028670, Full Code=KR7028670008, Company=팬오션
+1 - Code=002105, Full Code=KR7002101004, Company=경농우(폐지)
+1 - Code=003980, Full Code=KR7003980000, Company=한일합섬(폐지)
+1 - Code=069730, Full Code=KR7069730000, Company=DSR제강
+1 - Code=161540, Full Code=KR7161540000, Company=ARIRANG 철강금속(폐지)
+1 - Code=001920, Full Code=KR7001920008, Company=한보철강(폐지)
+1 - Code=025530, Full Code=KR7025530007, Company=SJM홀딩스
+1 - Code=000520, Full Code=KR7000520007, Company=삼일제약
+1 - Code=000547, Full Code=KR7000542001, Company=흥국화재2우B
+1 - Code=001580, Full Code=KR7001580000, Company=신광기업(폐지)
+1 - Code=006490, Full Code=KR7006490007, Company=인스코비
+1 - Code=006280, Full Code=KRA006280135, Company=녹십자 20R(폐지)
+1 - Code=006281, Full Code=KR7006280010, Company=상아제약1(폐지)
+1 - Code=006040, Full Code=KR7006040000, Company=동원산업
+1 - Code=002742, Full Code=KR7002740025, Company=동양화학2(폐지)
+1 - Code=002741, Full Code=KR7002740017, Company=동양화학1(폐지)
+1 - Code=002740, Full Code=KR7002740009, Company=동양화학(폐지)
+1 - Code=002031, Full Code=KR7002030013, Company=아세아시1(폐지)
+1 - Code=002746, Full Code=KR7002741015, Company=동양화학우1(폐지)
+1 - Code=002745, Full Code=KR7002741007, Company=동양화학우(폐지)
+1 - Code=080030, Full Code=KR7080030000, Company=동북아2호(폐지)
+1 - Code=001030, Full Code=KR7001030006, Company=리젠트화재(폐지)
+1 - Code=001035, Full Code=KR7001031004, Company=리젠트화재우B(폐지)
+1 - Code=119250, Full Code=KR7119250009, Company=에프지엔개발리츠(폐지)
+1 - Code=002585, Full Code=KR7002581007, Company=삼미우(폐지)
+1 - Code=225130, Full Code=KR7225130004, Company=KINDEX 골드선물 레버리지(합성 H)
+1 - Code=002580, Full Code=KR7002580009, Company=삼미(폐지)
+1 - Code=091210, Full Code=KR7091210005, Company=TIGER KRX100
+1 - Code=006445, Full Code=KR7006441000, Company=한일건설상환우B(폐지)
+1 - Code=006440, Full Code=KR7006440002, Company=한일건설(폐지)
+1 - Code=261250, Full Code=KR7261250005, Company=KODEX 미국달러선물레버리지
+1 - Code=083420, Full Code=KR7083420000, Company=KPX그린케미칼
+1 - Code=001450, Full Code=KR7001450006, Company=현대해상
+1 - Code=000985, Full Code=KR7000981001, Company=극동건설우(폐지)
+1 - Code=000450, Full Code=KR7000450007, Company=한주통산(폐지)
+1 - Code=000980, Full Code=KR7000980003, Company=극동건설(폐지)
+1 - Code=025820, Full Code=KR7025820002, Company=이구산업
+1 - Code=010660, Full Code=KR7010660009, Company=화천기계
+1 - Code=092630, Full Code=KR7092630003, Company=바다로3호(폐지)
+1 - Code=002630, Full Code=KRA002630150, Company=오리엔트바이오 23R(폐지)
+1 - Code=000850, Full Code=KR7000850008, Company=화천기공
+1 - Code=590009, Full Code=KRG592100090, Company=미래에셋 미국 항공우주 ETN(H)
+1 - Code=000180, Full Code=KR7000180000, Company=성창기업지주
+1 - Code=014160, Full Code=KR7014160006, Company=대영포장
+1 - Code=014161, Full Code=KR7014160014, Company=대영포장1(폐지)
+1 - Code=010110, Full Code=KR7010110005, Company=고려화학(폐지)
+1 - Code=166060, Full Code=KR7166060004, Company=KODEX 주식&골드(H)(폐지)
+1 - Code=027469, Full Code=KR7027463009, Company=주택은행3우B(폐지)
+1 - Code=027467, Full Code=KR7027462001, Company=주택은행2우B(폐지)
+1 - Code=000670, Full Code=KR7000670000, Company=영풍
+1 - Code=027465, Full Code=KR7027461003, Company=주택은행우B(폐지)
+1 - Code=083390, Full Code=KR7083390005, Company=동북아14호
+1 - Code=009540, Full Code=KR7009540006, Company=현대중공업
+1 - Code=027461, Full Code=KR7027460013, Company=주택은행1(폐지)
+1 - Code=027460, Full Code=KR7027460005, Company=주택은행(폐지)
+1 - Code=001210, Full Code=KR7001210004, Company=금호전기
+1 - Code=005000, Full Code=KR7005000005, Company=남선물산(폐지)
+1 - Code=006160, Full Code=KR7006160006, Company=신화건설(폐지)
+1 - Code=010060, Full Code=KR7010060002, Company=OCI
+1 - Code=500015, Full Code=KRG502400150, Company=신한 WTI원유 선물 ETN(H)
+1 - Code=225040, Full Code=KR7225040005, Company=TIGER S&P500;레버리지(합성 H)
+1 - Code=014010, Full Code=KR7014010003, Company=인터피온반도체(폐지)
+1 - Code=011880, Full Code=KR7011880002, Company=현대종금(폐지)
+1 - Code=266390, Full Code=KR7266390004, Company=KODEX 경기소비재
+1 - Code=182490, Full Code=KR7182490003, Company=TIGER 단기선진하이일드(합성 H)
+1 - Code=071955, Full Code=KR7071951008, Company=코아스웰1우B(폐지)
+1 - Code=008700, Full Code=KR7008700007, Company=아남전자
+1 - Code=000071, Full Code=KR7000070011, Company=삼양사1신(폐지)
+1 - Code=000070, Full Code=KR7000070003, Company=삼양홀딩스
+1 - Code=117690, Full Code=KR7117690008, Company=TIGER 차이나
+1 - Code=028052, Full Code=KR7028050029, Company=삼성엔지2(폐지)
+1 - Code=000075, Full Code=KR7000071001, Company=삼양홀딩스우
+1 - Code=028050, Full Code=KR7028050003, Company=삼성엔지니어링
+1 - Code=000270, Full Code=KR7000270009, Company=기아차
+1 - Code=195980, Full Code=KR7195980008, Company=ARIRANG 신흥국(합성 H)
+1 - Code=J02056, Full Code=KRA0205621W2, Company=1W)아시아나항공 1 WR(폐지)
+1 - Code=009140, Full Code=KR7009140005, Company=경인전자
+1 - Code=009141, Full Code=KR7009140013, Company=경인전자1(폐지)
+1 - Code=014900, Full Code=KR7014900005, Company=삼보컴퓨터(폐지)
+1 - Code=000501, Full Code=KR7000500017, Company=희성전선1(폐지)
+1 - Code=244820, Full Code=KR7244820007, Company=ARIRANG 스마트베타4종결합
+1 - Code=012990, Full Code=KR7012990008, Company=LG석유화학(폐지)
+1 - Code=005350, Full Code=KR7005350004, Company=봉신(폐지)
+1 - Code=004510, Full Code=KR7004510004, Company=디와이홀딩스(폐지)
+1 - Code=004511, Full Code=KR7004510012, Company=동양에레1(폐지)
+1 - Code=009815, Full Code=KR7009811001, Company=고려포리머우(폐지)
+1 - Code=014580, Full Code=KR7014580005, Company=백광소재
+1 - Code=014581, Full Code=KR7014580013, Company=백광소재1(폐지)
+1 - Code=014740, Full Code=KR7014740005, Company=금호케미칼(폐지)
+1 - Code=014390, Full Code=KR7014390009, Company=대구종금(폐지)
+1 - Code=014745, Full Code=KR7014741003, Company=금호케미칼우(폐지)
+1 - Code=130660, Full Code=KR7130660004, Company=한전산업
+1 - Code=253990, Full Code=KR7253990006, Company=TIGER 대만TAIEX파생(H)
+1 - Code=035250, Full Code=KR7035250000, Company=강원랜드
+1 - Code=009720, Full Code=KR7009720004, Company=전기초자(폐지)
+1 - Code=012605, Full Code=KR7012601001, Company=청호컴퓨1우(폐지)
+1 - Code=001695, Full Code=KR7001691005, Company=두산테크팩우(폐지)
+1 - Code=161890, Full Code=KR7161890009, Company=한국콜마
+1 - Code=004190, Full Code=KR7004190005, Company=스마텔(폐지)
+1 - Code=015980, Full Code=KR7015980006, Company=금    경(폐지)
+1 - Code=003640, Full Code=KR7003640000, Company=유니온스틸(폐지)
+1 - Code=091230, Full Code=KR7091230003, Company=TIGER 반도체
+1 - Code=083370, Full Code=KR7083370007, Company=동북아12호
+1 - Code=004605, Full Code=KR7004601001, Company=두산음료우(폐지)
+1 - Code=004600, Full Code=KR7004600003, Company=두산음료(폐지)
+1 - Code=123890, Full Code=KR7123890006, Company=한국자산신탁
+1 - Code=015340, Full Code=KR7015340003, Company=나우정밀(폐지)
+1 - Code=004170, Full Code=KR7004170007, Company=신세계
+1 - Code=004171, Full Code=KR7004170015, Company=신세계1(폐지)
+1 - Code=012190, Full Code=KR7012190005, Company=신호페이퍼(폐지)
+1 - Code=012195, Full Code=KR7012191003, Company=신호페이우(폐지)
+1 - Code=031820, Full Code=KR7031820004, Company=콤텍시스템
+1 - Code=001755, Full Code=KR7001751007, Company=한양증권우
+1 - Code=011155, Full Code=KR7011151008, Company=CJ씨푸드1우
+1 - Code=004990, Full Code=KR7004990008, Company=롯데제과
+1 - Code=253150, Full Code=KR7253150007, Company=ARIRANG 200선물레버리지
+1 - Code=011150, Full Code=KR7011150000, Company=CJ씨푸드
+1 - Code=251590, Full Code=KR7251590006, Company=ARIRANG 고배당저변동50
+1 - Code=012750, Full Code=KR7012750006, Company=에스원
+1 - Code=003460, Full Code=KR7003460003, Company=유화증권
+1 - Code=J01107, Full Code=KRA0110721W4, Company=1W)LG이노텍 1WR(폐지)
+1 - Code=086280, Full Code=KR7086280005, Company=현대글로비스
+1 - Code=261120, Full Code=KR7261120000, Company=TIGER 미국달러선물인버스2X
+1 - Code=009030, Full Code=KR7009030008, Company=대한종금(폐지)
+1 - Code=009035, Full Code=KR7009031006, Company=대한종금우(폐지)
+1 - Code=009037, Full Code=KR7009032004, Company=대한종금2우B(폐지)
+1 - Code=122630, Full Code=KR7122630007, Company=KODEX 레버리지
+1 - Code=012280, Full Code=KR7012280004, Company=영화금속
+1 - Code=014047, Full Code=KR7014042006, Company=GPS2우B(폐지)
+1 - Code=J01688, Full Code=KRA0168821W3, Company=1W)웅진홀딩스 1WR
+1 - Code=013575, Full Code=KR7013571005, Company=동양기전우(폐지)
+1 - Code=550026, Full Code=KRG551100263, Company=QV KTOP30 ETN
+1 - Code=013570, Full Code=KR7013570007, Company=디와이
+1 - Code=013571, Full Code=KR7013570015, Company=동양기전1(폐지)
+1 - Code=002910, Full Code=KR7002910008, Company=진성레미컨(폐지)
+1 - Code=185680, Full Code=KR7185680006, Company=KODEX 미국바이오(합성)
+1 - Code=102260, Full Code=KR7102260007, Company=동성코퍼레이션
+1 - Code=058650, Full Code=KR7058650003, Company=세아홀딩스
+1 - Code=004770, Full Code=KRA004770145, Company=써니전자15R(폐지)
+1 - Code=102460, Full Code=KR7102460003, Company=이연제약
+1 - Code=190620, Full Code=KR7190620005, Company=KINDEX 단기자금
+1 - Code=102280, Full Code=KRA102280153, Company=쌍방울 6R(폐지)
+1 - Code=161520, Full Code=KR7161520002, Company=ARIRANG 자동차(폐지)
+1 - Code=176710, Full Code=KR7176710002, Company=파워 국고채
+1 - Code=003190, Full Code=KR7003190006, Company=알앤엘바이오(폐지)
+1 - Code=002350, Full Code=KR7002350007, Company=넥센타이어
+1 - Code=248270, Full Code=KR7248270001, Company=TIGER 글로벌헬스케어(합성)
+1 - Code=002355, Full Code=KR7002351005, Company=넥센타이어1우B
+1 - Code=530019, Full Code=KRG532100192, Company=삼성 미국 대형 성장주 ETN
+1 - Code=530018, Full Code=KRG532100184, Company=삼성 미국 중소형 가치주 ETN(H)
+1 - Code=012170, Full Code=KR7012170007, Company=키위미디어그룹
+1 - Code=530011, Full Code=KRG531100110, Company=삼성 온라인쇼핑 테마주 ETN
+1 - Code=530010, Full Code=KRG531100102, Company=삼성 건축자재 테마주 ETN
+1 - Code=530013, Full Code=KRG531100136, Company=삼성 KTOP30 ETN
+1 - Code=530012, Full Code=KRG531100128, Company=삼성 화학 테마주 ETN
+1 - Code=530015, Full Code=KRG532100150, Company=삼성 미국 대형 성장주 ETN(H)
+1 - Code=530014, Full Code=KRG536100149, Company=삼성 China A50 선물 ETN(H)
+1 - Code=530017, Full Code=KRG532100176, Company=삼성 미국 중소형 성장주 ETN(H)
+1 - Code=530016, Full Code=KRG532100168, Company=삼성 미국 대형 가치주 ETN(H)
+1 - Code=192400, Full Code=KR7192400000, Company=쿠쿠전자
+1 - Code=019440, Full Code=KR7019440007, Company=세아특수강
+1 - Code=138530, Full Code=KR7138530001, Company=TIGER LG그룹+
+1 - Code=063515, Full Code=KR7063511000, Company=코오롱인터우(폐지)
+1 - Code=002820, Full Code=KR7002820009, Company=선창산업
+1 - Code=002130, Full Code=KR7002130003, Company=피어리스(폐지)
+1 - Code=011724, Full Code=KR7011720117, Company=현대페인전1(폐지)
+1 - Code=016610, Full Code=KR7016610008, Company=동부증권
+1 - Code=016611, Full Code=KR7016610016, Company=동부증권1(폐지)
+1 - Code=J00503, Full Code=KRA005032172, Company=17)부산주공 2WR
+1 - Code=J00854, Full Code=KRA0085421W2, Company=1W)케이비물산 1WR
+1 - Code=122290, Full Code=KR7122290000, Company=동양밸류스팩(폐지)
+1 - Code=063510, Full Code=KR7063510002, Company=코오롱인터(폐지)
+1 - Code=003990, Full Code=KR7003990009, Company=BHK(폐지)
+1 - Code=011720, Full Code=KR7011720000, Company=현대페인트(폐지)
+1 - Code=010581, Full Code=KR7010580017, Company=정일공업1(폐지)
+1 - Code=091190, Full Code=KR7091190009, Company=KOSEF Banks(폐지)
+1 - Code=099210, Full Code=KR7099210007, Company=코리아07호(폐지)
+1 - Code=138440, Full Code=KR7138440003, Company=이코리아리츠(폐지)
+1 - Code=008811, Full Code=KR7008810012, Company=엘지종금1(폐지)
+1 - Code=016500, Full Code=KR7016500001, Company=삼삼종금(폐지)
+1 - Code=016501, Full Code=KR7016500019, Company=삼삼종금1(폐지)
+1 - Code=145270, Full Code=KR7145270005, Company=케이탑리츠
+1 - Code=001020, Full Code=KRA001020163, Company=페이퍼코리아 35R(폐지)
+1 - Code=006295, Full Code=KR7006291009, Company=인천정유1우(폐지)
+1 - Code=081930, Full Code=KR7081930000, Company=아시아8호(폐지)
+1 - Code=017901, Full Code=KR7017900010, Company=광전자1(폐지)
+1 - Code=017900, Full Code=KR7017900002, Company=광전자
+1 - Code=000510, Full Code=KR7000510008, Company=태    화(폐지)
+1 - Code=017670, Full Code=KR7017670001, Company=SK텔레콤
+1 - Code=144670, Full Code=KR7144670007, Company=KOSEF 펀더멘탈대형주(폐지)
+1 - Code=002000, Full Code=KR7002000008, Company=한국유리
+1 - Code=183190, Full Code=KR7183190008, Company=아세아시멘트
+1 - Code=091220, Full Code=KR7091220004, Company=TIGER 은행
+1 - Code=002005, Full Code=KR7002001006, Company=한국유리우
+1 - Code=18064K, Full Code=KR718064K016, Company=한진칼우
+1 - Code=123760, Full Code=KR7123760001, Company=KBSTAR 레버리지(폐지)
+1 - Code=006900, Full Code=KR7006900005, Company=요업개발(폐지)
+1 - Code=226320, Full Code=KR7226320000, Company=잇츠스킨
+1 - Code=020000, Full Code=KR7020000006, Company=한섬
+1 - Code=020001, Full Code=KR7020000014, Company=한 섬 1(폐지)
+1 - Code=245340, Full Code=KR7245340005, Company=TIGER 미국다우존스30
+1 - Code=195970, Full Code=KR7195970009, Company=ARIRANG 선진국(합성 H)
+1 - Code=226810, Full Code=KR7226810000, Company=파워 단기채
+1 - Code=001110, Full Code=KR7001110006, Company=대농(폐지)
+1 - Code=001440, Full Code=KRA001440122, Company=대한전선 39R(폐지)
+1 - Code=024071, Full Code=KR7024070013, Company=우신산업1(폐지)
+1 - Code=024070, Full Code=KR7024070005, Company=WISCOM
+1 - Code=094800, Full Code=KR7094800000, Company=맵스리얼티1
+1 - Code=001470, Full Code=KR7001470004, Company=삼부토건
+1 - Code=00736A, Full Code=KR7007364003, Company=하나은행4우B(폐지)
+1 - Code=180640, Full Code=KRA180640161, Company=한진칼5R(폐지)
+1 - Code=213630, Full Code=KR7213630007, Company=ARIRANG 미국고배당주(합성 H)
+1 - Code=143570, Full Code=KR7143570000, Company=TIGER 인버스국채3Y(폐지)
+1 - Code=000042, Full Code=KR7000040022, Company=효성기계2(폐지)
+1 - Code=00736D, Full Code=KR7007367006, Company=하나은행7우B(폐지)
+1 - Code=252720, Full Code=KR7252720008, Company=KBSTAR 모멘텀밸류
+1 - Code=001590, Full Code=KR7001590009, Company=일화모직(폐지)
+1 - Code=114800, Full Code=KR7114800006, Company=KODEX 인버스
+1 - Code=008320, Full Code=KR7008320004, Company=한국기술산업(폐지)
+1 - Code=000860, Full Code=KR7000860007, Company=강남제비스코
+1 - Code=005389, Full Code=KR7005383005, Company=현대차3우B
+1 - Code=000640, Full Code=KR7000640003, Company=동아쏘시오홀딩스
+1 - Code=217790, Full Code=KR7217790005, Company=TIGER 가격조정
+1 - Code=136280, Full Code=KR7136280005, Company=KODEX 소비재
+1 - Code=029460, Full Code=KR7029460003, Company=케이씨텍
+1 - Code=007369, Full Code=KR7007363005, Company=하나은행3우B(폐지)
+1 - Code=132030, Full Code=KR7132030008, Company=KODEX 골드선물(H)
+1 - Code=000880, Full Code=KR7000880005, Company=한화
+1 - Code=000881, Full Code=KR7000880013, Company=한 화 1(폐지)
+1 - Code=027410, Full Code=KR7027410000, Company=BGF리테일
+1 - Code=000575, Full Code=KR7000571000, Company=금호건설우(폐지)
+1 - Code=017961, Full Code=KR7017960014, Company=한국카본1(폐지)
+1 - Code=005030, Full Code=KR7005030002, Company=부산주공
+1 - Code=001200, Full Code=KR7001200005, Company=유진투자증권
+1 - Code=006660, Full Code=KR7006660005, Company=삼성공조
+1 - Code=000570, Full Code=KR7000570002, Company=금호건설(폐지)
+1 - Code=070540, Full Code=KR7070540000, Company=코크렙II(폐지)
+1 - Code=010050, Full Code=KR7010050003, Company=우리종금
+1 - Code=010051, Full Code=KR7010050011, Company=금호종금1(폐지)
+1 - Code=005580, Full Code=KR7005580006, Company=삼익주택(폐지)
+1 - Code=011230, Full Code=KR7011230000, Company=삼화전자
+1 - Code=007367, Full Code=KR7007362007, Company=하나은행2우B(폐지)
+1 - Code=117680, Full Code=KR7117680009, Company=KODEX 철강
+1 - Code=093370, Full Code=KRA093370153, Company=후성 3R(폐지)
+1 - Code=000086, Full Code=KR7000081018, Company=진로우1신(폐지)
+1 - Code=000087, Full Code=KR7000082008, Company=하이트진로2우B
+1 - Code=000085, Full Code=KR7000081000, Company=진로우(폐지)
+1 - Code=008730, Full Code=KR7008730004, Company=율촌화학
+1 - Code=000080, Full Code=KR7000080002, Company=하이트진로
+1 - Code=000081, Full Code=KR7000080010, Company=진로1신(폐지)
+1 - Code=000240, Full Code=KR7000240002, Company=한국타이어월드와이드
+1 - Code=009156, Full Code=KR7009151010, Company=삼성전기우1(폐지)
+1 - Code=009155, Full Code=KR7009151002, Company=삼성전기우
+1 - Code=009151, Full Code=KR7009150012, Company=삼성전기1(폐지)
+1 - Code=009150, Full Code=KR7009150004, Company=삼성전기
+1 - Code=00088K, Full Code=KR700088K015, Company=한화3우B
+1 - Code=005100, Full Code=KR7005100003, Company=쌍용제지(폐지)
+1 - Code=014910, Full Code=KR7014910004, Company=성문전자
+1 - Code=014915, Full Code=KR7014911002, Company=성문전자우
+1 - Code=005105, Full Code=KR7005101001, Company=쌍용제지우(폐지)
+1 - Code=018470, Full Code=KR7018470005, Company=조일알미늄
+1 - Code=005360, Full Code=KRA005360151, Company=모나미 22R(폐지)
+1 - Code=223190, Full Code=KR7223190000, Company=KODEX 200가치저변동
+1 - Code=120115, Full Code=KR7120111000, Company=코오롱인더우
+1 - Code=012610, Full Code=KR7012610002, Company=경인양행
+1 - Code=120110, Full Code=KR7120110002, Company=코오롱인더
+1 - Code=005690, Full Code=KRA005690128, Company=파미셀 27R(폐지)
+1 - Code=J00202, Full Code=KRA0020221W4, Company=1W)코오롱 4WR(폐지)
+1 - Code=900050, Full Code=HK0000050325, Company=중국원양자원
+1 - Code=068400, Full Code=KR7068400001, Company=AJ렌터카
+1 - Code=117460, Full Code=KR7117460006, Company=KODEX 에너지화학
+1 - Code=253230, Full Code=KR7253230007, Company=KOSEF 200선물인버스2X
+1 - Code=114460, Full Code=KR7114460009, Company=KINDEX 국고채
+1 - Code=008600, Full Code=KR7008600009, Company=윌비스
+1 - Code=005740, Full Code=KR7005740006, Company=크라운제과
+1 - Code=014350, Full Code=KR7014350003, Company=신일건업(폐지)
+1 - Code=005745, Full Code=KR7005741004, Company=크라운제우
+1 - Code=140570, Full Code=KR7140570003, Company=KBSTAR 수출주
+1 - Code=008190, Full Code=KR7008190001, Company=신호전자(폐지)
+1 - Code=008191, Full Code=KR7008190019, Company=신호통신1(폐지)
+1 - Code=000242, Full Code=KR7000240028, Company=한국타이2(폐지)
+1 - Code=205720, Full Code=KR7205720006, Company=KINDEX 일본인버스(합성 H)
+1 - Code=003691, Full Code=KR7003690013, Company=대한재보1(폐지)
+1 - Code=088980, Full Code=KR7088980008, Company=맥쿼리인프라
+1 - Code=004980, Full Code=KR7004980009, Company=성신양회
+1 - Code=004987, Full Code=KR7004982005, Company=성신양회2우B
+1 - Code=004985, Full Code=KR7004981007, Company=성신양회우
+1 - Code=012760, Full Code=KR7012760005, Company=동아정기(폐지)
+1 - Code=012761, Full Code=KR7012760013, Company=동아정기1(폐지)
+1 - Code=005960, Full Code=KR7005960000, Company=동부건설
+1 - Code=005961, Full Code=KR7005960018, Company=동부건설1(폐지)
+1 - Code=005965, Full Code=KR7005961008, Company=동부건설우
+1 - Code=008040, Full Code=KR7008040008, Company=사조동아원
+1 - Code=J01116, Full Code=KRA011162161, Company=16)두산건설 2WR
+1 - Code=008480, Full Code=KR7008480006, Company=KEP전자(폐지)
+1 - Code=200880, Full Code=KR7200880003, Company=서연이화
+1 - Code=071057, Full Code=KR7071052005, Company=한국금융지주2우B(폐지)
+1 - Code=071050, Full Code=KR7071050009, Company=한국금융지주
+1 - Code=069600, Full Code=KR7069600005, Company=KODEX50(폐지)
+1 - Code=078520, Full Code=KR7078520004, Company=에이블씨엔씨
+1 - Code=107590, Full Code=KR7107590002, Company=미원에스씨
+1 - Code=104700, Full Code=KR7104700000, Company=한국철강
+1 - Code=008990, Full Code=KR7008990004, Company=중앙종금(폐지)
+1 - Code=013360, Full Code=KR7013360003, Company=일성건설
+1 - Code=013367, Full Code=KR7013362009, Company=일성건설2우B
+1 - Code=013365, Full Code=KR7013361001, Company=일성건설우B(폐지)
+1 - Code=037710, Full Code=KR7037710001, Company=광주신세계
+1 - Code=034990, Full Code=KR7034990002, Company=플러스1호(폐지)
+1 - Code=034840, Full Code=KR7034840009, Company=트윈스비전일(폐지)
+1 - Code=002900, Full Code=KR7002900009, Company=동양물산
+1 - Code=261220, Full Code=KR7261220008, Company=KODEX WTI원유선물(H)
+1 - Code=011700, Full Code=KR7011700002, Company=한신기계
+1 - Code=140950, Full Code=KR7140950007, Company=파워 K100
+1 - Code=058860, Full Code=KR7058860008, Company=케이티스
+1 - Code=032710, Full Code=KR7032710006, Company=LG카드(폐지)
+1 - Code=003230, Full Code=KR7003230000, Company=삼양식품
+1 - Code=210780, Full Code=KR7210780003, Company=TIGER 코스피고배당
+1 - Code=002340, Full Code=KR7002340008, Company=유    성(폐지)
+1 - Code=021050, Full Code=KRA021050166, Company=서원 10R(폐지)
+1 - Code=530024, Full Code=KRG537100247, Company=삼성 인도 Nifty50 선물 ETN(H)
+1 - Code=530025, Full Code=KRG537100254, Company=삼성 인버스 인도 Nifty50 선물 ETN(H)
+1 - Code=530026, Full Code=KRG537100262, Company=삼성 레버리지 인도 Nifty50 선물 ETN(H)
+1 - Code=069620, Full Code=KR7069620003, Company=대웅제약
+1 - Code=530020, Full Code=KRG532100200, Company=삼성 미국 대형 가치주 ETN
+1 - Code=152380, Full Code=KR7152380002, Company=KODEX 10년국채선물
+1 - Code=530022, Full Code=KRG532100226, Company=삼성 미국 중소형 가치주 ETN
+1 - Code=530023, Full Code=KRG536100230, Company=삼성 레버리지 China A50 선물 ETN(H)
+1 - Code=013700, Full Code=KR7013700000, Company=까뮤이앤씨
+1 - Code=530028, Full Code=KRG531100284, Company=삼성 K200 C-SP 1803-01 ETN
+1 - Code=530029, Full Code=KRG531100292, Company=삼성 K200 P-SP 1803-01 ETN
+1 - Code=211560, Full Code=KR7211560008, Company=TIGER 배당성장
+1 - Code=157510, Full Code=KR7157510009, Company=TIGER 자동차
+1 - Code=067250, Full Code=KR7067250001, Company=STX조선해양(폐지)
+1 - Code=003520, Full Code=KR7003520004, Company=영진약품
+1 - Code=007860, Full Code=KR7007860000, Company=서연
+1 - Code=019181, Full Code=KR7019180017, Company=동해전장1(폐지)
+1 - Code=138520, Full Code=KR7138520002, Company=TIGER 삼성그룹
+1 - Code=079430, Full Code=KR7079430005, Company=현대리바트
+1 - Code=J07324, Full Code=KRA0732421W9, Company=1W)금호타이어 1WR
+1 - Code=006110, Full Code=KR7006110001, Company=삼아알미늄
+1 - Code=J00535, Full Code=KRA005351K60, Company=K6)봉신1WR(폐지)
+1 - Code=007460, Full Code=KRA007460124, Company=케이아이씨 13R(폐지)
+1 - Code=006590, Full Code=KR7006590004, Company=강원은행(폐지)
+1 - Code=025540, Full Code=KR7025540006, Company=한국단자
+1 - Code=091180, Full Code=KR7091180000, Company=KODEX 자동차
+1 - Code=006600, Full Code=KR7006600001, Company=동신제약(폐지)
+1 - Code=006605, Full Code=KR7006601009, Company=동신제약우(폐지)
+1 - Code=016511, Full Code=KR7016510018, Company=주리원1(폐지)
+1 - Code=016510, Full Code=KR7016510000, Company=현대DSF(폐지)
+1 - Code=017390, Full Code=KR7017390006, Company=서울가스
+1 - Code=000500, Full Code=KR7000500009, Company=가온전선
+1 - Code=023135, Full Code=KR7023131006, Company=국민은행우B(폐지)
+1 - Code=001697, Full Code=KR7001692003, Company=두산테크팩2우B(폐지)
+1 - Code=001690, Full Code=KR7001690007, Company=두산테크팩(폐지)
+1 - Code=001691, Full Code=KR7001690015, Company=두산유리1(폐지)
+1 - Code=002015, Full Code=KR7002011005, Company=삼성건설우선(폐지)
+1 - Code=002010, Full Code=KR7002010007, Company=삼성건설(폐지)
+1 - Code=003830, Full Code=KR7003830007, Company=대한화섬
+1 - Code=047810, Full Code=KR7047810007, Company=한국항공우주
+1 - Code=023130, Full Code=KR7023130008, Company=국민은행(폐지)
+1 - Code=005490, Full Code=KR7005490008, Company=POSCO
+1 - Code=237440, Full Code=KR7237440003, Company=TIGER 경기방어채권혼합
+1 - Code=000475, Full Code=KR7000471003, Company=국제화재우(폐지)
+1 - Code=017801, Full Code=KR7017800012, Company=현대엘리베이1(폐지)
+1 - Code=000470, Full Code=KR7000470005, Company=그린손해보험(폐지)
+1 - Code=239660, Full Code=KR7239660004, Company=ARIRANG 우량회사채50
+1 - Code=580001, Full Code=KRG581100010, Company=KB 코스피200선물플러스 ETN
+1 - Code=580003, Full Code=KRG581100036, Company=KB Monthly Best 11 ETN
+1 - Code=580002, Full Code=KRG581100028, Company=KB Quant비중조절 ETN
+1 - Code=580005, Full Code=KRG581100051, Company=KB 우량주 Monthly Best 11 ETN
+1 - Code=580004, Full Code=KRG581100044, Company=KB KQ Monthly Best 11 ETN
+1 - Code=580007, Full Code=KRG581100077, Company=KB KQ 우량주30 ETN
+1 - Code=580006, Full Code=KRG581100069, Company=KB KTOP30 ETN
+1 - Code=010600, Full Code=KR7010600005, Company=와이비로드
+1 - Code=003985, Full Code=KR7003981008, Company=한일합섬우(폐지)
+1 - Code=252730, Full Code=KR7252730007, Company=KBSTAR 모멘텀로우볼
+1 - Code=020121, Full Code=KR7020120010, Company=엘렉스컴1(폐지)
+1 - Code=020120, Full Code=KR7020120002, Company=다우인큐브
+1 - Code=080180, Full Code=KR7080180003, Company=아시아1호(폐지)
+1 - Code=000650, Full Code=KR7000650002, Company=천일고속
+1 - Code=143210, Full Code=KR7143210003, Company=핸즈코퍼레이션
+1 - Code=010421, Full Code=KR7010420016, Company=한솔텔레1(폐지)
+1 - Code=010420, Full Code=KR7010420008, Company=한솔PNS
+1 - Code=010422, Full Code=KR7010420024, Company=한솔텔레2(폐지)
+1 - Code=000895, Full Code=KR7000891002, Company=보해양조우(폐지)
+1 - Code=000890, Full Code=KR7000890004, Company=보해양조
+1 - Code=083570, Full Code=KR7083570002, Company=아시아10호
+1 - Code=02313B, Full Code=KR7023135007, Company=국민은행5우B(폐지)
+1 - Code=225060, Full Code=KR7225060003, Company=TIGER 이머징마켓레버리지(합성 H)
+1 - Code=080980, Full Code=KR7080980006, Company=동북아5호(폐지)
+1 - Code=001270, Full Code=KR7001270008, Company=부국증권
+1 - Code=005020, Full Code=KR7005020003, Company=장기은행(폐지)
+1 - Code=001275, Full Code=KR7001271006, Company=부국증권우
+1 - Code=245350, Full Code=KR7245350004, Company=TIGER 유로스탁스배당30
+1 - Code=030711, Full Code=KR7030710016, Company=동아금고1(폐지)
+1 - Code=030710, Full Code=KR7030710008, Company=동아금고(폐지)
+1 - Code=010040, Full Code=KR7010040004, Company=한국내화
+1 - Code=010730, Full Code=KR7010730000, Company=금강화섬(폐지)
